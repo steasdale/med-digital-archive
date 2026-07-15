@@ -1,0 +1,810 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@type" : "sc:Manifest",
+  "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/manifest",
+  "label" : "Antico Comune, 21",
+  "metadata" : [ {
+    "label" : "pressmark",
+    "value" : "Archivio di Stato di Genova, Antico Comune, 21"
+  }, {
+    "label" : "sgtt",
+    "value" : "Antico Comune, 21"
+  }, {
+    "label" : "uuid",
+    "value" : "13d75da5-89c7-40a4-b8a4-52c44588cf41"
+  } ],
+  "sequences" : [ {
+    "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/sequence/default",
+    "@type" : "sc:Sequence",
+    "label" : "default",
+    "startCanvas" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/7e6b74b5-dfe4-439b-8a92-47af5d44b55d",
+    "canvases" : [ {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/7e6b74b5-dfe4-439b-8a92-47af5d44b55d",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (1).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (1).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7e6b74b5-dfe4-439b-8a92-47af5d44b55d",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7e6b74b5-dfe4-439b-8a92-47af5d44b55d",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/7e6b74b5-dfe4-439b-8a92-47af5d44b55d"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/f9789e47-4da1-48e3-84d3-684ebbf1bcca",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (2).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (2).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f9789e47-4da1-48e3-84d3-684ebbf1bcca",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f9789e47-4da1-48e3-84d3-684ebbf1bcca",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/f9789e47-4da1-48e3-84d3-684ebbf1bcca"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/ebedc211-dd36-4170-b5e3-3c3708cfa7f5",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (3).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (3).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ebedc211-dd36-4170-b5e3-3c3708cfa7f5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ebedc211-dd36-4170-b5e3-3c3708cfa7f5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/ebedc211-dd36-4170-b5e3-3c3708cfa7f5"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/8debeee7-47a6-49b0-9cb4-fdf004882a2c",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (4).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (4).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/8debeee7-47a6-49b0-9cb4-fdf004882a2c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/8debeee7-47a6-49b0-9cb4-fdf004882a2c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/8debeee7-47a6-49b0-9cb4-fdf004882a2c"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/dbba65c6-519c-4a1b-99ac-9a4038038a74",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (5).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (5).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/dbba65c6-519c-4a1b-99ac-9a4038038a74",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/dbba65c6-519c-4a1b-99ac-9a4038038a74",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/dbba65c6-519c-4a1b-99ac-9a4038038a74"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/53498205-2769-4f28-9ad4-54e29b5bc0b5",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (6).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (6).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/53498205-2769-4f28-9ad4-54e29b5bc0b5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/53498205-2769-4f28-9ad4-54e29b5bc0b5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/53498205-2769-4f28-9ad4-54e29b5bc0b5"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/a778ff64-a067-4607-a17d-35f16e221091",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (7).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (7).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a778ff64-a067-4607-a17d-35f16e221091",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a778ff64-a067-4607-a17d-35f16e221091",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/a778ff64-a067-4607-a17d-35f16e221091"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/b9d743b6-b597-4fbe-860c-a4b2b27408ac",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (8).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (8).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b9d743b6-b597-4fbe-860c-a4b2b27408ac",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b9d743b6-b597-4fbe-860c-a4b2b27408ac",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/b9d743b6-b597-4fbe-860c-a4b2b27408ac"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/3c8beb67-c5eb-4346-8745-2f2bc1938784",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (9).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (9).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3c8beb67-c5eb-4346-8745-2f2bc1938784",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3c8beb67-c5eb-4346-8745-2f2bc1938784",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/3c8beb67-c5eb-4346-8745-2f2bc1938784"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/6448b60b-e578-45f2-90b0-606bc91938ce",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (10).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (10).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6448b60b-e578-45f2-90b0-606bc91938ce",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6448b60b-e578-45f2-90b0-606bc91938ce",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/6448b60b-e578-45f2-90b0-606bc91938ce"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/6c714d91-bd1f-457e-b52c-a3eb25866d4b",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (11).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (11).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6c714d91-bd1f-457e-b52c-a3eb25866d4b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6c714d91-bd1f-457e-b52c-a3eb25866d4b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/6c714d91-bd1f-457e-b52c-a3eb25866d4b"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/f18dbb4b-4317-4337-8764-33b54705b5b1",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (12).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (12).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f18dbb4b-4317-4337-8764-33b54705b5b1",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f18dbb4b-4317-4337-8764-33b54705b5b1",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/f18dbb4b-4317-4337-8764-33b54705b5b1"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/edcfc636-5f51-44ed-9e52-0d92ddddd123",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (13).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (13).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/edcfc636-5f51-44ed-9e52-0d92ddddd123",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/edcfc636-5f51-44ed-9e52-0d92ddddd123",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/edcfc636-5f51-44ed-9e52-0d92ddddd123"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/955fb1c0-8738-4681-b20b-cc516f0a09cb",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (14).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (14).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/955fb1c0-8738-4681-b20b-cc516f0a09cb",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/955fb1c0-8738-4681-b20b-cc516f0a09cb",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/955fb1c0-8738-4681-b20b-cc516f0a09cb"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/7d6f4cdc-c881-451d-a190-16195aa5099a",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (15).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (15).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7d6f4cdc-c881-451d-a190-16195aa5099a",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7d6f4cdc-c881-451d-a190-16195aa5099a",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/7d6f4cdc-c881-451d-a190-16195aa5099a"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/a484090d-7b2b-4e89-8a5b-5ff30a11aae6",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (16).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (16).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a484090d-7b2b-4e89-8a5b-5ff30a11aae6",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a484090d-7b2b-4e89-8a5b-5ff30a11aae6",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/a484090d-7b2b-4e89-8a5b-5ff30a11aae6"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/cd47af70-790d-4f01-8f88-31d1d533e254",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (17).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (17).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/cd47af70-790d-4f01-8f88-31d1d533e254",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/cd47af70-790d-4f01-8f88-31d1d533e254",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/cd47af70-790d-4f01-8f88-31d1d533e254"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/863167f4-ec22-44e3-ac61-b8488198baa7",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (18).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (18).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/863167f4-ec22-44e3-ac61-b8488198baa7",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/863167f4-ec22-44e3-ac61-b8488198baa7",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/863167f4-ec22-44e3-ac61-b8488198baa7"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/5641a510-9281-4876-8d60-28d56bf22d1e",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (19).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (19).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/5641a510-9281-4876-8d60-28d56bf22d1e",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/5641a510-9281-4876-8d60-28d56bf22d1e",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/5641a510-9281-4876-8d60-28d56bf22d1e"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/e5a1b14c-eaf9-4f47-abf6-3feb2fac4a68",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (20).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (20).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e5a1b14c-eaf9-4f47-abf6-3feb2fac4a68",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e5a1b14c-eaf9-4f47-abf6-3feb2fac4a68",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/e5a1b14c-eaf9-4f47-abf6-3feb2fac4a68"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/9e685d9d-eada-40b7-ba94-9e4aa137fd05",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (21).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (21).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9e685d9d-eada-40b7-ba94-9e4aa137fd05",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9e685d9d-eada-40b7-ba94-9e4aa137fd05",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/9e685d9d-eada-40b7-ba94-9e4aa137fd05"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/9cf3eb65-901a-42fe-9fe4-790b3789a13a",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (22).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (22).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9cf3eb65-901a-42fe-9fe4-790b3789a13a",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9cf3eb65-901a-42fe-9fe4-790b3789a13a",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/9cf3eb65-901a-42fe-9fe4-790b3789a13a"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/207e1717-57f8-47ee-ae37-3c30cab47e45",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (23).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (23).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/207e1717-57f8-47ee-ae37-3c30cab47e45",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/207e1717-57f8-47ee-ae37-3c30cab47e45",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/207e1717-57f8-47ee-ae37-3c30cab47e45"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/09201d8a-7053-48f9-aba7-36cdc95299c8",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (24).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (24).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/09201d8a-7053-48f9-aba7-36cdc95299c8",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/09201d8a-7053-48f9-aba7-36cdc95299c8",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/09201d8a-7053-48f9-aba7-36cdc95299c8"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/e688d2f2-5135-4231-8cfe-e11ee75e38af",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (25).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (25).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e688d2f2-5135-4231-8cfe-e11ee75e38af",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e688d2f2-5135-4231-8cfe-e11ee75e38af",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/e688d2f2-5135-4231-8cfe-e11ee75e38af"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/1da41009-239c-4db9-9c5c-a016fc35cbbf",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (26).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (26).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/1da41009-239c-4db9-9c5c-a016fc35cbbf",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/1da41009-239c-4db9-9c5c-a016fc35cbbf",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/1da41009-239c-4db9-9c5c-a016fc35cbbf"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/50d7cca4-0530-4598-ba83-577e07b2fc0e",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (27).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (27).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/50d7cca4-0530-4598-ba83-577e07b2fc0e",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/50d7cca4-0530-4598-ba83-577e07b2fc0e",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/50d7cca4-0530-4598-ba83-577e07b2fc0e"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/1ae4b7f1-a77f-4b2b-ae39-2ee758e1e951",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (28).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (28).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/1ae4b7f1-a77f-4b2b-ae39-2ee758e1e951",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/1ae4b7f1-a77f-4b2b-ae39-2ee758e1e951",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/1ae4b7f1-a77f-4b2b-ae39-2ee758e1e951"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/c10edf71-2489-419a-86fc-de313be8b3a0",
+      "@type" : "sc:Canvas",
+      "label" : "Antico Comune_0021 (29).tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Antico Comune_0021 (29).tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c10edf71-2489-419a-86fc-de313be8b3a0",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c10edf71-2489-419a-86fc-de313be8b3a0",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2297,
+          "height" : 3406
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/13d75da5-89c7-40a4-b8a4-52c44588cf41/canvas/c10edf71-2489-419a-86fc-de313be8b3a0"
+      } ],
+      "width" : 2297,
+      "height" : 3406
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://asge.jarvis.memooria.org/images/db/7e6b74b5-dfe4-439b-8a92-47af5d44b55d/thumb.jpg",
+    "format" : "image/jpeg"
+  }
+}
