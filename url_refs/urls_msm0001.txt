@@ -1,0 +1,698 @@
+# Manoscritti membranacei _carte_ I_1.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ae95ccdb-9a85-4dff-be17-4db80e351ca9/info.json
+# Manoscritti membranacei _carte_I_2.tif
+https://asge.jarvis.memooria.org/images/iiif/db/11ee475c-5126-4baa-868c-fff5af1f6b07/info.json
+# Manoscritti membranacei carte_I_3.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9e8b05fb-9a6d-4291-8d83-14969b21bcd7/info.json
+# Manoscritti membranacei carte_I_4.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0e082e11-f5fa-4a4a-97d4-ea4f4f399257/info.json
+# Manoscritti membranacei carte_I_coperta.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e00757a5-911f-42a3-aee6-4b6356d80b84/info.json
+# Manoscritti membranacei I_001r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/23952655-bf1c-48cb-a8e7-3a2211c8c562/info.json
+# Manoscritti membranacei I_001v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3a26fd3f-f3c0-4485-96af-438c33bf4689/info.json
+# Manoscritti membranacei I_002r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/368edb67-024a-4b6f-b384-4140271b930d/info.json
+# Manoscritti membranacei I_002v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c558c578-3b36-458c-97f4-391fac3979b3/info.json
+# Manoscritti membranacei I_003r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/251ce004-dc3a-4fe3-a633-914698c96fe6/info.json
+# Manoscritti membranacei I_003v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d946579f-acdc-4eb2-a7dc-b3eda9b3aca9/info.json
+# Manoscritti membranacei I_004a_r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ee177cd4-027c-46d3-a49f-b31a18dd8245/info.json
+# Manoscritti membranacei I_004a_v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/146d20f9-f34e-4837-93e5-5943401a0123/info.json
+# Manoscritti membranacei I_004r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/edf01bfa-1f20-4caf-bc7f-4538d4dfc802/info.json
+# Manoscritti membranacei I_004v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1334c122-37ef-4954-a8c6-fcb7f7a6f114/info.json
+# Manoscritti membranacei I_005r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/be78cca0-bc16-4fba-9775-7ad65bc44a4d/info.json
+# Manoscritti membranacei I_005v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dc1838cc-3b68-40ae-8d7d-72345d732db9/info.json
+# Manoscritti membranacei I_006r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8e3836ea-1d93-4912-98fa-ef60c001a779/info.json
+# Manoscritti membranacei I_006v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/edbf3e29-ed0b-4670-8b0a-2bdb03a76ebb/info.json
+# Manoscritti membranacei I_007r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bdb2ab2f-fd36-4230-a945-9d1f3ea028bd/info.json
+# Manoscritti membranacei I_007v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3393016a-8b14-43a5-b333-427a8feae5b3/info.json
+# Manoscritti membranacei I_008r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0a46f6ad-1b6c-4b48-9ce3-6274bc8477a9/info.json
+# Manoscritti membranacei I_008v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bb8823d5-dcdb-4a2b-b8f4-3fb4a9936200/info.json
+# Manoscritti membranacei I_009r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/67d697ce-69c0-433a-98b7-c86313a6909f/info.json
+# Manoscritti membranacei I_009v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e9098df8-c928-48ca-ae15-bbe3c10729ea/info.json
+# Manoscritti membranacei I_010r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6ef8812a-c8a9-46d2-942c-3a4297473b44/info.json
+# Manoscritti membranacei I_010v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/df744efd-2268-4fd5-b98b-af92e6c6021e/info.json
+# Manoscritti membranacei I_011r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dd5add14-1ae5-4cae-bce9-4a86d23d2e81/info.json
+# Manoscritti membranacei I_011v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/215127af-9ade-4bf4-8960-2aa277faa615/info.json
+# Manoscritti membranacei I_012r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8e06bad9-8c58-4c5d-b8a0-33dcaa277b2b/info.json
+# Manoscritti membranacei I_012v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ec6fc89f-d425-469d-bcef-e8ee83786b5a/info.json
+# Manoscritti membranacei I_013r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/529bb6bb-c108-47df-b450-7730b9322957/info.json
+# Manoscritti membranacei I_013v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ced4137a-234d-4148-ba5f-ae4d6f4ee29a/info.json
+# Manoscritti membranacei I_014r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d7c950e2-c850-48c5-8de8-b70cc945f2ed/info.json
+# Manoscritti membranacei I_014v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d4158607-c255-4c64-800c-9fed5db04e32/info.json
+# Manoscritti membranacei I_015r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0f18337f-3667-4b76-8d41-2e94b161137f/info.json
+# Manoscritti membranacei I_015v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/07d4aa78-822d-4ff2-85d6-d682c0149016/info.json
+# Manoscritti membranacei I_016r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6a0167db-d0d6-4cea-9feb-80a548e0ae5f/info.json
+# Manoscritti membranacei I_016v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c0a4e4c6-0aaf-49c6-bfd1-3349b2a60b4a/info.json
+# Manoscritti membranacei I_017r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9ea8d156-b2f9-4f2b-ac8f-4510c9f24657/info.json
+# Manoscritti membranacei I_017v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6e931de2-b324-464a-a26e-ce4b363bf479/info.json
+# Manoscritti membranacei I_018r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/09ed40a1-f959-4b66-9798-1b9e7406a6a6/info.json
+# Manoscritti membranacei I_018v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0f2c71d5-8382-482d-a720-82c61dfcccff/info.json
+# Manoscritti membranacei I_019r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ae4db8d4-cc8c-4ac4-b990-b136595f243b/info.json
+# Manoscritti membranacei I_019v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4e442745-9eb2-473d-b6b5-318aec7a6b25/info.json
+# Manoscritti membranacei I_020r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e33305e1-2f04-4475-a724-beb32dcfe2af/info.json
+# Manoscritti membranacei I_020v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6fce5d21-1fb5-4e8c-8ba2-51cf1b5ecdaa/info.json
+# Manoscritti membranacei I_021r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/041e0005-da73-49a6-a501-0c42619e722f/info.json
+# Manoscritti membranacei I_021v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1dce5810-a706-4536-9630-d48d2a18c882/info.json
+# Manoscritti membranacei I_022r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2f2f2ef0-af94-4ec3-b01a-1d406b05303d/info.json
+# Manoscritti membranacei I_022v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/eac9ec55-0b1d-424e-aab9-ad70dff53279/info.json
+# Manoscritti membranacei I_023r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ef482bfa-2432-4ec2-af85-ac0276d15c6b/info.json
+# Manoscritti membranacei I_023v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3461a85c-1f3a-4ef4-86cb-f5ebfe68d2e7/info.json
+# Manoscritti membranacei I_024r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/edf2ae03-938a-4bf3-8ef6-e25f6d8c872c/info.json
+# Manoscritti membranacei I_024v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9919b327-963a-43b2-a1ca-a018861addba/info.json
+# Manoscritti membranacei I_025r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5ff07ba2-7621-482f-93e0-2d8e1e4d42f7/info.json
+# Manoscritti membranacei I_025v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7f40bf36-fc6f-415e-a631-a020053c30eb/info.json
+# Manoscritti membranacei I_026r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/987b1ff6-5844-4d59-b595-20cea082fe47/info.json
+# Manoscritti membranacei I_026v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9627d44a-f9dc-413f-a06e-6eaebe7fba30/info.json
+# Manoscritti membranacei I_027r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a8b5506a-2f9f-4745-85a2-93c47aef0bfb/info.json
+# Manoscritti membranacei I_027v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cd1a434b-894e-4ca5-93e2-fb5f3ec20319/info.json
+# Manoscritti membranacei I_028r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/edc29023-5886-4676-bacf-1e9e9335ba9f/info.json
+# Manoscritti membranacei I_028v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3eec1cba-3b02-4794-b328-4920206a1cb6/info.json
+# Manoscritti membranacei I_029r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/503eea3c-e653-4715-b631-77b2cb379be8/info.json
+# Manoscritti membranacei I_029v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f8696cca-c448-4742-abae-47bd50306bd4/info.json
+# Manoscritti membranacei I_030r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3e050e08-0222-4ea5-9354-3ea8569cded3/info.json
+# Manoscritti membranacei I_030v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b008835e-ed0d-44e0-91cd-783a117a59c1/info.json
+# Manoscritti membranacei I_031r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7b2c3d40-ec85-4529-9380-17dc7d17ee21/info.json
+# Manoscritti membranacei I_031v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cf69d35e-6063-428b-880f-111f2c2a65f7/info.json
+# Manoscritti membranacei I_032r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5dea66c3-1b3d-4b44-9041-c79f882e83f1/info.json
+# Manoscritti membranacei I_032v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d56741ab-0175-457c-bb9b-d353f41697e8/info.json
+# Manoscritti membranacei I_033r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d76f5dcd-7596-4442-be7e-c5448109d705/info.json
+# Manoscritti membranacei I_033v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4d45b942-6de4-4fd5-a766-9030586a3a1a/info.json
+# Manoscritti membranacei I_034r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/25fef921-8915-4f50-a247-d75d095a5d2a/info.json
+# Manoscritti membranacei I_034v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/afe87213-7375-4d01-bf14-7a34fd657828/info.json
+# Manoscritti membranacei I_035r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d5cfc153-de4e-494e-9d07-d2fa13a97b29/info.json
+# Manoscritti membranacei I_035v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d60dad65-7450-4ece-a84e-94acc011a238/info.json
+# Manoscritti membranacei I_036r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9cc5102a-59bb-466c-a9b6-74316367404b/info.json
+# Manoscritti membranacei I_036v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f5370ed8-ceef-4a9a-b71d-d3adb5eabf40/info.json
+# Manoscritti membranacei I_037r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b21d748e-f4b8-4fdc-89fb-b558fa872688/info.json
+# Manoscritti membranacei I_037v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7f8e46be-918a-4b72-a0be-7a3a3844b16e/info.json
+# Manoscritti membranacei I_038r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/84331f7e-4534-436d-8e1b-a6e87d2d85f2/info.json
+# Manoscritti membranacei I_038v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/18a37d89-8f47-4d5d-bc08-da383cb476ac/info.json
+# Manoscritti membranacei I_039r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/28fb3b05-253c-465b-9e52-3939d5f317b3/info.json
+# Manoscritti membranacei I_039v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/83600842-b970-4340-9b34-2c3c967db82e/info.json
+# Manoscritti membranacei I_040r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c900a1f3-b7a7-4d08-9447-ebe46b2c904e/info.json
+# Manoscritti membranacei I_040v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6bcae62d-2fd3-4e53-ab85-5b5335916f73/info.json
+# Manoscritti membranacei I_041r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2235d2fa-f821-46cc-8d50-cb5de15f5afa/info.json
+# Manoscritti membranacei I_041v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f6f381bc-7be1-40b9-9939-ec7860313218/info.json
+# Manoscritti membranacei I_042r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6593a3d9-33bb-4f86-933c-bf532eb39c36/info.json
+# Manoscritti membranacei I_042v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bcc5c1d9-3ebb-42b6-8ab5-023e2bd159ca/info.json
+# Manoscritti membranacei I_043r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/db47534a-280a-4c8a-9c72-0444075063e5/info.json
+# Manoscritti membranacei I_043v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/10d0ebe5-a5a2-4c3d-aae4-af08b460b4c2/info.json
+# Manoscritti membranacei I_044r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b7b6e25a-619b-4526-8d6a-11907d7ed8fe/info.json
+# Manoscritti membranacei I_044v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/60296aeb-9cd6-448c-82ef-b7d2268e194c/info.json
+# Manoscritti membranacei I_045r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/415accf1-ade7-4cf9-8e4c-842db38cd41e/info.json
+# Manoscritti membranacei I_045v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2fe7a1c2-01a8-4099-a34e-f44689b8fa17/info.json
+# Manoscritti membranacei I_046r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1cba0ec6-7c65-4bd3-a705-f74893deeee7/info.json
+# Manoscritti membranacei I_046v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/732ae25c-eeea-4dd0-9b99-c8beab79f7fa/info.json
+# Manoscritti membranacei I_047r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/70c5bfa5-9bbe-4da8-a789-9fa13c35e040/info.json
+# Manoscritti membranacei I_047v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8ad7c1bf-b541-410a-8fd1-c42b6e5f2b4d/info.json
+# Manoscritti membranacei I_048r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/75ceef97-b623-4c12-81a5-45efd883ceb1/info.json
+# Manoscritti membranacei I_048v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cf6e8598-7123-44b5-bd7b-ee01adadbb0a/info.json
+# Manoscritti membranacei I_049r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ed082f5d-d790-49b1-b87c-d100f630b7c5/info.json
+# Manoscritti membranacei I_049v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6b16c5c4-5e47-4383-a4b4-91d29de53af1/info.json
+# Manoscritti membranacei I_050r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/30cfcb1d-8408-44b7-99f4-aec2048a8ac7/info.json
+# Manoscritti membranacei I_050v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/34d2799b-e8ca-4cd3-9475-08f531750ca5/info.json
+# Manoscritti membranacei I_051r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f921d3ce-162c-40cc-a203-04e9e7b0c1ba/info.json
+# Manoscritti membranacei I_051v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/af339683-cc71-43e4-ad08-903a3698e47a/info.json
+# Manoscritti membranacei I_052r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f5529e46-abec-4eeb-84d4-703d1f75f789/info.json
+# Manoscritti membranacei I_052v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c6f09fd7-f4d3-4ede-bfe5-dbfdbd160575/info.json
+# Manoscritti membranacei I_053r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9e988f8a-3e10-409a-8fd7-3bb5f86cddd2/info.json
+# Manoscritti membranacei I_053v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9ee5929e-f51c-4b2e-8f65-c73b36a2bea3/info.json
+# Manoscritti membranacei I_054r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2742231e-9dc4-4cb1-8467-e156ef713400/info.json
+# Manoscritti membranacei I_054v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ad14f0aa-5c82-4f9e-8d6c-095d7c2538b8/info.json
+# Manoscritti membranacei I_055r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5c932f51-b119-4015-953e-68139dfe40b8/info.json
+# Manoscritti membranacei I_055v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c15a4786-7fc6-46d1-99d2-e9d9da3b707d/info.json
+# Manoscritti membranacei I_056r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5e406af5-8824-49df-a3be-cf06fbab5a95/info.json
+# Manoscritti membranacei I_056v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3f687868-3ef1-4196-b4c5-30ef281987d1/info.json
+# Manoscritti membranacei I_057r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/87526513-dafe-4522-86cd-72bdc3d29e1c/info.json
+# Manoscritti membranacei I_057v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b69c84a4-568e-4624-ad50-2981cd12b6f2/info.json
+# Manoscritti membranacei I_058r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ca954e9a-215d-4795-9e97-1d24209cb920/info.json
+# Manoscritti membranacei I_058v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6df10bc3-def3-448a-8393-d0ccc4ebf3b5/info.json
+# Manoscritti membranacei I_059r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/650b5a49-2da4-4bea-8beb-60c0f2aed58c/info.json
+# Manoscritti membranacei I_059v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bb6fdcf2-5ed1-49b5-ae87-75ce5f66da1e/info.json
+# Manoscritti membranacei I_060r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/846fdb07-a624-48b8-8f6a-cae75f94e613/info.json
+# Manoscritti membranacei I_060v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6ce538f2-6bc0-46dc-9ff1-25bfb9e47898/info.json
+# Manoscritti membranacei I_061r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9fb625d9-bc33-47a6-9316-6da00761fbfb/info.json
+# Manoscritti membranacei I_061v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4c9e5550-3825-4558-a87d-3946f8c06360/info.json
+# Manoscritti membranacei I_062r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4df26009-cf29-414a-8566-35a14cd56a83/info.json
+# Manoscritti membranacei I_062v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2f90c46b-01b9-4ce5-b24e-8166eb44260b/info.json
+# Manoscritti membranacei I_063r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2190882f-731e-4258-8725-7b614af08998/info.json
+# Manoscritti membranacei I_063v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e4119145-0d0d-4693-b304-9258be32df0b/info.json
+# Manoscritti membranacei I_064r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6d62ec84-12d1-4fab-8d8d-769204f75f54/info.json
+# Manoscritti membranacei I_064v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/381bb5fb-8ac6-43ac-9012-fb0669a9354a/info.json
+# Manoscritti membranacei I_065r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/080169b7-9aae-4e27-9535-65a9d085d873/info.json
+# Manoscritti membranacei I_065v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/48758278-7811-473c-bce6-321173b7a673/info.json
+# Manoscritti membranacei I_066r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9e0ea611-d1a0-434c-b11a-a64c0f67d1d3/info.json
+# Manoscritti membranacei I_066v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a289ed10-3940-4ebe-90a5-75b716180cdb/info.json
+# Manoscritti membranacei I_067r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3e20a8ad-5945-4ad8-a9d0-72d9e399cc7b/info.json
+# Manoscritti membranacei I_067v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4a8564c3-cfbe-4596-8eae-152200d484d7/info.json
+# Manoscritti membranacei I_068r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/20a9177a-d50e-4564-8fcf-571b6f0f519c/info.json
+# Manoscritti membranacei I_068v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/72074517-c5b4-4d08-bebe-ba0d9fcfc280/info.json
+# Manoscritti membranacei I_069r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3b490311-2a28-490a-9bd8-1656cd6f9535/info.json
+# Manoscritti membranacei I_069v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/608db72c-cdcd-4236-9772-ee62a4773a6f/info.json
+# Manoscritti membranacei I_070r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c377acd3-1d3f-4f0e-9518-d0d644d3a11e/info.json
+# Manoscritti membranacei I_070v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7bbe21b1-9020-4f66-a838-e57ced5d1d0b/info.json
+# Manoscritti membranacei I_071r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/083ba32a-1727-4008-806e-ad5551d1af44/info.json
+# Manoscritti membranacei I_071v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0a204b83-a77c-41c5-8bf4-175ba90ba78e/info.json
+# Manoscritti membranacei I_072r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cec52bd1-0de1-4d2c-a2bc-dc6236246165/info.json
+# Manoscritti membranacei I_072v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9cce6672-5410-4cfd-893d-f112e77bd666/info.json
+# Manoscritti membranacei I_073r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cc71b5b2-7e18-4c6c-9f29-c4da19da89b1/info.json
+# Manoscritti membranacei I_073v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/eb93bc13-bb8d-49a6-b174-3961b6bf2c42/info.json
+# Manoscritti membranacei I_074r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7f7e2408-a037-48f8-aa98-62d9314bc3bc/info.json
+# Manoscritti membranacei I_074v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5f0b154d-5862-4638-a294-a326ba295bce/info.json
+# Manoscritti membranacei I_075r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/df01d86d-5f18-420a-a950-34cc75d9f01c/info.json
+# Manoscritti membranacei I_075v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6be1671e-ff84-41f7-aab3-6ceff0c05539/info.json
+# Manoscritti membranacei I_076r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1f113e37-5e1a-4945-a4d1-b8b0b81412a0/info.json
+# Manoscritti membranacei I_076v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ea04e507-6e69-4720-be2c-dc2adafc1649/info.json
+# Manoscritti membranacei I_077r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/56be26c0-e535-4c27-8f3c-5356e937749a/info.json
+# Manoscritti membranacei I_077v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e549038a-fef1-4425-9e1f-1c72e3c2f329/info.json
+# Manoscritti membranacei I_078r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d14db48d-0397-41a8-b8f2-b87a29b0922a/info.json
+# Manoscritti membranacei I_078v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7181a08c-2db2-4d05-8d64-d4f1caf09698/info.json
+# Manoscritti membranacei I_079r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2d6f5d40-d471-4136-aa83-4528b1dbf81c/info.json
+# Manoscritti membranacei I_079v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7fa8d76d-d412-44dc-b40e-a867c5c03392/info.json
+# Manoscritti membranacei I_080r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b686977b-c81b-483b-b98c-123ed024aa32/info.json
+# Manoscritti membranacei I_080v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8bb20505-c4d7-4baf-8db5-eda96469bc8b/info.json
+# Manoscritti membranacei I_081r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9b1a2886-ab08-4893-a29d-0ef46dad22ef/info.json
+# Manoscritti membranacei I_081v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/479104fc-8230-4459-8836-9cac68c30170/info.json
+# Manoscritti membranacei I_082r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/615baff1-4ecd-4df0-ac45-0e6234ebf5e2/info.json
+# Manoscritti membranacei I_082v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/508c2654-efdb-41e7-a7aa-1bece172786e/info.json
+# Manoscritti membranacei I_083r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/66ffec1b-31eb-4330-a9aa-5445b8998854/info.json
+# Manoscritti membranacei I_083v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/397caf95-0d5d-47c5-8736-5af251e4005a/info.json
+# Manoscritti membranacei I_084r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8015f37f-1e7a-4c4d-aa0e-3adca602ba4d/info.json
+# Manoscritti membranacei I_084v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/44e3b748-013e-46ec-acb2-3a303d8e0acb/info.json
+# Manoscritti membranacei I_085r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bbdd67df-ee7d-417f-83ae-731f386743c6/info.json
+# Manoscritti membranacei I_085v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/45eddb37-2aba-41b8-a9fb-49905abd2cf7/info.json
+# Manoscritti membranacei I_086r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d8a39cee-222f-4109-8eac-053f5cc75e5b/info.json
+# Manoscritti membranacei I_086v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4c12ce35-c5a6-40a9-a9dc-6205052eb04f/info.json
+# Manoscritti membranacei I_087r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5f7bc29c-49ed-4d11-b1f6-84a16c8db691/info.json
+# Manoscritti membranacei I_087v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/48958653-7a5d-49e4-b634-e1f968e044ca/info.json
+# Manoscritti membranacei I_088r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f65364e6-6cdb-4746-9e78-b1739531dc00/info.json
+# Manoscritti membranacei I_088v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/77e5ecad-dd8b-4c47-a571-edd8db9d2442/info.json
+# Manoscritti membranacei I_089r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/89aa23fb-d26f-45ba-a9d5-0bb400baa57a/info.json
+# Manoscritti membranacei I_089v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5cf583e5-0d3e-4f45-b37e-55706983c3df/info.json
+# Manoscritti membranacei I_090r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/443d1447-6fb5-4902-ac0e-9db509f76678/info.json
+# Manoscritti membranacei I_090v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1a4642b4-74a1-4c66-993d-7b6799895aab/info.json
+# Manoscritti membranacei I_091r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c0748904-0ae5-402f-869b-0f107c35859f/info.json
+# Manoscritti membranacei I_091v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7aeacd80-a588-494b-8674-059ade126442/info.json
+# Manoscritti membranacei I_092r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/53435980-ac16-4176-9f2b-17c4db64fb6b/info.json
+# Manoscritti membranacei I_092v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a786566b-ff84-4fae-8b70-4e481633a50f/info.json
+# Manoscritti membranacei I_093r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c2e469d9-3d71-45c8-89f9-d4747ea09494/info.json
+# Manoscritti membranacei I_093v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/59456dfb-6edb-42e2-8626-a98d8ebbcda4/info.json
+# Manoscritti membranacei I_094r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f4dc4f31-7dc3-4029-8a38-59fa49ea0fde/info.json
+# Manoscritti membranacei I_094v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/94284824-8bcf-467d-ba43-d739c68bd69f/info.json
+# Manoscritti membranacei I_095r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/72dc5a00-9b0b-4d8a-845d-3d4fffef38d3/info.json
+# Manoscritti membranacei I_095v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/65b593e0-50d7-4bcd-8af6-746f56df9c86/info.json
+# Manoscritti membranacei I_096r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4d264aa7-c97e-4a41-a063-28a36ab03307/info.json
+# Manoscritti membranacei I_096v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/349b4fdf-9db5-476d-82d4-58595a0beeff/info.json
+# Manoscritti membranacei I_097r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cbc00cfe-7f04-4ea0-ba66-7eedeebc0e6d/info.json
+# Manoscritti membranacei I_097v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/98330340-d7d6-40a4-b8c9-9121a00e2048/info.json
+# Manoscritti membranacei I_098r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9ac80d5f-9065-4d35-9de6-5f6d3b85ae05/info.json
+# Manoscritti membranacei I_098v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dbc061bf-df72-44f0-abd1-da24e26c6bb0/info.json
+# Manoscritti membranacei I_099r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/16763850-d967-4e46-8bca-d87d5489cc69/info.json
+# Manoscritti membranacei I_099v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6288d2eb-0957-489c-94cf-24610b113c8a/info.json
+# Manoscritti membranacei I_100r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f241a590-377a-4196-b126-aec1c9a53dbe/info.json
+# Manoscritti membranacei I_100v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c458f8aa-cf24-4fc7-97cc-77ef9cbfed3c/info.json
+# Manoscritti membranacei I_101r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7b65211e-3790-4b8f-9c4f-20af259735b5/info.json
+# Manoscritti membranacei I_101v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a69fe6c2-4166-4103-8ae9-91a4c8e3583e/info.json
+# Manoscritti membranacei I_102r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c19e1f24-10dc-4304-8993-3fdda46429ea/info.json
+# Manoscritti membranacei I_102v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ea81a002-9e1a-4e51-8861-7917e30f3919/info.json
+# Manoscritti membranacei I_103r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5d257574-6ca0-4313-a255-e76b40d6a81d/info.json
+# Manoscritti membranacei I_103v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e18fedc0-62a9-490f-8a45-18b0d51f7b2e/info.json
+# Manoscritti membranacei I_104r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fdf115e4-d030-4c9d-93a4-2924320787a0/info.json
+# Manoscritti membranacei I_104v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dc201302-08fa-4202-9d2a-7febeec034b9/info.json
+# Manoscritti membranacei I_105r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/46d082d0-1245-40bc-ac87-ed24fb0320c0/info.json
+# Manoscritti membranacei I_105v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9f79d407-7e57-489c-a473-b2549121ecb4/info.json
+# Manoscritti membranacei I_106r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e6e18c57-ed5e-4428-b68e-38b723d198e5/info.json
+# Manoscritti membranacei I_106v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e51592e0-29df-43b6-b6e1-b4ef46e964f1/info.json
+# Manoscritti membranacei I_107r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fffe3d7d-6cbc-4726-9c02-2d1b1fb3631e/info.json
+# Manoscritti membranacei I_107v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d29991c8-2872-4518-8341-4494ab59b1a4/info.json
+# Manoscritti membranacei I_108r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0af23019-8dc2-4c63-a019-8000c9bd1407/info.json
+# Manoscritti membranacei I_108v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5a9c8330-e747-40ed-9e10-34bbec45ebbb/info.json
+# Manoscritti membranacei I_109r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9f06bf45-c7fd-48ba-ad69-2ef17ab5ae3c/info.json
+# Manoscritti membranacei I_109v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8d537fe5-6955-4f4b-9355-f815519d8e21/info.json
+# Manoscritti membranacei I_110r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/558bc1b2-3d37-4334-a246-ef14f74f0eec/info.json
+# Manoscritti membranacei I_110v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3991a948-04f7-4954-b10c-2a2b500320fb/info.json
+# Manoscritti membranacei I_111r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f1027718-977f-4771-a230-be54f49ee535/info.json
+# Manoscritti membranacei I_111v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/078bcdc7-cc29-4eea-ad51-8553d2470297/info.json
+# Manoscritti membranacei I_112r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2b0cd43d-bc74-4ab4-bf65-747520bccf0a/info.json
+# Manoscritti membranacei I_112v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/08140990-85a7-422f-9ed9-12618d521237/info.json
+# Manoscritti membranacei I_113r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/52d25046-20ee-42bc-bd4f-8250985dfb4e/info.json
+# Manoscritti membranacei I_113v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7f448cac-213a-4b41-8f4c-e9c1244da4a7/info.json
+# Manoscritti membranacei I_114r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/09ad6f48-8478-40ec-95ab-e0fb04b87681/info.json
+# Manoscritti membranacei I_114v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/666ed363-1868-46ab-b78d-c4d24401e9e5/info.json
+# Manoscritti membranacei I_115r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c794fe77-a3cf-4d93-b54c-12bf9f86df13/info.json
+# Manoscritti membranacei I_115v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/117a3110-a892-4b3f-a7d5-c498407b5778/info.json
+# Manoscritti membranacei I_116r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1ef0b4f7-8e1e-449a-a4c2-e8008af81f73/info.json
+# Manoscritti membranacei I_116v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fc5a7a9d-597f-41ce-a299-5f44f223f60b/info.json
+# Manoscritti membranacei I_117r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f90e3b42-e6e7-4ef4-83de-d184ece88b07/info.json
+# Manoscritti membranacei I_117v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ebab677f-ddd5-4882-ae9a-1dcf6961c686/info.json
+# Manoscritti membranacei I_118r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/abb63817-68e0-4291-ad98-80f2bacdf053/info.json
+# Manoscritti membranacei I_118v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ed3e3977-9045-408e-83c5-68a88b66bda2/info.json
+# Manoscritti membranacei I_119r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8cfdb9cb-db24-4e7e-908b-8da451c839b6/info.json
+# Manoscritti membranacei I_119v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bc532c94-5dfc-4fef-b6ea-14273623f223/info.json
+# Manoscritti membranacei I_120r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4098b087-5b84-4d22-b13d-10688ad9c796/info.json
+# Manoscritti membranacei I_120v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/68564c18-a72c-4fed-be04-6ac7b834bcbe/info.json
+# Manoscritti membranacei I_121r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0e968adb-6250-4c78-a3bc-5cf7343428b8/info.json
+# Manoscritti membranacei I_121v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/83e25c01-0e36-4f0c-9f1b-1f19904f8fab/info.json
+# Manoscritti membranacei I_122r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e8f4c45c-b0dd-4f68-b507-3b2316d58e44/info.json
+# Manoscritti membranacei I_122v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/53de3053-7624-4683-a1b2-966daffc7a76/info.json
+# Manoscritti membranacei I_123r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/718191b6-f26a-47b5-9945-731269d45674/info.json
+# Manoscritti membranacei I_123v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2ac09ecb-6f14-426d-b948-675f2a139516/info.json
+# Manoscritti membranacei I_124r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6d3c9d23-610e-4610-b35e-47c4a7c27ef6/info.json
+# Manoscritti membranacei I_124v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/42dc2270-bc48-435d-b5ef-4fe8e1226224/info.json
+# Manoscritti membranacei I_125r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/89b06bac-53d2-456b-bebb-ef248376a15f/info.json
+# Manoscritti membranacei I_125v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/df0fa6a1-bcb7-4513-a491-ca08dbfd7a5e/info.json
+# Manoscritti membranacei I_126r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2dcfc3ad-9dbd-48f3-86da-566eadbe9a58/info.json
+# Manoscritti membranacei I_126v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/674b7a27-f2ba-4d3c-8748-1d0ce9ed86dc/info.json
+# Manoscritti membranacei I_127r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ac89ddc6-103d-4bba-9377-7f30cf90974d/info.json
+# Manoscritti membranacei I_127v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/715eb447-0478-4f99-a781-a39e87ab957f/info.json
+# Manoscritti membranacei I_128r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/674bc9ee-0f24-488b-ae56-4cad7c083fd7/info.json
+# Manoscritti membranacei I_128v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8c0fae22-6267-4793-bc19-4db9d6e1dc8f/info.json
+# Manoscritti membranacei I_129r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/64135d66-7e4a-41dc-9fc0-18142d53e6ac/info.json
+# Manoscritti membranacei I_129v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/611c6bae-7a78-4c29-b3e9-07205f7cdd91/info.json
+# Manoscritti membranacei I_130r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e64e04b1-82a5-4043-a5b2-6bb053e4dea0/info.json
+# Manoscritti membranacei I_130v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8ac2482c-088e-4298-95ca-953790f44276/info.json
+# Manoscritti membranacei I_131r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1947ae38-8b8b-44ba-9c81-39d6314f29b5/info.json
+# Manoscritti membranacei I_131v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5f1ac084-4069-4001-93b8-2f2eee871582/info.json
+# Manoscritti membranacei I_132r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a729250f-c983-4754-b810-53a01e2a5566/info.json
+# Manoscritti membranacei I_132v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/85a51c69-d23f-4eea-95b2-860f13f303be/info.json
+# Manoscritti membranacei I_133r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7ef4f934-ebf3-4f1e-bb55-2e97dc7b8456/info.json
+# Manoscritti membranacei I_133v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9f195262-3b42-45a3-8cfa-bd7f0ea15691/info.json
+# Manoscritti membranacei I_134r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/929d646e-8a95-4176-9e19-5b98e8feaada/info.json
+# Manoscritti membranacei I_134v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/34f79838-a676-4cdb-888f-26e966ed05b9/info.json
+# Manoscritti membranacei I_135r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e02ac249-57b9-4f54-a6f8-09420a2c0adb/info.json
+# Manoscritti membranacei I_135v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8a4498f1-363f-46e3-bed3-afd81fd669cc/info.json
+# Manoscritti membranacei I_136r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a14efd8b-9ea5-49b1-afc1-8c220655b64c/info.json
+# Manoscritti membranacei I_136v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c6cdbeab-7090-4e67-98b2-583a522257fd/info.json
+# Manoscritti membranacei I_137r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b8d2a421-e41f-4d6f-831d-454b4f58721b/info.json
+# Manoscritti membranacei I_137v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/95f87297-653b-48da-a89f-b2903ecda6c6/info.json
+# Manoscritti membranacei I_138r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8d420be9-9ad6-44c9-8535-b64ebb0f617d/info.json
+# Manoscritti membranacei I_138v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fb4de8b4-5d34-4cd1-b7bb-1221baef79dc/info.json
+# Manoscritti membranacei I_139r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4d2c77a6-3ee1-4893-a571-d5894830b0f2/info.json
+# Manoscritti membranacei I_139v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/432502f2-a42f-4238-ade4-7f05e8fadcdc/info.json
+# Manoscritti membranacei I_140r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/90b8f0f1-19bf-48f2-b5e4-b7b326cb36cf/info.json
+# Manoscritti membranacei I_140v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4ab69100-e437-4ca5-947a-ee8b9c54ecc4/info.json
+# Manoscritti membranacei I_141r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/90545a06-9682-4d00-85d2-ecf5648ef330/info.json
+# Manoscritti membranacei I_141v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ca3eae1e-6a62-49d2-8a61-340c1c888fbb/info.json
+# Manoscritti membranacei I_142r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cf7c5c6c-a150-43dc-8658-17bdcf78eea8/info.json
+# Manoscritti membranacei I_142v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6fcd4f0c-3e60-4eb3-ba76-0f32d02c5da8/info.json
+# Manoscritti membranacei I_143r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/287b00b4-b27b-4aea-9d58-a828a91d4979/info.json
+# Manoscritti membranacei I_143v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1b03523e-3f1a-47ce-9b90-d34fe8a124d2/info.json
+# Manoscritti membranacei I_144r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3953af55-57d0-4026-a785-6c967daba5ee/info.json
+# Manoscritti membranacei I_144v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9c109a55-4184-487c-961a-978c6570d586/info.json
+# Manoscritti membranacei I_145r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3553914f-c31c-479a-9d52-d3593583ec0f/info.json
+# Manoscritti membranacei I_145v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/226bf0d7-7f65-4efa-9bec-4c141453c4e4/info.json
+# Manoscritti membranacei I_146r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/24abcea6-013c-4215-9679-3ff44474c697/info.json
+# Manoscritti membranacei I_146v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/aa3e53cf-891f-44a0-b566-04604ab0fdc1/info.json
+# Manoscritti membranacei I_147r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/16fef6b4-8209-42bf-9bef-b7ab247562d4/info.json
+# Manoscritti membranacei I_147v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6f6f2f15-aba1-4a85-b204-8b5d3b17d96e/info.json
+# Manoscritti membranacei I_148r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/35f81456-51af-4e16-b716-84a80b9c24fd/info.json
+# Manoscritti membranacei I_148v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d99bb5c4-fe2c-46d4-8617-192ec446db5c/info.json
+# Manoscritti membranacei I_149r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/25f5cc67-0179-406e-a021-b344d93f66ca/info.json
+# Manoscritti membranacei I_149v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c912a1d0-93fc-4ce8-be9d-2fbfb9cd8304/info.json
+# Manoscritti membranacei I_150r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e10fa858-2153-4cd2-a145-4d1f89daff99/info.json
+# Manoscritti membranacei I_150v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/320407ec-e847-406b-a628-d875086a943c/info.json
+# Manoscritti membranacei I_151r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5978cc82-2584-416f-8800-594f03b07e42/info.json
+# Manoscritti membranacei I_151v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8917defb-e8a0-48cf-a97f-f437b94c6490/info.json
+# Manoscritti membranacei I_152r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8c3cc390-443b-4f50-bef5-fd9b81bbf817/info.json
+# Manoscritti membranacei I_152v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/36fe6bd7-1b4e-423c-82f6-9be4ec91da58/info.json
+# Manoscritti membranacei I_153r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/26908883-f44d-4ca4-8634-9c28201a047c/info.json
+# Manoscritti membranacei I_153v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5b98d253-a8d3-4fb2-aaa5-693cea14f43b/info.json
+# Manoscritti membranacei I_154r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/60cf43fe-4742-4b1a-8924-e8160985c683/info.json
+# Manoscritti membranacei I_154v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/40348753-7900-435f-a4d1-09d1522506b6/info.json
+# Manoscritti membranacei I_155r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/78e48a8f-281f-44b5-830b-9a681211fafa/info.json
+# Manoscritti membranacei I_155v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6215526c-bcb0-465a-9190-e30124f8d885/info.json
+# Manoscritti membranacei I_156r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a07d8343-b316-4719-933c-80b3ea3e7c22/info.json
+# Manoscritti membranacei I_156v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f4358837-db92-4a0b-a3c6-c4a91a6f1a69/info.json
+# Manoscritti membranacei I_157r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/afe77126-fe3e-45a0-ac92-4a893274ec50/info.json
+# Manoscritti membranacei I_157v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4f188526-70c7-42ab-9056-4bfebf9564b6/info.json
+# Manoscritti membranacei I_158r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d8d0772a-256c-4b32-99da-b101bf2852a5/info.json
+# Manoscritti membranacei I_158v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/34dd68fa-f267-4fec-a153-324e870a9f82/info.json
+# Manoscritti membranacei I_159r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6c54d8f8-7e3b-4670-8d71-c3013121d36b/info.json
+# Manoscritti membranacei I_159v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ee05c355-0402-47f8-88f5-66687a9ed222/info.json
+# Manoscritti membranacei I_160r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/255f7b15-5b58-43f0-8302-bb208a71dcbb/info.json
+# Manoscritti membranacei I_160v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c07c91e4-1594-4666-8f91-f0da58ef154a/info.json
+# Manoscritti membranacei I_161r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d32f46ef-17ae-4337-91a3-46c5ac4916f7/info.json
+# Manoscritti membranacei I_161v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/717342ff-4c85-4c74-9b26-2ebc1a19c8fd/info.json
+# Manoscritti membranacei I_162r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cad9d247-ce7c-4d65-8ad8-9f6865bbdf42/info.json
+# Manoscritti membranacei I_162v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8d577c3f-65fc-418d-8673-5937ac7dda95/info.json
+# Manoscritti membranacei I_163r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d98b3197-087c-495a-8818-3c4c1b2a1f0a/info.json
+# Manoscritti membranacei I_163v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0ab2f330-e0d1-4adc-944f-0b6cfa01dd0d/info.json
+# Manoscritti membranacei I_164r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0fe4964b-ae80-40ff-a6be-aa878910a013/info.json
+# Manoscritti membranacei I_164v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fabffab5-7622-4262-898b-781fd8337d9c/info.json
+# Manoscritti membranacei I_165r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ccf5ad26-5607-4361-8f8b-b4e8287f7517/info.json
+# Manoscritti membranacei I_165v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/64950230-922a-493a-9d2d-74231d9e2f45/info.json
+# Manoscritti membranacei I_166r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8840d676-fba7-4a21-9630-31389e916074/info.json
+# Manoscritti membranacei I_166v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7809981a-8a08-466c-99fe-ee4276df581f/info.json
+# Manoscritti membranacei I_167r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e7524a40-3d82-46ac-9a6e-f0f844ec0d12/info.json
+# Manoscritti membranacei I_167v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/567e0d43-3438-4bc7-924e-296e25aa715b/info.json
+# Manoscritti membranacei I_168r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7109abdf-1cee-4651-9a76-25536326f9ef/info.json
+# Manoscritti membranacei I_168v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6565b55b-3251-45ec-9cf1-30029972febc/info.json
+# Manoscritti membranacei I_169r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6c519efe-a924-4e71-b4e0-513e368bb8a6/info.json
+# Manoscritti membranacei I_169v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a4f9c8a3-d48c-4522-9197-99addaca2250/info.json
+# Manoscritti membranacei I_170r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f783eae5-73bd-4af6-ab96-219ff524d669/info.json
+# Manoscritti membranacei I_170v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d525adab-cbd5-4a90-b44b-c70d5920b6f0/info.json
+# Manoscritti membranacei I_171r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4e1f1872-4a07-48d9-a428-afdf621a06a9/info.json
+# Manoscritti membranacei I_171v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6831e9ac-178e-4a82-8fa7-5e27b51f7fbf/info.json

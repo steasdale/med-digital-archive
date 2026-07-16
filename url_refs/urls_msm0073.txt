@@ -1,0 +1,318 @@
+# MS_Membr_LXXIII_000.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e10d4c0b-3866-44a6-851a-6ff92bce9f6b/info.json
+# MS_Membr_LXXIII_000a.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4bb9f377-cd15-46cd-b3be-419bd6469ef3/info.json
+# MS_Membr_LXXIII_000b.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4c642d46-778c-4c20-98d1-da9fd2c82cde/info.json
+# MS_Membr_LXXIII_000c.tif
+https://asge.jarvis.memooria.org/images/iiif/db/13436aac-775b-4cff-8d41-581f3f928ee6/info.json
+# MS_Membr_LXXIII_000d.tif
+https://asge.jarvis.memooria.org/images/iiif/db/295b8908-aa24-4a14-ad19-0952d02484c8/info.json
+# MS_Membr_LXXIII_000e.tif
+https://asge.jarvis.memooria.org/images/iiif/db/86560a95-a8de-4ef8-8b3e-58d6228eea27/info.json
+# MS_Membr_LXXIII_001r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/41238518-f521-4e3a-9d15-43ae1f32fd37/info.json
+# MS_Membr_LXXIII_001v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/af215a6e-89d4-4103-9c6c-1dc5aa49f4f8/info.json
+# MS_Membr_LXXIII_002r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8873fc83-d296-4c81-9dce-03323677990c/info.json
+# MS_Membr_LXXIII_002v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b86f1ec0-6ad5-434b-acef-e2e87dd348a8/info.json
+# MS_Membr_LXXIII_003r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b4bd33e1-6f26-4ee6-9434-ff78346e4028/info.json
+# MS_Membr_LXXIII_003v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2a5866fd-b5f6-4e30-8894-1bda6343e3b1/info.json
+# MS_Membr_LXXIII_004r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/65df67b2-1de7-409e-89e6-250803fda3ca/info.json
+# MS_Membr_LXXIII_004v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/01fbeb6b-efaa-4617-b436-24b2a5578f43/info.json
+# MS_Membr_LXXIII_005r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/83c77f27-78c3-41cf-a9f5-db08966a7553/info.json
+# MS_Membr_LXXIII_005v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/36c07514-ce3d-4414-99a3-2d0507701505/info.json
+# MS_Membr_LXXIII_006r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4b2bd237-e630-4e23-adf8-b05d411e6d7b/info.json
+# MS_Membr_LXXIII_006v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/777ca985-accb-4d57-8506-220d53dbef0b/info.json
+# MS_Membr_LXXIII_007r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/53140116-4c7b-494c-afe4-30bc2c0d18a6/info.json
+# MS_Membr_LXXIII_007v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/88041072-c512-4c95-8700-ab81d6e3ee5b/info.json
+# MS_Membr_LXXIII_008r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/93a3f640-87f1-46e4-9755-cd7fa07df28a/info.json
+# MS_Membr_LXXIII_008v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3768b823-c693-4531-8e83-04b0b20ed6d2/info.json
+# MS_Membr_LXXIII_009r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0e145ff8-99d5-4ca6-ae6b-8b6c7e949a75/info.json
+# MS_Membr_LXXIII_009v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cf605605-c9f6-4f0d-a8a4-edf684e1872c/info.json
+# MS_Membr_LXXIII_010r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/013a5aa2-f9e0-487a-886b-dd488e9a6da8/info.json
+# MS_Membr_LXXIII_010v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/88d23896-e0a1-4e6b-8741-7c13fd2ee2ad/info.json
+# MS_Membr_LXXIII_011r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/76ab4e9d-95fb-45a3-a87f-5f572c7e15d0/info.json
+# MS_Membr_LXXIII_011v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0f607a7f-f311-4cb2-b58b-4703d84debd1/info.json
+# MS_Membr_LXXIII_012r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c7ee558b-9358-423e-943f-37cabca7f094/info.json
+# MS_Membr_LXXIII_012v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d3ee6dd6-1031-47e3-88f4-79d4605bdc84/info.json
+# MS_Membr_LXXIII_013r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7a7d89a2-8a36-4383-aea0-dcb3852de3ee/info.json
+# MS_Membr_LXXIII_013v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b2a90743-e847-4c7b-90bd-60e5a42325c5/info.json
+# MS_Membr_LXXIII_014r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7c8547f3-20de-4665-a4d7-14ea6587c3aa/info.json
+# MS_Membr_LXXIII_014v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8ab5889a-98a7-420b-ab45-1783f223344c/info.json
+# MS_Membr_LXXIII_015r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/639892a6-aaa8-46bb-a9e3-58950aa60c1e/info.json
+# MS_Membr_LXXIII_015v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/21588f07-3f2a-4afd-8d9b-850e7e9d2168/info.json
+# MS_Membr_LXXIII_016r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a9cc8a85-470b-4756-ad31-f097324fddaa/info.json
+# MS_Membr_LXXIII_016v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/60927759-f0b0-402f-a4ab-ea8e4d7c2f6c/info.json
+# MS_Membr_LXXIII_017r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/85bb271c-ce1e-4830-8cb7-5789b7e0f28e/info.json
+# MS_Membr_LXXIII_017v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/54f6fa7a-1f64-4ee7-86fb-586d65e2f683/info.json
+# MS_Membr_LXXIII_018r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/67bbabdc-015e-45c8-96e1-9851341cfca3/info.json
+# MS_Membr_LXXIII_018v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d2b273f4-58a1-4e7f-996a-6d5a3cbb376d/info.json
+# MS_Membr_LXXIII_019r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/360dc221-f2e1-43f5-ae48-7eef5ab451cc/info.json
+# MS_Membr_LXXIII_019v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c5b31867-3873-4640-a926-1fcca86b61bc/info.json
+# MS_Membr_LXXIII_020r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d17a382d-4010-411b-b73e-cdfa6c0f5ce9/info.json
+# MS_Membr_LXXIII_020v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/84d49ac5-46c6-481f-b235-21e89498e7c1/info.json
+# MS_Membr_LXXIII_021r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2e2cf039-96b9-49d4-b9d6-bfcbdfc2f6d6/info.json
+# MS_Membr_LXXIII_021v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7ec13324-e37a-4024-9da2-801afbf49014/info.json
+# MS_Membr_LXXIII_022r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e0efa6b8-cc24-4ebf-8cc8-c855553a6728/info.json
+# MS_Membr_LXXIII_022v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2e84afc5-9db8-4653-9832-e29672de2afd/info.json
+# MS_Membr_LXXIII_023r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fb763133-2b0b-4b7e-9bcb-1a0a06d0320c/info.json
+# MS_Membr_LXXIII_023v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/102775f9-eb5f-493e-91f5-60915307c83c/info.json
+# MS_Membr_LXXIII_024r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/73be7e04-c6ae-4f71-9d96-8b184f2a262d/info.json
+# MS_Membr_LXXIII_024v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/337e4e95-c7d6-455d-bbaf-d7c5edfddc7c/info.json
+# MS_Membr_LXXIII_025r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c9e6b82f-bb98-406a-b88c-771e01745681/info.json
+# MS_Membr_LXXIII_025v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a6326dfc-bc20-4322-90a7-edb8fa3d287a/info.json
+# MS_Membr_LXXIII_026r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e08e8f51-7fa3-42b4-9200-23254faadbdf/info.json
+# MS_Membr_LXXIII_026v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b070e839-9388-4b6a-bb7a-c5bf31029a6d/info.json
+# MS_Membr_LXXIII_027r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/177a013a-846c-4516-bf9f-f0a34069dc3b/info.json
+# MS_Membr_LXXIII_027v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/63680d75-3fb8-4a0b-ad2f-49a7b98af299/info.json
+# MS_Membr_LXXIII_028r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/688b425a-dbba-47a1-8688-36b80faa0a89/info.json
+# MS_Membr_LXXIII_028v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/14adad17-4d5f-4fc5-815e-0a7e6d4e19d9/info.json
+# MS_Membr_LXXIII_029r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f0a2a671-e833-45a1-97a2-dad7817153c7/info.json
+# MS_Membr_LXXIII_029v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7e7a66c3-2ee2-4013-bad7-9b09e6db3f7c/info.json
+# MS_Membr_LXXIII_030r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3fb507c4-2083-4290-9c80-56500b83dda2/info.json
+# MS_Membr_LXXIII_030v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5b3afc24-d8b9-4a77-852b-edb5de064221/info.json
+# MS_Membr_LXXIII_031r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/26db4769-6216-4de4-bf97-0b5977b82a68/info.json
+# MS_Membr_LXXIII_031v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d1c87fe7-2a28-4cff-b5b8-dec066cc9189/info.json
+# MS_Membr_LXXIII_032r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/df0b28cb-f6ff-456f-8824-71b56f02d524/info.json
+# MS_Membr_LXXIII_032v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0a89707e-e873-4168-b8df-34c542c236ab/info.json
+# MS_Membr_LXXIII_033r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dc2ae784-91ce-40ec-a2d0-8e504b29b6e6/info.json
+# MS_Membr_LXXIII_033v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cea8d431-4875-40b0-9039-d36ce81d5136/info.json
+# MS_Membr_LXXIII_034r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e7dc03cd-1dbf-4884-bd13-8b915e419987/info.json
+# MS_Membr_LXXIII_034v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fddb0933-d243-4015-9bbe-fe19323587c1/info.json
+# MS_Membr_LXXIII_035r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3ddf85f6-7ebe-4e90-9a50-ad29c37f27e6/info.json
+# MS_Membr_LXXIII_035v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ecd23acd-7e77-47e2-9f3b-1189e0c72bc9/info.json
+# MS_Membr_LXXIII_036r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/42877a4c-7aa7-4696-9a86-ebecd3f4c622/info.json
+# MS_Membr_LXXIII_036v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ca1e3372-6894-4323-9d4b-80d2944895e4/info.json
+# MS_Membr_LXXIII_037r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1b5a8f4e-272c-424b-a31c-a1511cd9c23f/info.json
+# MS_Membr_LXXIII_037v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/760df718-8e59-4f0d-a406-07ed3fcbc520/info.json
+# MS_Membr_LXXIII_038r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5fe17e41-b7aa-4d9b-9060-d79b5e19ed56/info.json
+# MS_Membr_LXXIII_038v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/aa781f2e-4fdd-4635-8261-dfa777707b4e/info.json
+# MS_Membr_LXXIII_039r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fea479c7-99df-4132-bd92-c9f65f3ae4f4/info.json
+# MS_Membr_LXXIII_039v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cbf708c0-754c-4869-94f6-267b8014087b/info.json
+# MS_Membr_LXXIII_040r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/883c2a9f-75bd-42ee-8e1e-721591d1743c/info.json
+# MS_Membr_LXXIII_040v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/26a4afb4-bd79-462d-8f97-b8e3509d6132/info.json
+# MS_Membr_LXXIII_041r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/029618a3-a188-4612-bdf4-d7b49df00591/info.json
+# MS_Membr_LXXIII_041v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/96ce0bb7-378e-464a-898c-5d56b4af2c42/info.json
+# MS_Membr_LXXIII_042r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c3497505-67a7-451c-864a-8bc28ff2401c/info.json
+# MS_Membr_LXXIII_042v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cf48a8a8-880f-483f-8076-32bbec451c38/info.json
+# MS_Membr_LXXIII_043r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/94490877-c8dd-4889-b130-802fa61c5560/info.json
+# MS_Membr_LXXIII_043v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0840ffab-0c85-4c96-9700-4a8f0d0c03bc/info.json
+# MS_Membr_LXXIII_044r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7ae005d6-254d-48dd-b880-c4a3bdded55d/info.json
+# MS_Membr_LXXIII_044v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/db3c5819-4c56-4f46-8a41-0215978bd483/info.json
+# MS_Membr_LXXIII_045r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b0d82b67-ed2f-479e-ab03-0032a8fc1b6c/info.json
+# MS_Membr_LXXIII_045v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7d43832a-89b5-49b2-b14f-a2483b1f234a/info.json
+# MS_Membr_LXXIII_046r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/055dbe73-bca8-4a62-b7f3-b1bac0a60137/info.json
+# MS_Membr_LXXIII_046v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d91e5ba2-4903-44c4-b964-f6fe5480e570/info.json
+# MS_Membr_LXXIII_047r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/edfea318-20df-42c8-a55c-23536c4eb28a/info.json
+# MS_Membr_LXXIII_047v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/95064acc-d125-41f0-a3aa-06211ac9f19a/info.json
+# MS_Membr_LXXIII_048r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ec391319-9eeb-46a7-ac74-09846620f0ab/info.json
+# MS_Membr_LXXIII_048v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/26639264-e80b-48cc-9279-64d843661b90/info.json
+# MS_Membr_LXXIII_049r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/aeb9715f-72d6-4df4-b17b-81c7065592eb/info.json
+# MS_Membr_LXXIII_049v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8e16b5d8-f14c-408c-b80a-6273cd52de11/info.json
+# MS_Membr_LXXIII_050r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/eb4198e9-4d96-4705-a5e4-8a34457ec6ee/info.json
+# MS_Membr_LXXIII_050v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c12dc0c9-2d97-4512-ad13-4c85a26827a5/info.json
+# MS_Membr_LXXIII_051r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/45870e71-e3bc-4de0-8767-fc8fb8354ffe/info.json
+# MS_Membr_LXXIII_051v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ca5422aa-e860-443f-bd6d-d7eb57418394/info.json
+# MS_Membr_LXXIII_052r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0fa7cdc6-44ac-45a5-b479-bd9ad520c5b6/info.json
+# MS_Membr_LXXIII_052v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3033d9fb-3fa7-470c-a27c-842131181cd4/info.json
+# MS_Membr_LXXIII_053r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/aa9f3d65-19f7-4e5c-a0be-78581e0fbd72/info.json
+# MS_Membr_LXXIII_053v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c82266c5-e57c-4417-a7d2-4c51a67fa6e2/info.json
+# MS_Membr_LXXIII_054r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5ab011e3-5c27-4b22-b071-d58f006bfaca/info.json
+# MS_Membr_LXXIII_054v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ded2e3fa-1cf6-47da-a691-68425d5829c3/info.json
+# MS_Membr_LXXIII_055r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cfdfee36-3120-4301-b4bd-4b9f9e382e34/info.json
+# MS_Membr_LXXIII_055v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/07d68d76-adf5-4645-8a56-baa6fb022724/info.json
+# MS_Membr_LXXIII_056r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8a7f0320-ed3f-45e3-8b03-4e8ecf4b23ef/info.json
+# MS_Membr_LXXIII_056v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f6f87578-808d-402d-b0c2-acda5de6ad06/info.json
+# MS_Membr_LXXIII_057r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2184f3e8-6eb5-4b54-babb-e3d50bbf8999/info.json
+# MS_Membr_LXXIII_057v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7697d317-3a81-447e-b04e-e82bac32fe2d/info.json
+# MS_Membr_LXXIII_058r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3afe53b8-23af-4feb-a202-1351e37046f6/info.json
+# MS_Membr_LXXIII_058v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/713a1873-5211-45c9-b453-805cecc3d7e7/info.json
+# MS_Membr_LXXIII_059r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2b82e4fe-b598-4418-ac3d-e9b85c84f024/info.json
+# MS_Membr_LXXIII_059v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/562778d4-b57b-47cf-aa33-57f952533fde/info.json
+# MS_Membr_LXXIII_060r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/89d79522-c470-42a3-af6a-3ab7bdac6a25/info.json
+# MS_Membr_LXXIII_060v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/be576603-0975-4ac9-92a0-7972620fe299/info.json
+# MS_Membr_LXXIII_061r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4c93107e-45de-4775-8b01-3574e8277322/info.json
+# MS_Membr_LXXIII_061v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e0ffc6af-39f8-4aa2-a23f-ecb8b32364f1/info.json
+# MS_Membr_LXXIII_062r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/033038db-6ff3-411a-9ac7-f277b5e2085f/info.json
+# MS_Membr_LXXIII_062v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2d0e5a8d-3853-4eca-99b9-e66bbf12bfce/info.json
+# MS_Membr_LXXIII_063r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2ce880b5-766b-4937-bf48-efca5bec4c2e/info.json
+# MS_Membr_LXXIII_063v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ef4fb9ac-c1ce-420d-960c-8ec3bc23c7ba/info.json
+# MS_Membr_LXXIII_064r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2c50d9ba-c087-4905-a4c5-ab675e4e3bad/info.json
+# MS_Membr_LXXIII_064v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/593d5fd1-9edc-4bee-ab6f-2a06e6e07f49/info.json
+# MS_Membr_LXXIII_065r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/de9002a1-7b50-48b0-8e87-26aed44a679a/info.json
+# MS_Membr_LXXIII_065v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9724efab-47c5-472d-953b-9eb18c4083f2/info.json
+# MS_Membr_LXXIII_066r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/77825585-6420-40b5-a134-c927e7a5835c/info.json
+# MS_Membr_LXXIII_066v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2a28fb32-97b5-4358-a6a8-8c808d3e806b/info.json
+# MS_Membr_LXXIII_067r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b6f7d2bc-a0ec-4230-ba92-559595df9f01/info.json
+# MS_Membr_LXXIII_067v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/be060a63-c5c0-4ff6-9da3-38495696c157/info.json
+# MS_Membr_LXXIII_068r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/83f164a1-2bb5-42ba-b93a-c2facd8f097f/info.json
+# MS_Membr_LXXIII_068v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a24b247b-def1-4f00-ad54-38254c8b62c2/info.json
+# MS_Membr_LXXIII_069r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e5808027-d560-40b2-b30b-321a6315f681/info.json
+# MS_Membr_LXXIII_069v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e23c9897-3959-4eee-ad20-8be8f3a024ba/info.json
+# MS_Membr_LXXIII_070r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/634d887d-5759-4d1f-b30d-19d2400e34f4/info.json
+# MS_Membr_LXXIII_070v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/734483ac-fc8e-47e7-a8b3-64de05b6e20f/info.json
+# MS_Membr_LXXIII_071r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/70dadbb1-4d3e-4931-8466-f76d24c641f4/info.json
+# MS_Membr_LXXIII_071v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b71225ff-9126-4d27-8f50-8e24c5760813/info.json
+# MS_Membr_LXXIII_072r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fed02fc5-a897-4010-9e26-b3250860de2c/info.json
+# MS_Membr_LXXIII_072v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/03e10fc0-34ed-4420-88b4-77e6b388fdcd/info.json
+# MS_Membr_LXXIII_073r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/67f34b9a-d1f4-4473-89f4-5d4441932932/info.json
+# MS_Membr_LXXIII_073v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0e52e644-e03d-4113-994e-03dba06fb90a/info.json
+# MS_Membr_LXXIII_074r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/768c3c5e-c4ba-49dd-8d9e-100f308449ba/info.json
+# MS_Membr_LXXIII_074v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1d6045a4-0cd2-4ec6-ae18-453ad0cc798e/info.json
+# MS_Membr_LXXIII_075r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/60c03d36-9927-4569-bd53-2c16e42d7d68/info.json
+# MS_Membr_LXXIII_075v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1739a951-2943-405f-af0a-22df9f052516/info.json
+# MS_Membr_LXXIII_076r-118r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7ef2a40a-e691-471b-914c-a154b58a0748/info.json
+# MS_Membr_LXXIII_118v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f8b20579-2898-46a4-a489-95d0c1b33359/info.json
+# MS_Membr_LXXIII_119r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3bfa6643-e48b-412d-ba42-7e8442cb289d/info.json
