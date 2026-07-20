@@ -83,10 +83,19 @@ for i in "${!URLS[@]}"; do
   # UUID from URL
   UUID=$(echo "$URL" | grep -oE '[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}')
 
-  # Folio suffix: extract the part after the last _ and before .tif
-  # e.g. "BSG_1233_Masseria di Caffa_027r.tif" -> "027r"
-  if [[ "$LABEL" =~ _([^_]+)\.tif$ ]]; then
-    FOLIO="_fol_${BASH_REMATCH[1]}"
+  # Folio suffix: use the full canvas label (minus the .tif extension), not
+  # just the part after the last underscore. Many registers use irregular
+  # labels with embedded underscores or hyphens in the folio identifier
+  # itself (e.g. "MS_102_098_bis-r.tif", "MS_103_094v_ins1-r.tif",
+  # "Ms 125_180r-248v.tif") — truncating at the last underscore silently
+  # drops that context (e.g. "098_bis-r" would become just "bis-r").
+  if [[ "$LABEL" =~ ^(.*)\.tif$ ]]; then
+    RAW_TAG="${BASH_REMATCH[1]}"
+    # Sanitize for filesystem safety: spaces -> underscores, strip brackets
+    RAW_TAG="${RAW_TAG// /_}"
+    RAW_TAG="${RAW_TAG//[/}"
+    RAW_TAG="${RAW_TAG//]/}"
+    FOLIO="_fol_${RAW_TAG}"
   else
     FOLIO=""
   fi
