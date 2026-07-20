@@ -1,0 +1,622 @@
+# [part1] Manoscritti 197_1.tif
+https://asge.jarvis.memooria.org/images/iiif/db/03fe1d3c-5a46-42fe-9a12-9ac8b6a89342/info.json
+# [part1] Manoscritti 197_2.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5c286465-7e47-4bb6-8211-7b57436360e3/info.json
+# [part1] Manoscritti 197_3.tif
+https://asge.jarvis.memooria.org/images/iiif/db/93a6c552-729f-44f0-9616-ab8766a47d25/info.json
+# [part1] Manoscritti 197_4.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4514f4b1-60e4-4995-b2db-15593ddcd8b8/info.json
+# [part1] Manoscritti 197_5.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0e81b3f9-fdd4-4c27-addb-3bf3ebcdcd42/info.json
+# [part1] Manoscritti 197_coperta_1.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9320c4f2-1fc4-4576-ae60-bd6e2a149bba/info.json
+# [part2] Manoscritti 197_01r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4619fb4a-2780-499a-9409-c2e2087d86a1/info.json
+# [part2] Manoscritti 197_01v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/347ec11a-e751-41d1-bfd9-5d410b5e3f49/info.json
+# [part2] Manoscritti 197_02r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6b59b159-38a9-41ca-80d6-7f0f7b7d50db/info.json
+# [part2] Manoscritti 197_02v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0033d99f-7892-4976-aa81-062b3da59e83/info.json
+# [part2] Manoscritti 197_03r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7182ed38-318e-4ca5-b237-cda42b59d730/info.json
+# [part2] Manoscritti 197_03v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6b30e9bd-7796-4700-8652-e539fc355721/info.json
+# [part2] Manoscritti 197_04r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c9998d2f-52ca-4c9f-9b9c-c828c383e649/info.json
+# [part2] Manoscritti 197_04v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/016f3f4f-d023-4a04-98f5-e611d66ef873/info.json
+# [part2] Manoscritti 197_05r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/af72a1cf-5e0e-460f-bcc0-0209cd11bc46/info.json
+# [part2] Manoscritti 197_05v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/00896147-3c0d-4d5c-ac2f-cb7a8834bcb6/info.json
+# [part2] Manoscritti 197_06r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f976982d-5f4f-41eb-b08e-455f415fa5c4/info.json
+# [part2] Manoscritti 197_06v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8e33258b-2f73-4109-af20-f5965e076fda/info.json
+# [part2] Manoscritti 197_07r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/44623443-b190-4f1d-8ee0-863d0d9e3bb0/info.json
+# [part2] Manoscritti 197_07v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a1900e28-7edd-4bf7-9edf-e96c0dc68044/info.json
+# [part2] Manoscritti 197_08r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/53193728-8ec5-4d99-8425-b57689e0fc29/info.json
+# [part2] Manoscritti 197_08v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d1967347-288f-4941-8f3c-207dae655a01/info.json
+# [part2] Manoscritti 197_09r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/270aa10e-d863-404d-846d-6fac7243a69f/info.json
+# [part2] Manoscritti 197_09v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f9fd33a2-0f28-49eb-bb93-8850ad29085d/info.json
+# [part2] Manoscritti 197_10r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e8c66371-ee4f-46fa-84aa-e20295cdba09/info.json
+# [part2] Manoscritti 197_10v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ed0612c9-8a34-4fac-bdbf-a25697ff41ca/info.json
+# [part2] Manoscritti 197_11r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d95400c6-d03e-4b36-840e-a5363aae6af0/info.json
+# [part2] Manoscritti 197_11v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5735b5e2-a04d-4f94-8437-92fca83f1e2e/info.json
+# [part2] Manoscritti 197_12r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0fc9e44c-d844-4bea-88cf-c362310054ce/info.json
+# [part2] Manoscritti 197_12v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ba72ac80-a144-4f24-8c29-076fdabe9e71/info.json
+# [part2] Manoscritti 197_13r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7c8cf6da-af4f-4780-afa9-de5b39b5ea70/info.json
+# [part2] Manoscritti 197_13v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/99516f5d-200e-4287-bb81-153a2199bbab/info.json
+# [part2] Manoscritti 197_14r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4eaf02d4-7a67-4156-bec5-a7a2fbc76a1c/info.json
+# [part2] Manoscritti 197_14v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6027b155-bff7-4953-ba1b-bf04b3aaa728/info.json
+# [part2] Manoscritti 197_15r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9406ad9c-59ef-4f9c-9e32-31f9b7fd803f/info.json
+# [part2] Manoscritti 197_15v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8a66927f-4abe-4985-8dc7-ac2d4377b5b1/info.json
+# [part2] Manoscritti 197_16r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/09c52d13-f3cc-406a-bad3-3532c4befdd4/info.json
+# [part2] Manoscritti 197_16v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1a09a0a1-f85d-421c-9528-b0a7d7105fe5/info.json
+# [part2] Manoscritti 197_17r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a7781eb9-8c05-4ff7-8f44-04f41ac9cce5/info.json
+# [part2] Manoscritti 197_17v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6b12153b-b6f0-4c41-ba7d-e2fa1f7fc537/info.json
+# [part2] Manoscritti 197_18r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/46c1ea66-fc34-42dc-8529-6774d28dd9e6/info.json
+# [part2] Manoscritti 197_18v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/780f8504-57b4-424a-b25e-ecb96c1efda1/info.json
+# [part2] Manoscritti 197_19r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5c63d5d1-2f0e-4e33-9b6b-793718279617/info.json
+# [part2] Manoscritti 197_19v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/61b276df-cffb-4c45-89d1-437e3d5b3274/info.json
+# [part2] Manoscritti 197_20r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0e55dc50-7650-4ab7-b65d-aac791dd3e45/info.json
+# [part2] Manoscritti 197_20v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/db522f7f-0c17-449c-8e38-ee7626976509/info.json
+# [part2] Manoscritti 197_21r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5451d7e9-58e7-4e4c-841f-4e582c991645/info.json
+# [part2] Manoscritti 197_21v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4adb20e3-3e9b-4976-83c4-03ccbdd28da7/info.json
+# [part2] Manoscritti 197_22r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3894fc62-7f7c-463e-8356-10bb2a39aec8/info.json
+# [part2] Manoscritti 197_22v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/15a9ffe9-b742-404a-aeec-20e954f9c1a1/info.json
+# [part3] Manoscritti 197_001r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/74baafeb-2ad9-4822-82c5-00b34f45f147/info.json
+# [part3] Manoscritti 197_001v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d5071912-84f7-418e-b403-9018a3b01276/info.json
+# [part3] Manoscritti 197_002r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/758add41-12c2-4c52-8339-3b332a3b408e/info.json
+# [part3] Manoscritti 197_002v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c3f492ec-b59c-4f0e-94ce-0eea6739cee1/info.json
+# [part3] Manoscritti 197_003r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0e9f9aca-b6a9-45fc-a1c1-6dcd533a860c/info.json
+# [part3] Manoscritti 197_003v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e968fbe2-b1c0-41c0-834e-9f8315589106/info.json
+# [part3] Manoscritti 197_004r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b971f987-eea9-4114-828a-3867a9f21e79/info.json
+# [part3] Manoscritti 197_004v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7298d74e-d110-4cf2-9f7c-ced6519b03b6/info.json
+# [part3] Manoscritti 197_005r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d9164421-1d24-4a7d-96e4-8842cc53b1a7/info.json
+# [part3] Manoscritti 197_005v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0a9eb3e5-2426-4393-ab0c-27393b39eb03/info.json
+# [part3] Manoscritti 197_006r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/83f7bbe1-a94a-4460-865a-24d159820eac/info.json
+# [part3] Manoscritti 197_006v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/23f90388-23b9-4a20-b07a-d4706e501a77/info.json
+# [part3] Manoscritti 197_007r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c20622a5-75f1-448e-9359-5368bfcbe26f/info.json
+# [part3] Manoscritti 197_007v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bd43332e-6f72-44f4-98fa-8dd8347f9308/info.json
+# [part3] Manoscritti 197_008r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/306fe470-b574-4db0-a2c2-4bf0d9ec70d3/info.json
+# [part3] Manoscritti 197_008v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/266fda8c-e92a-433b-a229-62812c9ef510/info.json
+# [part3] Manoscritti 197_009r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/33668fe3-d8da-4899-b50d-d15184008f4c/info.json
+# [part3] Manoscritti 197_009v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fb28565e-e308-4c69-98b1-40a525adfd81/info.json
+# [part3] Manoscritti 197_010r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6344105c-ac09-4757-8172-6257bebc7248/info.json
+# [part3] Manoscritti 197_010v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/367a4738-9a79-4c7e-bea2-427349956dd3/info.json
+# [part3] Manoscritti 197_011r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/34c99042-6ddc-4367-a3a2-2589ebdf10b7/info.json
+# [part3] Manoscritti 197_011v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b94efc05-00ab-4719-b2b7-9a4addc58ff1/info.json
+# [part3] Manoscritti 197_012r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/09833db8-b792-49d4-aa7a-f0bcc4dc20f1/info.json
+# [part3] Manoscritti 197_012v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/419edeac-f2b0-4e43-8c7f-707270d54f62/info.json
+# [part3] Manoscritti 197_013r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/625a244a-4463-4acd-889f-c5c9cad103c4/info.json
+# [part3] Manoscritti 197_013v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/272c416e-7366-4e73-a33a-def632314010/info.json
+# [part3] Manoscritti 197_014r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/35c3fcb6-2cfa-4aa4-b698-4f8ca44c416c/info.json
+# [part3] Manoscritti 197_014v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0818fde8-a64f-4f0a-85bf-e124b304b814/info.json
+# [part3] Manoscritti 197_015r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4a13da98-819a-463c-8c47-4a9b55c91f1e/info.json
+# [part3] Manoscritti 197_015v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d47d6b51-0b5b-4bd8-903c-f7bb86a1a69b/info.json
+# [part3] Manoscritti 197_016r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a74d2612-d207-4f93-973e-0f5e4c30fd1a/info.json
+# [part3] Manoscritti 197_016v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b3aa1b8b-ee3d-43ee-9135-a798a6be0374/info.json
+# [part3] Manoscritti 197_017r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/67f4e525-a38b-4df8-b614-98cefb791376/info.json
+# [part3] Manoscritti 197_017v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bf0ce8a8-d615-4601-b688-7b594c5a6e2b/info.json
+# [part3] Manoscritti 197_018r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e0817219-bae6-4734-9dcc-3afd58930224/info.json
+# [part3] Manoscritti 197_018v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/81059f03-e69b-4aeb-afe5-e7b1920f4bb9/info.json
+# [part3] Manoscritti 197_019r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/644ba52c-4987-4eec-869e-9d462463aeb3/info.json
+# [part3] Manoscritti 197_019v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a9f10330-d92a-4fb8-8d60-a2018ecbda0a/info.json
+# [part3] Manoscritti 197_020r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/248b483a-ddc2-43af-a453-3b0ffed65c31/info.json
+# [part3] Manoscritti 197_020v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a6103148-89b0-4fcd-b465-14ea8bdd536e/info.json
+# [part3] Manoscritti 197_021r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d5ef3545-cb4c-4917-b378-b1b86d350b93/info.json
+# [part3] Manoscritti 197_021v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8af25bb6-6aca-4267-b5da-9086d6c0ccc0/info.json
+# [part3] Manoscritti 197_022r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b340374b-6a97-44f0-8359-92ed6a0970f5/info.json
+# [part3] Manoscritti 197_022v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6086e14f-58ed-4999-96f2-a97752fa93b4/info.json
+# [part3] Manoscritti 197_023r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/22bef221-41e2-4072-afa0-5cba2e9bf97e/info.json
+# [part3] Manoscritti 197_023v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1ac73a8e-5bc5-423d-96cb-aad6e4c7da3e/info.json
+# [part3] Manoscritti 197_024r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/facba2a4-771b-4fa7-b73b-27a6d0c07643/info.json
+# [part3] Manoscritti 197_024v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/93decb03-4162-465d-bcd0-291af8e8124a/info.json
+# [part3] Manoscritti 197_025r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/01192197-4207-45b0-b740-18bde442d521/info.json
+# [part3] Manoscritti 197_025v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/65219721-4d14-4d2c-a3ec-a36f6c35e289/info.json
+# [part3] Manoscritti 197_026r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4fa548d0-4d06-447a-bb17-a004810f5461/info.json
+# [part3] Manoscritti 197_026v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6dd1af87-9ded-4122-a826-c41735b3ba4b/info.json
+# [part3] Manoscritti 197_027r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/92a211a9-2d9b-46b0-b019-a14de923dc4a/info.json
+# [part3] Manoscritti 197_027v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c433e638-c47c-4d61-b71b-f6ff65b59f4c/info.json
+# [part3] Manoscritti 197_028r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/25496a72-a497-46d3-86b5-0dc44ce47da9/info.json
+# [part3] Manoscritti 197_028v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cd77caf0-b903-45c3-b869-505b1beb24c3/info.json
+# [part3] Manoscritti 197_029r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/982915b9-1bef-4aca-911d-b14e6a734d06/info.json
+# [part3] Manoscritti 197_029v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/75c267c1-0187-4c9d-b0d4-0b649f828d88/info.json
+# [part3] Manoscritti 197_030r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8c5e7e15-f66a-4ff3-bfbe-684cb5ef5f8e/info.json
+# [part3] Manoscritti 197_030v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/01e939ff-e401-4586-8502-a19e8de466f3/info.json
+# [part3] Manoscritti 197_031r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f5895ccd-b2ed-42ac-9603-a66fe9557add/info.json
+# [part3] Manoscritti 197_031v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/55b0ae6e-d45e-44e8-a8df-fb34f580ce2c/info.json
+# [part3] Manoscritti 197_032r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f7e5ab37-1526-423f-96eb-b109973a66d0/info.json
+# [part3] Manoscritti 197_032v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f7a499c9-3607-45ac-a8a5-fa34f1ef73bb/info.json
+# [part3] Manoscritti 197_033r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/41ba45e6-ff62-4441-ac69-01bbcb6d3b56/info.json
+# [part3] Manoscritti 197_033v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d0279a01-8c26-48e7-82cd-09c9fb42660c/info.json
+# [part3] Manoscritti 197_034r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/19fd4c47-c025-40a5-bd1e-3e6ee307ba2e/info.json
+# [part3] Manoscritti 197_034v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b700a46a-f2e9-4d31-b220-3e83f7cb4262/info.json
+# [part3] Manoscritti 197_035r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/99b4ee35-a741-455e-8524-974a0f2eac1c/info.json
+# [part3] Manoscritti 197_035v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b5446f88-d244-4f4f-8f71-f09674dc00cd/info.json
+# [part3] Manoscritti 197_036r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/75b94af0-7efe-4996-97c5-2380d5d9a433/info.json
+# [part3] Manoscritti 197_036v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0f5c3901-84d2-4e6e-89ca-77339c67379d/info.json
+# [part3] Manoscritti 197_037r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/44c17539-2a1c-4cd1-9baa-608db31df0c9/info.json
+# [part3] Manoscritti 197_037v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/73bc5e74-6c55-4b4b-9995-d5f86fdb75fe/info.json
+# [part3] Manoscritti 197_038r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7e7f1afa-22e5-476b-aaf7-26e66afdbbcf/info.json
+# [part3] Manoscritti 197_038v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4293c972-e859-4417-831b-7aad05e62567/info.json
+# [part3] Manoscritti 197_039r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/195f2013-3890-4feb-9936-d25df529a063/info.json
+# [part3] Manoscritti 197_039v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7be63bc3-2b78-4368-b8dd-590a4cb5335a/info.json
+# [part3] Manoscritti 197_040r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c957df99-1015-4a84-a84d-9ccd63e2250b/info.json
+# [part3] Manoscritti 197_040v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/26225775-f610-4c6a-bc30-848c8039e93f/info.json
+# [part3] Manoscritti 197_041r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/80374a88-00b8-4bc4-b7a7-4586821c3321/info.json
+# [part3] Manoscritti 197_041v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bf3e4d8c-da38-4969-b422-468831d2fcea/info.json
+# [part3] Manoscritti 197_042r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/84a939a8-b785-49b5-8177-fe61dc7730a2/info.json
+# [part3] Manoscritti 197_042v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c78aa792-4ebc-4ac5-8b0a-d13d3dcf964d/info.json
+# [part3] Manoscritti 197_043r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d47e6253-920b-4236-a97f-6fd5154c83a0/info.json
+# [part3] Manoscritti 197_043v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/883bd16a-93a1-493a-87bd-bc50401d9857/info.json
+# [part3] Manoscritti 197_044r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/30471aef-51a7-4a73-a1a3-38deef5fc8f3/info.json
+# [part3] Manoscritti 197_044v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7c204236-eb2a-4a2a-8641-ed70ea536d60/info.json
+# [part3] Manoscritti 197_045r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7d7677be-e268-4029-bf38-6b3b7681eec5/info.json
+# [part3] Manoscritti 197_045v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9a8a7e88-a082-4b9a-86a2-a8e26f6f56e2/info.json
+# [part3] Manoscritti 197_046r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2ff0c2bc-2603-4fc3-bf3b-d68bdd58d614/info.json
+# [part3] Manoscritti 197_046v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9fdcb32e-3874-4746-a3fb-bf0e526be396/info.json
+# [part3] Manoscritti 197_047r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1b315695-f858-4bbd-919d-3cd7a9e016f4/info.json
+# [part3] Manoscritti 197_047v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bd0df4cc-32d3-4daf-b174-631023c3f7aa/info.json
+# [part3] Manoscritti 197_048r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a48a8c23-033c-41a3-a555-82af26a4fae5/info.json
+# [part3] Manoscritti 197_048v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/82a9976c-bb22-45a7-b082-bb36702a7342/info.json
+# [part3] Manoscritti 197_049r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/32b6e255-a273-4794-983f-67ac69ea910a/info.json
+# [part3] Manoscritti 197_049v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b3a0125d-1ba9-4f30-a7c6-0220cb67f5bc/info.json
+# [part3] Manoscritti 197_050r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b266c08e-304b-41bd-b033-ebc228a85ab8/info.json
+# [part3] Manoscritti 197_050v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/412f2327-be3a-48ed-9608-b8fcda539747/info.json
+# [part3] Manoscritti 197_051r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c34d1e4b-a093-4acb-beee-7950366f378e/info.json
+# [part3] Manoscritti 197_051v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5d638cbd-d992-473f-b0ff-ad53d20bc850/info.json
+# [part3] Manoscritti 197_052r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/390d1347-2899-4492-b710-334e72ca95b2/info.json
+# [part3] Manoscritti 197_052v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c1848566-d686-4b37-859e-f128af858caa/info.json
+# [part3] Manoscritti 197_053r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f494c641-0a8f-4074-9481-7c04867a9c77/info.json
+# [part3] Manoscritti 197_053v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f88a238e-d784-4f52-993c-40892958f9d1/info.json
+# [part3] Manoscritti 197_054r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2c4a1d52-aead-46b8-92c8-d555fe604393/info.json
+# [part3] Manoscritti 197_054v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d729c421-f5b7-4ddf-9eca-0ee322a86780/info.json
+# [part3] Manoscritti 197_055r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3b3e21f1-1f81-43a9-8df2-6e0aa1a1d483/info.json
+# [part3] Manoscritti 197_055v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6cc47ddf-44f6-4d59-b053-0e011706b570/info.json
+# [part3] Manoscritti 197_056r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/23bb7956-0394-476e-a5c4-b3b8d7b90276/info.json
+# [part3] Manoscritti 197_056v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5c2ef94f-71ea-438f-af95-2bb9bc0d1c9d/info.json
+# [part3] Manoscritti 197_057r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/41e5469d-90d7-4073-9bc0-a9d6622bcc9d/info.json
+# [part3] Manoscritti 197_057v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/98671636-3c37-4c5e-a2cd-47bc4b8b030d/info.json
+# [part3] Manoscritti 197_058r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a3a7af9f-2ed5-4262-9651-591975e13b91/info.json
+# [part3] Manoscritti 197_058v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/719aa71f-4db8-4810-ab7a-a3c92aa1518f/info.json
+# [part3] Manoscritti 197_059r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5a11ad97-5257-4ad2-98a3-f820fd4607c6/info.json
+# [part3] Manoscritti 197_059v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/36ff221a-6f6c-4002-97cf-19c8c95f2df0/info.json
+# [part3] Manoscritti 197_060r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3abd68a1-fe0c-492c-b692-20f15bd66157/info.json
+# [part3] Manoscritti 197_060v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/60e96eb8-4c33-473e-a4d0-d0e01cea6e19/info.json
+# [part3] Manoscritti 197_061r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f714c57d-13f5-43f8-b925-32f0403f5d1a/info.json
+# [part3] Manoscritti 197_061v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/144e8a1b-46b1-4574-a051-5f140cf8e7c7/info.json
+# [part3] Manoscritti 197_062r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7afc727e-65e1-4bac-8ec9-6f021d2534dc/info.json
+# [part3] Manoscritti 197_062v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ed862932-b490-4fbd-99a2-fe95f65084ca/info.json
+# [part3] Manoscritti 197_063r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/43ea45ce-84a8-4a88-9fb6-debabcb23f5a/info.json
+# [part3] Manoscritti 197_063v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/59f60993-be3f-43d2-a829-1d44fe798b2d/info.json
+# [part3] Manoscritti 197_064r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/284a8937-2c47-4776-b1d8-aea1955570c2/info.json
+# [part3] Manoscritti 197_064v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/973e1e61-6713-4a06-8ca1-ec25dd91eb63/info.json
+# [part3] Manoscritti 197_065r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b423bb02-e6e9-44bc-8349-b05ad369b826/info.json
+# [part3] Manoscritti 197_065v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6e3ed0b1-d370-472e-9a15-bffb7e60aded/info.json
+# [part3] Manoscritti 197_066r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/640be7e9-09a3-4fc7-a5e5-8ff74f7394a1/info.json
+# [part3] Manoscritti 197_066v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6bd1ac30-7cfc-486b-bd86-27f2cd811420/info.json
+# [part3] Manoscritti 197_067r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a1404d04-ba86-4ca0-a759-ec04b0e4f0c5/info.json
+# [part3] Manoscritti 197_067v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9df38801-0e3b-4b08-ba06-86ceb975f183/info.json
+# [part3] Manoscritti 197_068r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/daa0fa06-ef3c-4cb4-9c06-50e2335d1db1/info.json
+# [part3] Manoscritti 197_068v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/787f536e-8f7d-4f10-984b-0bc41c7a16cd/info.json
+# [part3] Manoscritti 197_069r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/025fcfbb-3ee5-474c-9dee-062bd1765d89/info.json
+# [part3] Manoscritti 197_069v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4a4f3e12-e403-4212-a715-46c1b7dff191/info.json
+# [part3] Manoscritti 197_070r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d70d9bf6-ef06-432c-8a56-ea6dd4945ae2/info.json
+# [part3] Manoscritti 197_070v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e7d0c72d-df28-442c-8370-8cbb267d9831/info.json
+# [part3] Manoscritti 197_071r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/202e30c0-5a27-4faf-b99b-e92304a42860/info.json
+# [part3] Manoscritti 197_071v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/57743d94-a1ba-471b-afc7-9dfc7c569291/info.json
+# [part3] Manoscritti 197_072r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b1b7e92e-3e34-4ff9-87e2-b68a3e7333c4/info.json
+# [part3] Manoscritti 197_072v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/aa8b7912-6b1f-4ac7-9a2c-77b4f317aa91/info.json
+# [part3] Manoscritti 197_073r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7e2ece3a-5ef4-41aa-83e5-1c7a201d2847/info.json
+# [part3] Manoscritti 197_073v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8dd0f785-440e-4dd2-abd2-af8b360d49fd/info.json
+# [part3] Manoscritti 197_074r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4b23c981-3d6d-46ef-a886-ce01f84b4c9b/info.json
+# [part3] Manoscritti 197_074v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1236a7d6-2c06-4ce1-b097-8156c5d4c736/info.json
+# [part3] Manoscritti 197_075r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/078db0ef-e641-4c93-9e49-102305a109d3/info.json
+# [part3] Manoscritti 197_075v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4638500c-2dbb-4af6-8f3c-c35b33e4f07d/info.json
+# [part3] Manoscritti 197_076r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8cd45393-1145-4062-9b06-e186bbabafd1/info.json
+# [part3] Manoscritti 197_076v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9160cf64-28fe-49b3-a48e-59a366be57f8/info.json
+# [part3] Manoscritti 197_077r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/044defb2-60ba-46cb-83a3-0eb962a37da5/info.json
+# [part3] Manoscritti 197_077v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dfb031bf-53ff-4dd0-9721-72c84664db8d/info.json
+# [part3] Manoscritti 197_078r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/afc1af05-4ff4-423e-8868-e4dd6244f672/info.json
+# [part3] Manoscritti 197_078v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d73170cc-cf58-475c-a32b-97a4f1e69d3e/info.json
+# [part3] Manoscritti 197_079r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/125f4f00-ff84-4e5f-a8fb-f6c686c1b5a5/info.json
+# [part3] Manoscritti 197_079v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/920a0bdc-179f-43fb-8cdf-f22e18eb0fc0/info.json
+# [part3] Manoscritti 197_080r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/13c57380-f6e7-43d0-a315-56c5736119e2/info.json
+# [part3] Manoscritti 197_080v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a1040030-7f2d-4e8b-9431-23678ec97808/info.json
+# [part3] Manoscritti 197_081r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/355d8aa8-edc0-41f8-9189-af731fccaba5/info.json
+# [part3] Manoscritti 197_081v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b28bf574-ca79-4d0f-9b95-d38b983de74d/info.json
+# [part3] Manoscritti 197_082r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a6dc7027-1c66-4f14-b66d-3e7691b70470/info.json
+# [part3] Manoscritti 197_082v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c170584d-5ea1-409c-aa6f-0575946b171d/info.json
+# [part3] Manoscritti 197_083r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/62f80d12-eb5d-4003-86da-8d54b8281c9b/info.json
+# [part3] Manoscritti 197_083v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/85e260a7-5b43-47fc-840a-d8a5a04d308b/info.json
+# [part3] Manoscritti 197_084r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/979a9351-3aad-4663-b9ba-9ebc34ae6081/info.json
+# [part3] Manoscritti 197_084v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/85975cda-a1a7-4966-980e-1b5389fa1e12/info.json
+# [part3] Manoscritti 197_085r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cbd882b3-0ad8-4f6a-bed0-72d1b98d54ab/info.json
+# [part3] Manoscritti 197_085v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/75ae6f42-a5ea-457f-b7fc-b0412eeed543/info.json
+# [part3] Manoscritti 197_086r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b81ab351-317f-4e33-9ee9-b919659f4da8/info.json
+# [part3] Manoscritti 197_086v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d5f5e5d6-7fd2-4de3-860a-d2e36693766d/info.json
+# [part3] Manoscritti 197_087r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1319f4bd-e669-4f1f-b4ab-ba5ae6a1121f/info.json
+# [part3] Manoscritti 197_087v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e620cea8-d32b-47e8-a1db-ac08c0635b5a/info.json
+# [part3] Manoscritti 197_088r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/81b8d864-43b5-4004-97af-570748abb9e4/info.json
+# [part3] Manoscritti 197_088v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4bd15ad7-14da-405b-a1f2-f00aaf84da11/info.json
+# [part3] Manoscritti 197_089r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f9ad3687-bc8d-4e79-9931-8cfd1b0f0740/info.json
+# [part3] Manoscritti 197_089v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1108cecc-bd64-4ccb-9083-eecddfbb4d4e/info.json
+# [part3] Manoscritti 197_090r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cc44baf9-c095-49e9-bde8-0358fc7db058/info.json
+# [part3] Manoscritti 197_090v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8d93a6a0-3321-4a18-b6fd-6532061f0178/info.json
+# [part3] Manoscritti 197_091r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/23bd73b5-1239-4a4f-9795-c19cc147943f/info.json
+# [part3] Manoscritti 197_091v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/97e93151-e824-409c-a04b-d05f73a7d196/info.json
+# [part3] Manoscritti 197_092r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/20fae8e3-706a-4f27-8686-4bbb3c1dcb7a/info.json
+# [part3] Manoscritti 197_092v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/98c89c18-8c5c-49ce-9bb9-10ad2186e41a/info.json
+# [part3] Manoscritti 197_093r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6f4557f4-417d-447b-bb79-2e0927ff0387/info.json
+# [part3] Manoscritti 197_093v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/938826bd-7e0f-418a-8041-1e0d9ecb65e6/info.json
+# [part3] Manoscritti 197_094r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cef93b43-645d-4edf-bf5f-914c7f2705e9/info.json
+# [part3] Manoscritti 197_094v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/251395a0-244b-4d09-bef5-2a83d891f1f9/info.json
+# [part3] Manoscritti 197_095r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ba5cefc4-35d0-4e4d-87fb-c532c95091dd/info.json
+# [part3] Manoscritti 197_095v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5e01daa4-05ff-4ad4-adfe-8b46dabc562c/info.json
+# [part3] Manoscritti 197_096r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/203266e1-b067-45f6-b2b4-ef8cb4eb2fd4/info.json
+# [part3] Manoscritti 197_096v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f899c3bd-7a84-4836-84b2-c67e3ae275ee/info.json
+# [part3] Manoscritti 197_097r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1594d2d2-55f5-4169-9286-a2d36bbda614/info.json
+# [part3] Manoscritti 197_097v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/938e08f7-575c-46b9-baa1-b2a4d84661ca/info.json
+# [part3] Manoscritti 197_098r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/06ad5a07-8634-4c19-ad8b-71b7668e96d5/info.json
+# [part3] Manoscritti 197_098v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f12ec400-0167-414f-97d2-f0e6fce1102f/info.json
+# [part3] Manoscritti 197_099r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/74493b53-19fe-4ea1-ab91-5d1441cbd71b/info.json
+# [part3] Manoscritti 197_099v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/914dbb74-393a-421f-8cc5-1d66d3f0f7a9/info.json
+# [part3] Manoscritti 197_100r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/700878ed-c139-4141-967d-472e6da16bfc/info.json
+# [part3] Manoscritti 197_100v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/84c87857-1dbe-4b5d-baec-98e01089cfa8/info.json
+# [part3] Manoscritti 197_101r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/19811412-4dc5-4cc9-94a3-e37c6106bece/info.json
+# [part3] Manoscritti 197_101v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c633b8c4-88c2-43b6-97d2-d79b7aaa538e/info.json
+# [part3] Manoscritti 197_102r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8048604d-4754-48ba-a194-0522a8b94625/info.json
+# [part3] Manoscritti 197_102v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5ac74910-102b-4ef7-8161-616bf7725a50/info.json
+# [part3] Manoscritti 197_103r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9ceffddd-a2c6-4f24-9597-838ad9d2e6e5/info.json
+# [part3] Manoscritti 197_103v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/55fac199-b722-4815-8340-d4e38d2757d6/info.json
+# [part3] Manoscritti 197_104r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/96b22834-1342-4c4a-aac8-08c575933a52/info.json
+# [part3] Manoscritti 197_104v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/372e2a3a-a563-44ad-bd1a-4bfed55a1899/info.json
+# [part3] Manoscritti 197_105r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5b3eae00-caa6-408a-acb3-26ed1a5a9c27/info.json
+# [part3] Manoscritti 197_105v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7c15b174-4eb5-4cdb-938e-e751f3351245/info.json
+# [part3] Manoscritti 197_106r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7b7ffafc-e801-4b68-a2e8-d08538dd240b/info.json
+# [part3] Manoscritti 197_106v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a2d6e25a-f8c6-4d63-809c-fd755ba79856/info.json
+# [part3] Manoscritti 197_107r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/23697a95-c153-4076-bdb6-ec015ba5f0dd/info.json
+# [part3] Manoscritti 197_107v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/65b7b8ef-3dcb-4b28-9be6-c420f0ded84d/info.json
+# [part3] Manoscritti 197_108r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c1b64ebb-e9dc-4d46-aa66-c64dd573d4b4/info.json
+# [part3] Manoscritti 197_108v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/91926a84-a002-4176-b1bd-312160a79249/info.json
+# [part3] Manoscritti 197_109r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4f7b3987-2857-4f3a-a2a6-fd0a6a4c2f9c/info.json
+# [part3] Manoscritti 197_109v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1182178b-85b6-4edd-b58b-9659afcc200d/info.json
+# [part3] Manoscritti 197_110r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a4c3c79a-c1a8-4fb5-bce9-b5cb6829393d/info.json
+# [part3] Manoscritti 197_110v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/314ffc24-8e24-472d-bade-80e4a88126e9/info.json
+# [part3] Manoscritti 197_111r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ed5eae6e-9ffa-4c01-a7a5-30c058f8fedd/info.json
+# [part3] Manoscritti 197_111v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/425bbe0a-28fd-440a-a067-a000dbe18b55/info.json
+# [part3] Manoscritti 197_112r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/33a30cd6-952c-4a4d-a559-036854a949ad/info.json
+# [part3] Manoscritti 197_112v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/38e153a8-64c3-4c63-996d-1c1b534fe42c/info.json
+# [part3] Manoscritti 197_113r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2e763145-25c0-4f82-a0d1-7f511b97f41d/info.json
+# [part3] Manoscritti 197_113v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/69b873bb-4be2-4aeb-9ae5-0d9c76768f5b/info.json
+# [part3] Manoscritti 197_114r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a445352a-79bd-4767-bbc1-d08bbbdab8de/info.json
+# [part3] Manoscritti 197_114v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/07a0645f-78a5-4e46-8799-cc2f2025be6c/info.json
+# [part3] Manoscritti 197_115r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8de0cf2f-a3ff-450a-998c-ad9bc6b05dd9/info.json
+# [part3] Manoscritti 197_115v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1d171fe6-18e9-4614-a60e-4eff71246769/info.json
+# [part3] Manoscritti 197_116r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1c795446-adf9-4461-b12c-40daa5c49cef/info.json
+# [part3] Manoscritti 197_116v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8c8aae98-9600-4f53-8f0d-aa6c043beb55/info.json
+# [part3] Manoscritti 197_117r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/942c0dff-6a7c-468c-a02c-aae7d5df10c4/info.json
+# [part3] Manoscritti 197_117v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c972d847-20e1-4631-b59d-f017e5a839f2/info.json
+# [part3] Manoscritti 197_118r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8a515da0-695e-4a39-81f0-012d165ef9ca/info.json
+# [part3] Manoscritti 197_118v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/70951f70-67c6-4e91-9673-3f81e28160ca/info.json
+# [part3] Manoscritti 197_119r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/67c4526b-24ec-4453-b0e1-ba17cc3f4c31/info.json
+# [part3] Manoscritti 197_119v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ca3ae7ce-77d9-4e25-a2d8-9f2ca1c851ed/info.json
+# [part3] Manoscritti 197_120r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/04f2cd3e-92f6-4b44-bd64-e11d98f18dc5/info.json
+# [part3] Manoscritti 197_120v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f8dbfaa2-1776-482f-9c1c-29efd1cf1145/info.json
+# [part3] Manoscritti 197_121r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/507ee4d9-191d-46bf-b489-a60cc7e75967/info.json
+# [part3] Manoscritti 197_121v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a5a8b288-87a0-45af-9b1b-add35edcf22f/info.json
+# [part3] Manoscritti 197_122r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9fed4288-4105-4f92-91f5-f8cdff2b7164/info.json
+# [part3] Manoscritti 197_122v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e6d36eaf-535b-43ba-a00e-613145d6fa12/info.json
+# [part3] Manoscritti 197_123r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2d5446c4-455e-4927-a990-92a68892b9dc/info.json
+# [part3] Manoscritti 197_123v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e324645c-faaf-4661-9350-5595d4e8e82f/info.json
+# [part3] Manoscritti 197_124r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/20256803-f66a-4f35-97a8-ada9a3ade7ef/info.json
+# [part3] Manoscritti 197_124v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3ec337a7-c2f4-47ac-bc6d-a39504574522/info.json
+# [part3] Manoscritti 197_125r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e419b8ea-5454-42b5-80a6-0cff5b39f647/info.json
+# [part3] Manoscritti 197_125v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b6f69532-f6e7-4651-8b23-4942785b74d8/info.json
+# [part3] Manoscritti 197_126r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/31af53cd-7a28-45a4-b182-ff6a1565f3e5/info.json
+# [part3] Manoscritti 197_126v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2899a139-2943-448d-9e1b-13185e10aa11/info.json
+# [part3] Manoscritti 197_127r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/590b9c52-2257-4845-8a73-d5af9d266748/info.json
+# [part3] Manoscritti 197_127v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dc57561f-8f60-4690-8f5f-ceaaf6b18ccb/info.json
+# [part3] Manoscritti 197_128r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0ef8ac1b-e46e-41a7-9e03-f6db6a89d9f8/info.json
+# [part3] Manoscritti 197_128v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/08782403-3635-4372-b490-4b39d005d54b/info.json
+# [part3] Manoscritti 197_129r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6b77cb98-f1e0-441d-aa6c-69522733e78a/info.json
+# [part3] Manoscritti 197_129v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7461928c-67a5-40c1-bddf-27f8ddf4009a/info.json
+# [part3] Manoscritti 197_130r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1215a84a-2a2b-416c-bdca-f3c5c7a22818/info.json
+# [part3] Manoscritti 197_130v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/eadeab7b-a419-4158-a79f-7bca971ebcb0/info.json
+# [part3] Manoscritti 197_131r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0381309c-57c7-4f62-8971-d96eec6b99b8/info.json
