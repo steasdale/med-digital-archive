@@ -1,0 +1,189 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@type" : "sc:Manifest",
+  "@id" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/manifest",
+  "label" : "Manoscritti, 197_1",
+  "metadata" : [ {
+    "label" : "pressmark",
+    "value" : "Archivio di Stato di Genova, Manoscritti, 197_1"
+  }, {
+    "label" : "sgtt",
+    "value" : "Manoscritti, 197_1"
+  }, {
+    "label" : "uuid",
+    "value" : "70738f7a-4c5d-4568-abee-9b70e24d7737"
+  } ],
+  "sequences" : [ {
+    "@id" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/sequence/default",
+    "@type" : "sc:Sequence",
+    "label" : "default",
+    "startCanvas" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/03fe1d3c-5a46-42fe-9a12-9ac8b6a89342",
+    "canvases" : [ {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/03fe1d3c-5a46-42fe-9a12-9ac8b6a89342",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 197_1.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 197_1.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/03fe1d3c-5a46-42fe-9a12-9ac8b6a89342",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/03fe1d3c-5a46-42fe-9a12-9ac8b6a89342",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2658,
+          "height" : 1910
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/03fe1d3c-5a46-42fe-9a12-9ac8b6a89342"
+      } ],
+      "width" : 2658,
+      "height" : 1910
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/5c286465-7e47-4bb6-8211-7b57436360e3",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 197_2.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 197_2.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/5c286465-7e47-4bb6-8211-7b57436360e3",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/5c286465-7e47-4bb6-8211-7b57436360e3",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2638,
+          "height" : 1905
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/5c286465-7e47-4bb6-8211-7b57436360e3"
+      } ],
+      "width" : 2638,
+      "height" : 1905
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/93a6c552-729f-44f0-9616-ab8766a47d25",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 197_3.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 197_3.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/93a6c552-729f-44f0-9616-ab8766a47d25",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/93a6c552-729f-44f0-9616-ab8766a47d25",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2638,
+          "height" : 1905
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/93a6c552-729f-44f0-9616-ab8766a47d25"
+      } ],
+      "width" : 2638,
+      "height" : 1905
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/4514f4b1-60e4-4995-b2db-15593ddcd8b8",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 197_4.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 197_4.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/4514f4b1-60e4-4995-b2db-15593ddcd8b8",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/4514f4b1-60e4-4995-b2db-15593ddcd8b8",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2638,
+          "height" : 1905
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/4514f4b1-60e4-4995-b2db-15593ddcd8b8"
+      } ],
+      "width" : 2638,
+      "height" : 1905
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/0e81b3f9-fdd4-4c27-addb-3bf3ebcdcd42",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 197_5.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 197_5.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/0e81b3f9-fdd4-4c27-addb-3bf3ebcdcd42",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/0e81b3f9-fdd4-4c27-addb-3bf3ebcdcd42",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1378,
+          "height" : 1905
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/0e81b3f9-fdd4-4c27-addb-3bf3ebcdcd42"
+      } ],
+      "width" : 1378,
+      "height" : 1905
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/9320c4f2-1fc4-4576-ae60-bd6e2a149bba",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 197_coperta_1.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 197_coperta_1.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9320c4f2-1fc4-4576-ae60-bd6e2a149bba",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9320c4f2-1fc4-4576-ae60-bd6e2a149bba",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2782,
+          "height" : 1920
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/70738f7a-4c5d-4568-abee-9b70e24d7737/canvas/9320c4f2-1fc4-4576-ae60-bd6e2a149bba"
+      } ],
+      "width" : 2782,
+      "height" : 1920
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://asge.jarvis.memooria.org/images/db/03fe1d3c-5a46-42fe-9a12-9ac8b6a89342/thumb.jpg",
+    "format" : "image/jpeg"
+  }
+}

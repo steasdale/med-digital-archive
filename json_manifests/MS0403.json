@@ -1,0 +1,1080 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@type" : "sc:Manifest",
+  "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/manifest",
+  "label" : "Manoscritti, 403",
+  "metadata" : [ {
+    "label" : "pressmark",
+    "value" : "Archivio di Stato di Genova, Manoscritti, 403"
+  }, {
+    "label" : "sgtt",
+    "value" : "Manoscritti, 403"
+  }, {
+    "label" : "uuid",
+    "value" : "a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73"
+  } ],
+  "sequences" : [ {
+    "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/sequence/default",
+    "@type" : "sc:Sequence",
+    "label" : "default",
+    "startCanvas" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/4ab95a02-3b7f-4523-b725-177f55e40966",
+    "canvases" : [ {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/4ab95a02-3b7f-4523-b725-177f55e40966",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_000.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_000.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/4ab95a02-3b7f-4523-b725-177f55e40966",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/4ab95a02-3b7f-4523-b725-177f55e40966",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3820,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/4ab95a02-3b7f-4523-b725-177f55e40966"
+      } ],
+      "width" : 3820,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/a4fa0b7f-8562-4f9a-a786-f12bec3f4690",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_000a.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_000a.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a4fa0b7f-8562-4f9a-a786-f12bec3f4690",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a4fa0b7f-8562-4f9a-a786-f12bec3f4690",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2010,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/a4fa0b7f-8562-4f9a-a786-f12bec3f4690"
+      } ],
+      "width" : 2010,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/feb095bd-51bd-47a7-b8d3-feb8eb3151e2",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_000b.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_000b.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/feb095bd-51bd-47a7-b8d3-feb8eb3151e2",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/feb095bd-51bd-47a7-b8d3-feb8eb3151e2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2010,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/feb095bd-51bd-47a7-b8d3-feb8eb3151e2"
+      } ],
+      "width" : 2010,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/c562f28e-9e0e-49be-a491-ccb706841d02",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_000c.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_000c.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c562f28e-9e0e-49be-a491-ccb706841d02",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c562f28e-9e0e-49be-a491-ccb706841d02",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2010,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/c562f28e-9e0e-49be-a491-ccb706841d02"
+      } ],
+      "width" : 2010,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/da279306-1b89-44f3-bc15-fd82c90fc77e",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_000d.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_000d.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/da279306-1b89-44f3-bc15-fd82c90fc77e",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/da279306-1b89-44f3-bc15-fd82c90fc77e",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2010,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/da279306-1b89-44f3-bc15-fd82c90fc77e"
+      } ],
+      "width" : 2010,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/31156b48-2721-4082-95dc-13d1600f4541",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_000e.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_000e.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/31156b48-2721-4082-95dc-13d1600f4541",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/31156b48-2721-4082-95dc-13d1600f4541",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1980,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/31156b48-2721-4082-95dc-13d1600f4541"
+      } ],
+      "width" : 1980,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/68b55a2a-d171-4616-90c4-180bdec2859f",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_000f.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_000f.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/68b55a2a-d171-4616-90c4-180bdec2859f",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/68b55a2a-d171-4616-90c4-180bdec2859f",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1980,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/68b55a2a-d171-4616-90c4-180bdec2859f"
+      } ],
+      "width" : 1980,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/c263f423-cf7e-41b1-80c9-f0d5c88cdfb3",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_000g.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_000g.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c263f423-cf7e-41b1-80c9-f0d5c88cdfb3",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c263f423-cf7e-41b1-80c9-f0d5c88cdfb3",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1980,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/c263f423-cf7e-41b1-80c9-f0d5c88cdfb3"
+      } ],
+      "width" : 1980,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/a9a04197-c17b-47b5-8d08-343048288797",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_000h.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_000h.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a9a04197-c17b-47b5-8d08-343048288797",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a9a04197-c17b-47b5-8d08-343048288797",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1980,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/a9a04197-c17b-47b5-8d08-343048288797"
+      } ],
+      "width" : 1980,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/8e5ef701-90ab-4f84-99e8-63d0258942e0",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_000i.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_000i.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/8e5ef701-90ab-4f84-99e8-63d0258942e0",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/8e5ef701-90ab-4f84-99e8-63d0258942e0",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1980,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/8e5ef701-90ab-4f84-99e8-63d0258942e0"
+      } ],
+      "width" : 1980,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/491f0de8-f5e6-4019-8986-ab6d744c5ed1",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_001r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_001r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/491f0de8-f5e6-4019-8986-ab6d744c5ed1",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/491f0de8-f5e6-4019-8986-ab6d744c5ed1",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1980,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/491f0de8-f5e6-4019-8986-ab6d744c5ed1"
+      } ],
+      "width" : 1980,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/bcdeb932-3bc0-4247-a691-660534fea011",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_001v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_001v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/bcdeb932-3bc0-4247-a691-660534fea011",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/bcdeb932-3bc0-4247-a691-660534fea011",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1980,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/bcdeb932-3bc0-4247-a691-660534fea011"
+      } ],
+      "width" : 1980,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/bf517330-a0ff-493e-9218-ae829750a9fe",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_002r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_002r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/bf517330-a0ff-493e-9218-ae829750a9fe",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/bf517330-a0ff-493e-9218-ae829750a9fe",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1980,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/bf517330-a0ff-493e-9218-ae829750a9fe"
+      } ],
+      "width" : 1980,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/5c8c27e6-64c7-4042-89cb-d9162b847f93",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_002v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_002v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/5c8c27e6-64c7-4042-89cb-d9162b847f93",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/5c8c27e6-64c7-4042-89cb-d9162b847f93",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/5c8c27e6-64c7-4042-89cb-d9162b847f93"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/5687701c-88c6-4cd9-bce3-bc7774f34a87",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_003r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_003r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/5687701c-88c6-4cd9-bce3-bc7774f34a87",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/5687701c-88c6-4cd9-bce3-bc7774f34a87",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/5687701c-88c6-4cd9-bce3-bc7774f34a87"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/ed88948d-b761-4913-89f0-61a94c60f1f4",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_003v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_003v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ed88948d-b761-4913-89f0-61a94c60f1f4",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ed88948d-b761-4913-89f0-61a94c60f1f4",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/ed88948d-b761-4913-89f0-61a94c60f1f4"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/c65edf8f-69c7-4034-8652-c89e3a1eecae",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_004r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_004r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c65edf8f-69c7-4034-8652-c89e3a1eecae",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c65edf8f-69c7-4034-8652-c89e3a1eecae",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/c65edf8f-69c7-4034-8652-c89e3a1eecae"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/3221bde2-af03-4067-bc2f-dc1698548c2d",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_004v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_004v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3221bde2-af03-4067-bc2f-dc1698548c2d",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3221bde2-af03-4067-bc2f-dc1698548c2d",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/3221bde2-af03-4067-bc2f-dc1698548c2d"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/18d5bfd2-c675-42f2-98d5-3f83cd709e1b",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_005r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_005r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/18d5bfd2-c675-42f2-98d5-3f83cd709e1b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/18d5bfd2-c675-42f2-98d5-3f83cd709e1b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/18d5bfd2-c675-42f2-98d5-3f83cd709e1b"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/c1b42b9f-03fb-4260-bfaf-4634997a68d8",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_005v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_005v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c1b42b9f-03fb-4260-bfaf-4634997a68d8",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c1b42b9f-03fb-4260-bfaf-4634997a68d8",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/c1b42b9f-03fb-4260-bfaf-4634997a68d8"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/b71b82d9-266c-4165-a9fa-edb9287044ba",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_006r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_006r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b71b82d9-266c-4165-a9fa-edb9287044ba",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b71b82d9-266c-4165-a9fa-edb9287044ba",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/b71b82d9-266c-4165-a9fa-edb9287044ba"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/b65e8fda-901d-42b3-b109-c1d2c79195d7",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_006v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_006v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b65e8fda-901d-42b3-b109-c1d2c79195d7",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b65e8fda-901d-42b3-b109-c1d2c79195d7",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/b65e8fda-901d-42b3-b109-c1d2c79195d7"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/43899703-d32f-4735-aa4c-afd36fa841f5",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_007r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_007r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/43899703-d32f-4735-aa4c-afd36fa841f5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/43899703-d32f-4735-aa4c-afd36fa841f5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/43899703-d32f-4735-aa4c-afd36fa841f5"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/916d9e4a-2c66-4d08-ba9f-4fa433fdf0e3",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_007v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_007v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/916d9e4a-2c66-4d08-ba9f-4fa433fdf0e3",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/916d9e4a-2c66-4d08-ba9f-4fa433fdf0e3",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/916d9e4a-2c66-4d08-ba9f-4fa433fdf0e3"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/e4861d88-1bd6-4190-b9cd-30cce1bc575b",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_008r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_008r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e4861d88-1bd6-4190-b9cd-30cce1bc575b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e4861d88-1bd6-4190-b9cd-30cce1bc575b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/e4861d88-1bd6-4190-b9cd-30cce1bc575b"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/1e2b7394-8012-40bc-bc84-a29407034b8c",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_008v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_008v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/1e2b7394-8012-40bc-bc84-a29407034b8c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/1e2b7394-8012-40bc-bc84-a29407034b8c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/1e2b7394-8012-40bc-bc84-a29407034b8c"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/40115976-6e17-4332-bc15-ea22b56d07a7",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_009r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_009r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/40115976-6e17-4332-bc15-ea22b56d07a7",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/40115976-6e17-4332-bc15-ea22b56d07a7",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/40115976-6e17-4332-bc15-ea22b56d07a7"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/9afe0a9f-f76e-4eae-83de-9ecb8b1467fd",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_009v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_009v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9afe0a9f-f76e-4eae-83de-9ecb8b1467fd",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9afe0a9f-f76e-4eae-83de-9ecb8b1467fd",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/9afe0a9f-f76e-4eae-83de-9ecb8b1467fd"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/50151ef5-bf70-42a5-8d1f-f83aeb7a28ce",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_010r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_010r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/50151ef5-bf70-42a5-8d1f-f83aeb7a28ce",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/50151ef5-bf70-42a5-8d1f-f83aeb7a28ce",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/50151ef5-bf70-42a5-8d1f-f83aeb7a28ce"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/9304d64a-a249-417c-a638-48eef5a6ad53",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_010v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_010v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9304d64a-a249-417c-a638-48eef5a6ad53",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9304d64a-a249-417c-a638-48eef5a6ad53",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/9304d64a-a249-417c-a638-48eef5a6ad53"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/ee502550-bf9f-4484-b63a-b899323e0665",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_011r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_011r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ee502550-bf9f-4484-b63a-b899323e0665",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ee502550-bf9f-4484-b63a-b899323e0665",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/ee502550-bf9f-4484-b63a-b899323e0665"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/553fee17-4ff0-4a90-ac39-db363571a390",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_011v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_011v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/553fee17-4ff0-4a90-ac39-db363571a390",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/553fee17-4ff0-4a90-ac39-db363571a390",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/553fee17-4ff0-4a90-ac39-db363571a390"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/da909a4f-0d48-4950-a365-93ee75f628e4",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_012r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_012r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/da909a4f-0d48-4950-a365-93ee75f628e4",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/da909a4f-0d48-4950-a365-93ee75f628e4",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/da909a4f-0d48-4950-a365-93ee75f628e4"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/d972f3e1-a83d-4b7a-8204-04820a74ffde",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_012v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_012v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d972f3e1-a83d-4b7a-8204-04820a74ffde",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d972f3e1-a83d-4b7a-8204-04820a74ffde",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/d972f3e1-a83d-4b7a-8204-04820a74ffde"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/7d24d0a7-1a95-4785-a225-59359c7a8950",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_013r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_013r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7d24d0a7-1a95-4785-a225-59359c7a8950",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7d24d0a7-1a95-4785-a225-59359c7a8950",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/7d24d0a7-1a95-4785-a225-59359c7a8950"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/92901769-c599-4c31-b61e-265b86afabfa",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_013v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_013v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/92901769-c599-4c31-b61e-265b86afabfa",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/92901769-c599-4c31-b61e-265b86afabfa",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/92901769-c599-4c31-b61e-265b86afabfa"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/85cc2ac6-d105-41a1-8e6e-beaf41cefffd",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_014r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_014r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/85cc2ac6-d105-41a1-8e6e-beaf41cefffd",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/85cc2ac6-d105-41a1-8e6e-beaf41cefffd",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/85cc2ac6-d105-41a1-8e6e-beaf41cefffd"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/367b9d37-daf7-4180-bd61-9ec979d83be8",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_014v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_014v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/367b9d37-daf7-4180-bd61-9ec979d83be8",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/367b9d37-daf7-4180-bd61-9ec979d83be8",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/367b9d37-daf7-4180-bd61-9ec979d83be8"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/9e6c8382-e337-4ec0-9598-64bf08780fec",
+      "@type" : "sc:Canvas",
+      "label" : "MS_403_015r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "MS_403_015r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9e6c8382-e337-4ec0-9598-64bf08780fec",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9e6c8382-e337-4ec0-9598-64bf08780fec",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 1930,
+          "height" : 2765
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a9b3c14e-6912-40e2-bcce-bc5e9c5c3c73/canvas/9e6c8382-e337-4ec0-9598-64bf08780fec"
+      } ],
+      "width" : 1930,
+      "height" : 2765
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://asge.jarvis.memooria.org/images/db/4ab95a02-3b7f-4523-b725-177f55e40966/thumb.jpg",
+    "format" : "image/jpeg"
+  }
+}

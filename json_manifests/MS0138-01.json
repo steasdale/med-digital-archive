@@ -1,0 +1,162 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@type" : "sc:Manifest",
+  "@id" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/manifest",
+  "label" : "Manoscritti, 138_1",
+  "metadata" : [ {
+    "label" : "pressmark",
+    "value" : "Archivio di Stato di Genova, Manoscritti, 138_1"
+  }, {
+    "label" : "sgtt",
+    "value" : "Manoscritti, 138_1"
+  }, {
+    "label" : "uuid",
+    "value" : "b7977326-404e-476c-a5b4-9e8fc524911a"
+  } ],
+  "sequences" : [ {
+    "@id" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/sequence/default",
+    "@type" : "sc:Sequence",
+    "label" : "default",
+    "startCanvas" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/229e1fcc-1aa9-4fc9-9566-be3a1e075e47",
+    "canvases" : [ {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/229e1fcc-1aa9-4fc9-9566-be3a1e075e47",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 138_1r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 138_1r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/229e1fcc-1aa9-4fc9-9566-be3a1e075e47",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/229e1fcc-1aa9-4fc9-9566-be3a1e075e47",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 4342,
+          "height" : 2974
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/229e1fcc-1aa9-4fc9-9566-be3a1e075e47"
+      } ],
+      "width" : 4342,
+      "height" : 2974
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/996b197e-7a58-4a2d-9d8c-cb6141f98bb5",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 138_1v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 138_1v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/996b197e-7a58-4a2d-9d8c-cb6141f98bb5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/996b197e-7a58-4a2d-9d8c-cb6141f98bb5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2201,
+          "height" : 3045
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/996b197e-7a58-4a2d-9d8c-cb6141f98bb5"
+      } ],
+      "width" : 2201,
+      "height" : 3045
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/415c248c-22f9-4bc5-a130-6949f9388098",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 138_2r.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 138_2r.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/415c248c-22f9-4bc5-a130-6949f9388098",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/415c248c-22f9-4bc5-a130-6949f9388098",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2205,
+          "height" : 3045
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/415c248c-22f9-4bc5-a130-6949f9388098"
+      } ],
+      "width" : 2205,
+      "height" : 3045
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/ca1f4fc7-8271-429e-9e3e-7ad7c9095564",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 138_2v.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 138_2v.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ca1f4fc7-8271-429e-9e3e-7ad7c9095564",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ca1f4fc7-8271-429e-9e3e-7ad7c9095564",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2201,
+          "height" : 3045
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/ca1f4fc7-8271-429e-9e3e-7ad7c9095564"
+      } ],
+      "width" : 2201,
+      "height" : 3045
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/74c4aa56-847a-48d4-b2e4-cc467dc6e53c",
+      "@type" : "sc:Canvas",
+      "label" : "Manoscritti 138_coperta_.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Manoscritti 138_coperta_.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/74c4aa56-847a-48d4-b2e4-cc467dc6e53c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/74c4aa56-847a-48d4-b2e4-cc467dc6e53c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 8940,
+          "height" : 6098
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/b7977326-404e-476c-a5b4-9e8fc524911a/canvas/74c4aa56-847a-48d4-b2e4-cc467dc6e53c"
+      } ],
+      "width" : 8940,
+      "height" : 6098
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://asge.jarvis.memooria.org/images/db/229e1fcc-1aa9-4fc9-9566-be3a1e075e47/thumb.jpg",
+    "format" : "image/jpeg"
+  }
+}
