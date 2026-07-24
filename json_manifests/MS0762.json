@@ -1,0 +1,276 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@type" : "sc:Manifest",
+  "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/manifest",
+  "label" : "Manoscritti, 762_elenc_Federici",
+  "metadata" : [ {
+    "label" : "pressmark",
+    "value" : "Archivio di Stato di Genova, Manoscritti, 762_elenc_Federici"
+  }, {
+    "label" : "sgtt",
+    "value" : "Manoscritti, 762_elenc_Federici"
+  }, {
+    "label" : "autn",
+    "value" : ""
+  }, {
+    "label" : "sgti",
+    "value" : ""
+  }, {
+    "label" : "uuid",
+    "value" : "a3747281-f6a9-475a-ab52-4daa9f114267"
+  } ],
+  "sequences" : [ {
+    "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/sequence/default",
+    "@type" : "sc:Sequence",
+    "label" : "default",
+    "startCanvas" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/41fc5796-84ae-47d2-ac78-1995780328e1",
+    "canvases" : [ {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/41fc5796-84ae-47d2-ac78-1995780328e1",
+      "@type" : "sc:Canvas",
+      "label" : "Ms 762 elenco Federici_001.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Ms 762 elenco Federici_001.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/41fc5796-84ae-47d2-ac78-1995780328e1",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/41fc5796-84ae-47d2-ac78-1995780328e1",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2690,
+          "height" : 3750
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/41fc5796-84ae-47d2-ac78-1995780328e1"
+      } ],
+      "width" : 2690,
+      "height" : 3750
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/db11177b-04df-448d-a491-d1b62dccdf22",
+      "@type" : "sc:Canvas",
+      "label" : "Ms 762 elenco Federici_002.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Ms 762 elenco Federici_002.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/db11177b-04df-448d-a491-d1b62dccdf22",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/db11177b-04df-448d-a491-d1b62dccdf22",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 5195,
+          "height" : 3730
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/db11177b-04df-448d-a491-d1b62dccdf22"
+      } ],
+      "width" : 5195,
+      "height" : 3730
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/76b2e637-6bce-4c41-9cd2-b3eaaa064e2f",
+      "@type" : "sc:Canvas",
+      "label" : "Ms 762 elenco Federici_003.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Ms 762 elenco Federici_003.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/76b2e637-6bce-4c41-9cd2-b3eaaa064e2f",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/76b2e637-6bce-4c41-9cd2-b3eaaa064e2f",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 5505,
+          "height" : 3910
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/76b2e637-6bce-4c41-9cd2-b3eaaa064e2f"
+      } ],
+      "width" : 5505,
+      "height" : 3910
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/e8199c19-dd69-458d-9f6f-1abbea46d8b5",
+      "@type" : "sc:Canvas",
+      "label" : "Ms 762 elenco Federici_004.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Ms 762 elenco Federici_004.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e8199c19-dd69-458d-9f6f-1abbea46d8b5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e8199c19-dd69-458d-9f6f-1abbea46d8b5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 5505,
+          "height" : 3910
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/e8199c19-dd69-458d-9f6f-1abbea46d8b5"
+      } ],
+      "width" : 5505,
+      "height" : 3910
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/2467dadd-756f-4da5-ac95-3e07ff80b6d9",
+      "@type" : "sc:Canvas",
+      "label" : "Ms 762 elenco Federici_005.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Ms 762 elenco Federici_005.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2467dadd-756f-4da5-ac95-3e07ff80b6d9",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2467dadd-756f-4da5-ac95-3e07ff80b6d9",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 5505,
+          "height" : 3910
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/2467dadd-756f-4da5-ac95-3e07ff80b6d9"
+      } ],
+      "width" : 5505,
+      "height" : 3910
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/98f52651-c807-494d-ba8e-c3076245490d",
+      "@type" : "sc:Canvas",
+      "label" : "Ms 762 elenco Federici_006.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Ms 762 elenco Federici_006.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/98f52651-c807-494d-ba8e-c3076245490d",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/98f52651-c807-494d-ba8e-c3076245490d",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 5380,
+          "height" : 3910
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/98f52651-c807-494d-ba8e-c3076245490d"
+      } ],
+      "width" : 5380,
+      "height" : 3910
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/431b6cdc-4d44-48d3-8647-90e17c4cd310",
+      "@type" : "sc:Canvas",
+      "label" : "Ms 762 elenco Federici_007.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Ms 762 elenco Federici_007.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/431b6cdc-4d44-48d3-8647-90e17c4cd310",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/431b6cdc-4d44-48d3-8647-90e17c4cd310",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 5380,
+          "height" : 3910
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/431b6cdc-4d44-48d3-8647-90e17c4cd310"
+      } ],
+      "width" : 5380,
+      "height" : 3910
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/be402e41-638e-41a0-b187-1872e7bdc7a5",
+      "@type" : "sc:Canvas",
+      "label" : "Ms 762 elenco Federici_008.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Ms 762 elenco Federici_008.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/be402e41-638e-41a0-b187-1872e7bdc7a5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/be402e41-638e-41a0-b187-1872e7bdc7a5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 5380,
+          "height" : 3910
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/be402e41-638e-41a0-b187-1872e7bdc7a5"
+      } ],
+      "width" : 5380,
+      "height" : 3910
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/2d4085e8-7c1d-4228-b34c-1da2da0b62fc",
+      "@type" : "sc:Canvas",
+      "label" : "Ms 762 elenco Federici_009.tif",
+      "metadata" : [ {
+        "label" : "sgtt",
+        "value" : "Ms 762 elenco Federici_009.tif"
+      } ],
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2d4085e8-7c1d-4228-b34c-1da2da0b62fc",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2d4085e8-7c1d-4228-b34c-1da2da0b62fc",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 5380,
+          "height" : 3910
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/a3747281-f6a9-475a-ab52-4daa9f114267/canvas/2d4085e8-7c1d-4228-b34c-1da2da0b62fc"
+      } ],
+      "width" : 5380,
+      "height" : 3910
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://asge.jarvis.memooria.org/images/db/41fc5796-84ae-47d2-ac78-1995780328e1/thumb.jpg",
+    "format" : "image/jpeg"
+  }
+}
