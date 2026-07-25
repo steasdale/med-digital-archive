@@ -83,24 +83,34 @@ for i in "${!URLS[@]}"; do
   # UUID from URL
   UUID=$(echo "$URL" | grep -oE '[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}')
 
-  # Folio suffix: use the full canvas label (minus the .tif extension), not
-  # just the part after the last underscore. Many registers use irregular
-  # labels with embedded underscores or hyphens in the folio identifier
-  # itself (e.g. "MS_102_098_bis-r.tif", "MS_103_094v_ins1-r.tif",
-  # "Ms 125_180r-248v.tif") — truncating at the last underscore silently
-  # drops that context (e.g. "098_bis-r" would become just "bis-r").
-  if [[ "$LABEL" =~ ^(.*)\.tif$ ]]; then
-    RAW_TAG="${BASH_REMATCH[1]}"
+  # Filename: use the full canvas label as the output filename (minus
+  # whatever image extension it already carries), not just the part after
+  # the last underscore. Many registers use irregular labels with embedded
+  # underscores or hyphens in the folio identifier itself (e.g.
+  # "MS_102_098_bis-r.tif", "MS_103_094v_ins1-r.tif", "Ms 125_180r-248v.tif",
+  # "NA313_00001.jpg") — truncating at the last underscore silently drops
+  # that context (e.g. "098_bis-r" would become just "bis-r"). If no label
+  # is present, fall back to the UUID pulled from the URL so the file still
+  # gets a unique name.
+  if [[ -n "$LABEL" ]]; then
+    RAW_TAG="$LABEL"
+    # Strip a trailing known image extension so we don't end up with
+    # double extensions like "NA313_00001.jpg.jpg"
+    RAW_TAG="${RAW_TAG%.tif}"
+    RAW_TAG="${RAW_TAG%.tiff}"
+    RAW_TAG="${RAW_TAG%.jpg}"
+    RAW_TAG="${RAW_TAG%.jpeg}"
+    RAW_TAG="${RAW_TAG%.png}"
     # Sanitize for filesystem safety: spaces -> underscores, strip brackets
     RAW_TAG="${RAW_TAG// /_}"
     RAW_TAG="${RAW_TAG//[/}"
     RAW_TAG="${RAW_TAG//]/}"
-    FOLIO="_fol_${RAW_TAG}"
+    FILENAME="$RAW_TAG"
   else
-    FOLIO=""
+    FILENAME="$UUID"
   fi
 
-  OUTFILE="$OUTPUT_DIR/${UUID}${FOLIO}.jpg"
+  OUTFILE="$OUTPUT_DIR/${FILENAME}.jpg"
 
   echo "[$((i+1))/$TOTAL] $LABEL"
   echo "  -> $OUTFILE"
