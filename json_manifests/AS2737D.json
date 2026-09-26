@@ -1,0 +1,1547 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2774890\/manifest.json?type=archive&page=",
+    "@type": "sc:Manifest",
+    "label": "Archivio Segreto 2737D",
+    "description": "<b>Complesso<\/b>: [SS354]<br\/><b>Estremi Cronologici<\/b>: 01\/06\/1181 - 1613, xii - xvii<br\/><br\/><a href=\"https:\/\/archiviodigitale-icar.cultura.gov.it\/it\/185\/ricerca\/detail\/2774890\" target=\"_blank\">Vedi scheda<\/a>",
+    "attribution": "Archivio Digitale",
+    "sequences": [
+        {
+            "@id": "sequence",
+            "@type": "sc:Sequence",
+            "label": "Sequenza",
+            "canvases": [
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ea0ce41b-2dc6-4952-af28-eecb09842a52\/canvas\/ea0ce41b-2dc6-4952-af28-eecb09842a52.json",
+                    "@type": "sc:Canvas",
+                    "width": 4160,
+                    "height": 7480,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ea0ce41b-2dc6-4952-af28-eecb09842a52\/annotation\/ea0ce41b-2dc6-4952-af28-eecb09842a52.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ea0ce41b-2dc6-4952-af28-eecb09842a52\/annotation\/ea0ce41b-2dc6-4952-af28-eecb09842a52.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@ea0ce41b-2dc6-4952-af28-eecb09842a52@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 4160,
+                                "height": 7480,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@ea0ce41b-2dc6-4952-af28-eecb09842a52@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@ea0ce41b-2dc6-4952-af28-eecb09842a52@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00001.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1ef18431-8212-49d2-8044-b4dbfae8ce3e\/canvas\/1ef18431-8212-49d2-8044-b4dbfae8ce3e.json",
+                    "@type": "sc:Canvas",
+                    "width": 4160,
+                    "height": 7480,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1ef18431-8212-49d2-8044-b4dbfae8ce3e\/annotation\/1ef18431-8212-49d2-8044-b4dbfae8ce3e.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1ef18431-8212-49d2-8044-b4dbfae8ce3e\/annotation\/1ef18431-8212-49d2-8044-b4dbfae8ce3e.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1ef18431-8212-49d2-8044-b4dbfae8ce3e@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 4160,
+                                "height": 7480,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1ef18431-8212-49d2-8044-b4dbfae8ce3e@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1ef18431-8212-49d2-8044-b4dbfae8ce3e@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00002.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f9dcc138-84e3-4675-a857-b8478d522cc7\/canvas\/f9dcc138-84e3-4675-a857-b8478d522cc7.json",
+                    "@type": "sc:Canvas",
+                    "width": 3570,
+                    "height": 4825,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f9dcc138-84e3-4675-a857-b8478d522cc7\/annotation\/f9dcc138-84e3-4675-a857-b8478d522cc7.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f9dcc138-84e3-4675-a857-b8478d522cc7\/annotation\/f9dcc138-84e3-4675-a857-b8478d522cc7.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@f9dcc138-84e3-4675-a857-b8478d522cc7@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3570,
+                                "height": 4825,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@f9dcc138-84e3-4675-a857-b8478d522cc7@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@f9dcc138-84e3-4675-a857-b8478d522cc7@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00003.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2ba5916b-7d87-49fb-8d91-990fb29e5952\/canvas\/2ba5916b-7d87-49fb-8d91-990fb29e5952.json",
+                    "@type": "sc:Canvas",
+                    "width": 3595,
+                    "height": 4875,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2ba5916b-7d87-49fb-8d91-990fb29e5952\/annotation\/2ba5916b-7d87-49fb-8d91-990fb29e5952.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2ba5916b-7d87-49fb-8d91-990fb29e5952\/annotation\/2ba5916b-7d87-49fb-8d91-990fb29e5952.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@2ba5916b-7d87-49fb-8d91-990fb29e5952@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3595,
+                                "height": 4875,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@2ba5916b-7d87-49fb-8d91-990fb29e5952@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@2ba5916b-7d87-49fb-8d91-990fb29e5952@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00004.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b77e00b4-4fca-4364-aff6-d01d8053928a\/canvas\/b77e00b4-4fca-4364-aff6-d01d8053928a.json",
+                    "@type": "sc:Canvas",
+                    "width": 3585,
+                    "height": 4950,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b77e00b4-4fca-4364-aff6-d01d8053928a\/annotation\/b77e00b4-4fca-4364-aff6-d01d8053928a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b77e00b4-4fca-4364-aff6-d01d8053928a\/annotation\/b77e00b4-4fca-4364-aff6-d01d8053928a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b77e00b4-4fca-4364-aff6-d01d8053928a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3585,
+                                "height": 4950,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b77e00b4-4fca-4364-aff6-d01d8053928a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b77e00b4-4fca-4364-aff6-d01d8053928a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00005.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f7ff82bf-540b-497e-bd8a-a3a15d4f5f95\/canvas\/f7ff82bf-540b-497e-bd8a-a3a15d4f5f95.json",
+                    "@type": "sc:Canvas",
+                    "width": 3349,
+                    "height": 4562,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f7ff82bf-540b-497e-bd8a-a3a15d4f5f95\/annotation\/f7ff82bf-540b-497e-bd8a-a3a15d4f5f95.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f7ff82bf-540b-497e-bd8a-a3a15d4f5f95\/annotation\/f7ff82bf-540b-497e-bd8a-a3a15d4f5f95.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@f7ff82bf-540b-497e-bd8a-a3a15d4f5f95@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3349,
+                                "height": 4562,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@f7ff82bf-540b-497e-bd8a-a3a15d4f5f95@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@f7ff82bf-540b-497e-bd8a-a3a15d4f5f95@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00006.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33e7a028-9b86-4572-81b5-f2a5e1be045d\/canvas\/33e7a028-9b86-4572-81b5-f2a5e1be045d.json",
+                    "@type": "sc:Canvas",
+                    "width": 3394,
+                    "height": 4562,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33e7a028-9b86-4572-81b5-f2a5e1be045d\/annotation\/33e7a028-9b86-4572-81b5-f2a5e1be045d.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33e7a028-9b86-4572-81b5-f2a5e1be045d\/annotation\/33e7a028-9b86-4572-81b5-f2a5e1be045d.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@33e7a028-9b86-4572-81b5-f2a5e1be045d@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3394,
+                                "height": 4562,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@33e7a028-9b86-4572-81b5-f2a5e1be045d@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@33e7a028-9b86-4572-81b5-f2a5e1be045d@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00007.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/8bd00592-cd30-41f0-8a6b-5f99f1605a6b\/canvas\/8bd00592-cd30-41f0-8a6b-5f99f1605a6b.json",
+                    "@type": "sc:Canvas",
+                    "width": 3392,
+                    "height": 3245,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/8bd00592-cd30-41f0-8a6b-5f99f1605a6b\/annotation\/8bd00592-cd30-41f0-8a6b-5f99f1605a6b.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/8bd00592-cd30-41f0-8a6b-5f99f1605a6b\/annotation\/8bd00592-cd30-41f0-8a6b-5f99f1605a6b.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@8bd00592-cd30-41f0-8a6b-5f99f1605a6b@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3392,
+                                "height": 3245,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@8bd00592-cd30-41f0-8a6b-5f99f1605a6b@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@8bd00592-cd30-41f0-8a6b-5f99f1605a6b@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00008.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4f32af28-6aba-4ac0-b7ef-215ebf17d486\/canvas\/4f32af28-6aba-4ac0-b7ef-215ebf17d486.json",
+                    "@type": "sc:Canvas",
+                    "width": 3438,
+                    "height": 3371,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4f32af28-6aba-4ac0-b7ef-215ebf17d486\/annotation\/4f32af28-6aba-4ac0-b7ef-215ebf17d486.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4f32af28-6aba-4ac0-b7ef-215ebf17d486\/annotation\/4f32af28-6aba-4ac0-b7ef-215ebf17d486.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4f32af28-6aba-4ac0-b7ef-215ebf17d486@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3438,
+                                "height": 3371,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4f32af28-6aba-4ac0-b7ef-215ebf17d486@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4f32af28-6aba-4ac0-b7ef-215ebf17d486@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00009.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/88fed4c9-630c-4276-af00-c756cb30a100\/canvas\/88fed4c9-630c-4276-af00-c756cb30a100.json",
+                    "@type": "sc:Canvas",
+                    "width": 3444,
+                    "height": 5832,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/88fed4c9-630c-4276-af00-c756cb30a100\/annotation\/88fed4c9-630c-4276-af00-c756cb30a100.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/88fed4c9-630c-4276-af00-c756cb30a100\/annotation\/88fed4c9-630c-4276-af00-c756cb30a100.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@88fed4c9-630c-4276-af00-c756cb30a100@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3444,
+                                "height": 5832,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@88fed4c9-630c-4276-af00-c756cb30a100@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@88fed4c9-630c-4276-af00-c756cb30a100@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00010.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d9bb765b-5b51-4db3-8741-32d1ae57e431\/canvas\/d9bb765b-5b51-4db3-8741-32d1ae57e431.json",
+                    "@type": "sc:Canvas",
+                    "width": 3528,
+                    "height": 5865,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d9bb765b-5b51-4db3-8741-32d1ae57e431\/annotation\/d9bb765b-5b51-4db3-8741-32d1ae57e431.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d9bb765b-5b51-4db3-8741-32d1ae57e431\/annotation\/d9bb765b-5b51-4db3-8741-32d1ae57e431.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@d9bb765b-5b51-4db3-8741-32d1ae57e431@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3528,
+                                "height": 5865,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@d9bb765b-5b51-4db3-8741-32d1ae57e431@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@d9bb765b-5b51-4db3-8741-32d1ae57e431@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00011.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/7e693224-911a-486c-9a36-3f9e55324b3a\/canvas\/7e693224-911a-486c-9a36-3f9e55324b3a.json",
+                    "@type": "sc:Canvas",
+                    "width": 3461,
+                    "height": 8202,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/7e693224-911a-486c-9a36-3f9e55324b3a\/annotation\/7e693224-911a-486c-9a36-3f9e55324b3a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/7e693224-911a-486c-9a36-3f9e55324b3a\/annotation\/7e693224-911a-486c-9a36-3f9e55324b3a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@7e693224-911a-486c-9a36-3f9e55324b3a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3461,
+                                "height": 8202,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@7e693224-911a-486c-9a36-3f9e55324b3a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@7e693224-911a-486c-9a36-3f9e55324b3a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00012.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cc6a6737-5a4e-4e85-8aa9-e0b92d4eaa1a\/canvas\/cc6a6737-5a4e-4e85-8aa9-e0b92d4eaa1a.json",
+                    "@type": "sc:Canvas",
+                    "width": 3461,
+                    "height": 8045,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cc6a6737-5a4e-4e85-8aa9-e0b92d4eaa1a\/annotation\/cc6a6737-5a4e-4e85-8aa9-e0b92d4eaa1a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cc6a6737-5a4e-4e85-8aa9-e0b92d4eaa1a\/annotation\/cc6a6737-5a4e-4e85-8aa9-e0b92d4eaa1a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@cc6a6737-5a4e-4e85-8aa9-e0b92d4eaa1a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3461,
+                                "height": 8045,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@cc6a6737-5a4e-4e85-8aa9-e0b92d4eaa1a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@cc6a6737-5a4e-4e85-8aa9-e0b92d4eaa1a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00013.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b584d80a-3db7-489f-b5da-5c974dbf77a2\/canvas\/b584d80a-3db7-489f-b5da-5c974dbf77a2.json",
+                    "@type": "sc:Canvas",
+                    "width": 3483,
+                    "height": 6337,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b584d80a-3db7-489f-b5da-5c974dbf77a2\/annotation\/b584d80a-3db7-489f-b5da-5c974dbf77a2.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b584d80a-3db7-489f-b5da-5c974dbf77a2\/annotation\/b584d80a-3db7-489f-b5da-5c974dbf77a2.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b584d80a-3db7-489f-b5da-5c974dbf77a2@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3483,
+                                "height": 6337,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b584d80a-3db7-489f-b5da-5c974dbf77a2@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b584d80a-3db7-489f-b5da-5c974dbf77a2@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00014.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/472f1554-cdee-46f2-82ef-1163ac9ae72a\/canvas\/472f1554-cdee-46f2-82ef-1163ac9ae72a.json",
+                    "@type": "sc:Canvas",
+                    "width": 3483,
+                    "height": 6315,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/472f1554-cdee-46f2-82ef-1163ac9ae72a\/annotation\/472f1554-cdee-46f2-82ef-1163ac9ae72a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/472f1554-cdee-46f2-82ef-1163ac9ae72a\/annotation\/472f1554-cdee-46f2-82ef-1163ac9ae72a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@472f1554-cdee-46f2-82ef-1163ac9ae72a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3483,
+                                "height": 6315,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@472f1554-cdee-46f2-82ef-1163ac9ae72a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@472f1554-cdee-46f2-82ef-1163ac9ae72a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00015.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/0d3f342b-b57d-4a52-a8c8-e6ea6e765423\/canvas\/0d3f342b-b57d-4a52-a8c8-e6ea6e765423.json",
+                    "@type": "sc:Canvas",
+                    "width": 3506,
+                    "height": 6899,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/0d3f342b-b57d-4a52-a8c8-e6ea6e765423\/annotation\/0d3f342b-b57d-4a52-a8c8-e6ea6e765423.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/0d3f342b-b57d-4a52-a8c8-e6ea6e765423\/annotation\/0d3f342b-b57d-4a52-a8c8-e6ea6e765423.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@0d3f342b-b57d-4a52-a8c8-e6ea6e765423@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3506,
+                                "height": 6899,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@0d3f342b-b57d-4a52-a8c8-e6ea6e765423@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@0d3f342b-b57d-4a52-a8c8-e6ea6e765423@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00016.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/aadd36c3-edd7-4c61-81d3-1a63206cfb35\/canvas\/aadd36c3-edd7-4c61-81d3-1a63206cfb35.json",
+                    "@type": "sc:Canvas",
+                    "width": 3483,
+                    "height": 6899,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/aadd36c3-edd7-4c61-81d3-1a63206cfb35\/annotation\/aadd36c3-edd7-4c61-81d3-1a63206cfb35.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/aadd36c3-edd7-4c61-81d3-1a63206cfb35\/annotation\/aadd36c3-edd7-4c61-81d3-1a63206cfb35.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@aadd36c3-edd7-4c61-81d3-1a63206cfb35@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3483,
+                                "height": 6899,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@aadd36c3-edd7-4c61-81d3-1a63206cfb35@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@aadd36c3-edd7-4c61-81d3-1a63206cfb35@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00017.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/153c502b-7706-4d5f-a994-b807b19361b6\/canvas\/153c502b-7706-4d5f-a994-b807b19361b6.json",
+                    "@type": "sc:Canvas",
+                    "width": 3472,
+                    "height": 6820,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/153c502b-7706-4d5f-a994-b807b19361b6\/annotation\/153c502b-7706-4d5f-a994-b807b19361b6.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/153c502b-7706-4d5f-a994-b807b19361b6\/annotation\/153c502b-7706-4d5f-a994-b807b19361b6.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@153c502b-7706-4d5f-a994-b807b19361b6@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3472,
+                                "height": 6820,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@153c502b-7706-4d5f-a994-b807b19361b6@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@153c502b-7706-4d5f-a994-b807b19361b6@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00018.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/147c3c8e-a0ab-4186-ad5b-13b4197056be\/canvas\/147c3c8e-a0ab-4186-ad5b-13b4197056be.json",
+                    "@type": "sc:Canvas",
+                    "width": 3416,
+                    "height": 6832,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/147c3c8e-a0ab-4186-ad5b-13b4197056be\/annotation\/147c3c8e-a0ab-4186-ad5b-13b4197056be.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/147c3c8e-a0ab-4186-ad5b-13b4197056be\/annotation\/147c3c8e-a0ab-4186-ad5b-13b4197056be.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@147c3c8e-a0ab-4186-ad5b-13b4197056be@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3416,
+                                "height": 6832,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@147c3c8e-a0ab-4186-ad5b-13b4197056be@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@147c3c8e-a0ab-4186-ad5b-13b4197056be@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00019.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/39a0d615-8f9c-4329-912e-a1d86a0458a7\/canvas\/39a0d615-8f9c-4329-912e-a1d86a0458a7.json",
+                    "@type": "sc:Canvas",
+                    "width": 3528,
+                    "height": 7843,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/39a0d615-8f9c-4329-912e-a1d86a0458a7\/annotation\/39a0d615-8f9c-4329-912e-a1d86a0458a7.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/39a0d615-8f9c-4329-912e-a1d86a0458a7\/annotation\/39a0d615-8f9c-4329-912e-a1d86a0458a7.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@39a0d615-8f9c-4329-912e-a1d86a0458a7@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3528,
+                                "height": 7843,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@39a0d615-8f9c-4329-912e-a1d86a0458a7@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@39a0d615-8f9c-4329-912e-a1d86a0458a7@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00020.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ac397b70-6111-41f2-9dba-1177b99708f9\/canvas\/ac397b70-6111-41f2-9dba-1177b99708f9.json",
+                    "@type": "sc:Canvas",
+                    "width": 1989,
+                    "height": 4555,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ac397b70-6111-41f2-9dba-1177b99708f9\/annotation\/ac397b70-6111-41f2-9dba-1177b99708f9.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ac397b70-6111-41f2-9dba-1177b99708f9\/annotation\/ac397b70-6111-41f2-9dba-1177b99708f9.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@ac397b70-6111-41f2-9dba-1177b99708f9@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 1989,
+                                "height": 4555,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@ac397b70-6111-41f2-9dba-1177b99708f9@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@ac397b70-6111-41f2-9dba-1177b99708f9@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00021.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4064759b-ae19-43ad-bd01-e47a5a6ce215\/canvas\/4064759b-ae19-43ad-bd01-e47a5a6ce215.json",
+                    "@type": "sc:Canvas",
+                    "width": 1731,
+                    "height": 5618,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4064759b-ae19-43ad-bd01-e47a5a6ce215\/annotation\/4064759b-ae19-43ad-bd01-e47a5a6ce215.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4064759b-ae19-43ad-bd01-e47a5a6ce215\/annotation\/4064759b-ae19-43ad-bd01-e47a5a6ce215.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4064759b-ae19-43ad-bd01-e47a5a6ce215@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 1731,
+                                "height": 5618,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4064759b-ae19-43ad-bd01-e47a5a6ce215@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4064759b-ae19-43ad-bd01-e47a5a6ce215@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00022.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b0e61dd6-0d49-4427-935c-f9844bcbf8f5\/canvas\/b0e61dd6-0d49-4427-935c-f9844bcbf8f5.json",
+                    "@type": "sc:Canvas",
+                    "width": 1731,
+                    "height": 5618,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b0e61dd6-0d49-4427-935c-f9844bcbf8f5\/annotation\/b0e61dd6-0d49-4427-935c-f9844bcbf8f5.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b0e61dd6-0d49-4427-935c-f9844bcbf8f5\/annotation\/b0e61dd6-0d49-4427-935c-f9844bcbf8f5.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b0e61dd6-0d49-4427-935c-f9844bcbf8f5@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 1731,
+                                "height": 5618,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b0e61dd6-0d49-4427-935c-f9844bcbf8f5@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b0e61dd6-0d49-4427-935c-f9844bcbf8f5@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00023.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/405cf878-2905-4723-9ad5-2e766a5b3dea\/canvas\/405cf878-2905-4723-9ad5-2e766a5b3dea.json",
+                    "@type": "sc:Canvas",
+                    "width": 3618,
+                    "height": 8315,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/405cf878-2905-4723-9ad5-2e766a5b3dea\/annotation\/405cf878-2905-4723-9ad5-2e766a5b3dea.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/405cf878-2905-4723-9ad5-2e766a5b3dea\/annotation\/405cf878-2905-4723-9ad5-2e766a5b3dea.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@405cf878-2905-4723-9ad5-2e766a5b3dea@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3618,
+                                "height": 8315,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@405cf878-2905-4723-9ad5-2e766a5b3dea@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@405cf878-2905-4723-9ad5-2e766a5b3dea@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00024.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/92d86611-687d-41f3-9947-3d4169f0b609\/canvas\/92d86611-687d-41f3-9947-3d4169f0b609.json",
+                    "@type": "sc:Canvas",
+                    "width": 3618,
+                    "height": 8180,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/92d86611-687d-41f3-9947-3d4169f0b609\/annotation\/92d86611-687d-41f3-9947-3d4169f0b609.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/92d86611-687d-41f3-9947-3d4169f0b609\/annotation\/92d86611-687d-41f3-9947-3d4169f0b609.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@92d86611-687d-41f3-9947-3d4169f0b609@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3618,
+                                "height": 8180,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@92d86611-687d-41f3-9947-3d4169f0b609@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@92d86611-687d-41f3-9947-3d4169f0b609@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00025.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b1e3e746-0896-44b1-8415-91a7137d4cd2\/canvas\/b1e3e746-0896-44b1-8415-91a7137d4cd2.json",
+                    "@type": "sc:Canvas",
+                    "width": 3551,
+                    "height": 8405,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b1e3e746-0896-44b1-8415-91a7137d4cd2\/annotation\/b1e3e746-0896-44b1-8415-91a7137d4cd2.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b1e3e746-0896-44b1-8415-91a7137d4cd2\/annotation\/b1e3e746-0896-44b1-8415-91a7137d4cd2.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b1e3e746-0896-44b1-8415-91a7137d4cd2@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3551,
+                                "height": 8405,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b1e3e746-0896-44b1-8415-91a7137d4cd2@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@b1e3e746-0896-44b1-8415-91a7137d4cd2@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00026.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/24d78e65-6e79-4483-a322-6741d26f0c21\/canvas\/24d78e65-6e79-4483-a322-6741d26f0c21.json",
+                    "@type": "sc:Canvas",
+                    "width": 3551,
+                    "height": 8450,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/24d78e65-6e79-4483-a322-6741d26f0c21\/annotation\/24d78e65-6e79-4483-a322-6741d26f0c21.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/24d78e65-6e79-4483-a322-6741d26f0c21\/annotation\/24d78e65-6e79-4483-a322-6741d26f0c21.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@24d78e65-6e79-4483-a322-6741d26f0c21@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3551,
+                                "height": 8450,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@24d78e65-6e79-4483-a322-6741d26f0c21@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@24d78e65-6e79-4483-a322-6741d26f0c21@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00027.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/253f41c4-9ff6-4e7f-8f3a-dbe0ff884e15\/canvas\/253f41c4-9ff6-4e7f-8f3a-dbe0ff884e15.json",
+                    "@type": "sc:Canvas",
+                    "width": 3461,
+                    "height": 7124,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/253f41c4-9ff6-4e7f-8f3a-dbe0ff884e15\/annotation\/253f41c4-9ff6-4e7f-8f3a-dbe0ff884e15.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/253f41c4-9ff6-4e7f-8f3a-dbe0ff884e15\/annotation\/253f41c4-9ff6-4e7f-8f3a-dbe0ff884e15.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@253f41c4-9ff6-4e7f-8f3a-dbe0ff884e15@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3461,
+                                "height": 7124,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@253f41c4-9ff6-4e7f-8f3a-dbe0ff884e15@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@253f41c4-9ff6-4e7f-8f3a-dbe0ff884e15@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00028.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a4a791d6-4790-4aec-905a-223b15ec0be6\/canvas\/a4a791d6-4790-4aec-905a-223b15ec0be6.json",
+                    "@type": "sc:Canvas",
+                    "width": 3461,
+                    "height": 7124,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a4a791d6-4790-4aec-905a-223b15ec0be6\/annotation\/a4a791d6-4790-4aec-905a-223b15ec0be6.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a4a791d6-4790-4aec-905a-223b15ec0be6\/annotation\/a4a791d6-4790-4aec-905a-223b15ec0be6.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@a4a791d6-4790-4aec-905a-223b15ec0be6@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3461,
+                                "height": 7124,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@a4a791d6-4790-4aec-905a-223b15ec0be6@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@a4a791d6-4790-4aec-905a-223b15ec0be6@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00029.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/dac25d6c-6b08-4f1e-8eb5-da70a76faa4a\/canvas\/dac25d6c-6b08-4f1e-8eb5-da70a76faa4a.json",
+                    "@type": "sc:Canvas",
+                    "width": 3461,
+                    "height": 8787,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/dac25d6c-6b08-4f1e-8eb5-da70a76faa4a\/annotation\/dac25d6c-6b08-4f1e-8eb5-da70a76faa4a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/dac25d6c-6b08-4f1e-8eb5-da70a76faa4a\/annotation\/dac25d6c-6b08-4f1e-8eb5-da70a76faa4a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@dac25d6c-6b08-4f1e-8eb5-da70a76faa4a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3461,
+                                "height": 8787,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@dac25d6c-6b08-4f1e-8eb5-da70a76faa4a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@dac25d6c-6b08-4f1e-8eb5-da70a76faa4a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00030.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5e36cc40-c450-4025-b9b2-b588c7a2ac71\/canvas\/5e36cc40-c450-4025-b9b2-b588c7a2ac71.json",
+                    "@type": "sc:Canvas",
+                    "width": 3461,
+                    "height": 8787,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5e36cc40-c450-4025-b9b2-b588c7a2ac71\/annotation\/5e36cc40-c450-4025-b9b2-b588c7a2ac71.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5e36cc40-c450-4025-b9b2-b588c7a2ac71\/annotation\/5e36cc40-c450-4025-b9b2-b588c7a2ac71.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@5e36cc40-c450-4025-b9b2-b588c7a2ac71@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3461,
+                                "height": 8787,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@5e36cc40-c450-4025-b9b2-b588c7a2ac71@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@5e36cc40-c450-4025-b9b2-b588c7a2ac71@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00031.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/eaeea778-0e29-4b5d-9097-e854b45decf3\/canvas\/eaeea778-0e29-4b5d-9097-e854b45decf3.json",
+                    "@type": "sc:Canvas",
+                    "width": 3416,
+                    "height": 8652,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/eaeea778-0e29-4b5d-9097-e854b45decf3\/annotation\/eaeea778-0e29-4b5d-9097-e854b45decf3.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/eaeea778-0e29-4b5d-9097-e854b45decf3\/annotation\/eaeea778-0e29-4b5d-9097-e854b45decf3.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@eaeea778-0e29-4b5d-9097-e854b45decf3@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3416,
+                                "height": 8652,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@eaeea778-0e29-4b5d-9097-e854b45decf3@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@eaeea778-0e29-4b5d-9097-e854b45decf3@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00032.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/241123c2-430f-452b-a725-5942cae6ca60\/canvas\/241123c2-430f-452b-a725-5942cae6ca60.json",
+                    "@type": "sc:Canvas",
+                    "width": 3416,
+                    "height": 8607,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/241123c2-430f-452b-a725-5942cae6ca60\/annotation\/241123c2-430f-452b-a725-5942cae6ca60.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/241123c2-430f-452b-a725-5942cae6ca60\/annotation\/241123c2-430f-452b-a725-5942cae6ca60.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@241123c2-430f-452b-a725-5942cae6ca60@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3416,
+                                "height": 8607,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@241123c2-430f-452b-a725-5942cae6ca60@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@241123c2-430f-452b-a725-5942cae6ca60@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00033.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/55046964-ec7d-4560-92e7-4c834ec076cc\/canvas\/55046964-ec7d-4560-92e7-4c834ec076cc.json",
+                    "@type": "sc:Canvas",
+                    "width": 3371,
+                    "height": 8877,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/55046964-ec7d-4560-92e7-4c834ec076cc\/annotation\/55046964-ec7d-4560-92e7-4c834ec076cc.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/55046964-ec7d-4560-92e7-4c834ec076cc\/annotation\/55046964-ec7d-4560-92e7-4c834ec076cc.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@55046964-ec7d-4560-92e7-4c834ec076cc@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3371,
+                                "height": 8877,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@55046964-ec7d-4560-92e7-4c834ec076cc@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@55046964-ec7d-4560-92e7-4c834ec076cc@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00034.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5387e4a0-a828-4fcf-8a60-d56c8bcad14e\/canvas\/5387e4a0-a828-4fcf-8a60-d56c8bcad14e.json",
+                    "@type": "sc:Canvas",
+                    "width": 3371,
+                    "height": 8832,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5387e4a0-a828-4fcf-8a60-d56c8bcad14e\/annotation\/5387e4a0-a828-4fcf-8a60-d56c8bcad14e.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5387e4a0-a828-4fcf-8a60-d56c8bcad14e\/annotation\/5387e4a0-a828-4fcf-8a60-d56c8bcad14e.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@5387e4a0-a828-4fcf-8a60-d56c8bcad14e@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3371,
+                                "height": 8832,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@5387e4a0-a828-4fcf-8a60-d56c8bcad14e@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@5387e4a0-a828-4fcf-8a60-d56c8bcad14e@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00035.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/49a7c7cd-f070-4c9b-9405-aa0d6e9cd794\/canvas\/49a7c7cd-f070-4c9b-9405-aa0d6e9cd794.json",
+                    "@type": "sc:Canvas",
+                    "width": 3394,
+                    "height": 4562,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/49a7c7cd-f070-4c9b-9405-aa0d6e9cd794\/annotation\/49a7c7cd-f070-4c9b-9405-aa0d6e9cd794.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/49a7c7cd-f070-4c9b-9405-aa0d6e9cd794\/annotation\/49a7c7cd-f070-4c9b-9405-aa0d6e9cd794.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@49a7c7cd-f070-4c9b-9405-aa0d6e9cd794@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3394,
+                                "height": 4562,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@49a7c7cd-f070-4c9b-9405-aa0d6e9cd794@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@49a7c7cd-f070-4c9b-9405-aa0d6e9cd794@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00036.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/661c9056-621c-42b9-aa54-c144aa5d14ad\/canvas\/661c9056-621c-42b9-aa54-c144aa5d14ad.json",
+                    "@type": "sc:Canvas",
+                    "width": 3394,
+                    "height": 4607,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/661c9056-621c-42b9-aa54-c144aa5d14ad\/annotation\/661c9056-621c-42b9-aa54-c144aa5d14ad.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/661c9056-621c-42b9-aa54-c144aa5d14ad\/annotation\/661c9056-621c-42b9-aa54-c144aa5d14ad.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@661c9056-621c-42b9-aa54-c144aa5d14ad@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3394,
+                                "height": 4607,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@661c9056-621c-42b9-aa54-c144aa5d14ad@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@661c9056-621c-42b9-aa54-c144aa5d14ad@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00037.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a6661645-49b3-40e1-b249-04e6d6ab9004\/canvas\/a6661645-49b3-40e1-b249-04e6d6ab9004.json",
+                    "@type": "sc:Canvas",
+                    "width": 2339,
+                    "height": 11646,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a6661645-49b3-40e1-b249-04e6d6ab9004\/annotation\/a6661645-49b3-40e1-b249-04e6d6ab9004.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a6661645-49b3-40e1-b249-04e6d6ab9004\/annotation\/a6661645-49b3-40e1-b249-04e6d6ab9004.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@a6661645-49b3-40e1-b249-04e6d6ab9004@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2339,
+                                "height": 11646,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@a6661645-49b3-40e1-b249-04e6d6ab9004@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@a6661645-49b3-40e1-b249-04e6d6ab9004@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00038.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1aa83927-2c2a-4992-90c1-eeccaaa860ae\/canvas\/1aa83927-2c2a-4992-90c1-eeccaaa860ae.json",
+                    "@type": "sc:Canvas",
+                    "width": 2280,
+                    "height": 11599,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1aa83927-2c2a-4992-90c1-eeccaaa860ae\/annotation\/1aa83927-2c2a-4992-90c1-eeccaaa860ae.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1aa83927-2c2a-4992-90c1-eeccaaa860ae\/annotation\/1aa83927-2c2a-4992-90c1-eeccaaa860ae.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1aa83927-2c2a-4992-90c1-eeccaaa860ae@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2280,
+                                "height": 11599,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1aa83927-2c2a-4992-90c1-eeccaaa860ae@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1aa83927-2c2a-4992-90c1-eeccaaa860ae@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00039.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33372364-18fa-4527-9142-fc07b34d2729\/canvas\/33372364-18fa-4527-9142-fc07b34d2729.json",
+                    "@type": "sc:Canvas",
+                    "width": 3888,
+                    "height": 2989,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33372364-18fa-4527-9142-fc07b34d2729\/annotation\/33372364-18fa-4527-9142-fc07b34d2729.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33372364-18fa-4527-9142-fc07b34d2729\/annotation\/33372364-18fa-4527-9142-fc07b34d2729.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@33372364-18fa-4527-9142-fc07b34d2729@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3888,
+                                "height": 2989,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@33372364-18fa-4527-9142-fc07b34d2729@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@33372364-18fa-4527-9142-fc07b34d2729@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00040.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1cd54401-4c40-4e77-af84-b92772a9608f\/canvas\/1cd54401-4c40-4e77-af84-b92772a9608f.json",
+                    "@type": "sc:Canvas",
+                    "width": 3843,
+                    "height": 2989,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1cd54401-4c40-4e77-af84-b92772a9608f\/annotation\/1cd54401-4c40-4e77-af84-b92772a9608f.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1cd54401-4c40-4e77-af84-b92772a9608f\/annotation\/1cd54401-4c40-4e77-af84-b92772a9608f.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1cd54401-4c40-4e77-af84-b92772a9608f@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3843,
+                                "height": 2989,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1cd54401-4c40-4e77-af84-b92772a9608f@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1cd54401-4c40-4e77-af84-b92772a9608f@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00041.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3fa918a8-2e8b-4830-a958-cb4a9d9d924d\/canvas\/3fa918a8-2e8b-4830-a958-cb4a9d9d924d.json",
+                    "@type": "sc:Canvas",
+                    "width": 2899,
+                    "height": 2158,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3fa918a8-2e8b-4830-a958-cb4a9d9d924d\/annotation\/3fa918a8-2e8b-4830-a958-cb4a9d9d924d.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3fa918a8-2e8b-4830-a958-cb4a9d9d924d\/annotation\/3fa918a8-2e8b-4830-a958-cb4a9d9d924d.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@3fa918a8-2e8b-4830-a958-cb4a9d9d924d@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2899,
+                                "height": 2158,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@3fa918a8-2e8b-4830-a958-cb4a9d9d924d@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@3fa918a8-2e8b-4830-a958-cb4a9d9d924d@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00042.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/8381d1dc-f43e-4609-b0e0-aa21ef484497\/canvas\/8381d1dc-f43e-4609-b0e0-aa21ef484497.json",
+                    "@type": "sc:Canvas",
+                    "width": 2899,
+                    "height": 2225,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/8381d1dc-f43e-4609-b0e0-aa21ef484497\/annotation\/8381d1dc-f43e-4609-b0e0-aa21ef484497.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/8381d1dc-f43e-4609-b0e0-aa21ef484497\/annotation\/8381d1dc-f43e-4609-b0e0-aa21ef484497.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@8381d1dc-f43e-4609-b0e0-aa21ef484497@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2899,
+                                "height": 2225,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@8381d1dc-f43e-4609-b0e0-aa21ef484497@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@8381d1dc-f43e-4609-b0e0-aa21ef484497@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00043.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e9e958da-bae2-4892-843e-1b50016265a9\/canvas\/e9e958da-bae2-4892-843e-1b50016265a9.json",
+                    "@type": "sc:Canvas",
+                    "width": 5596,
+                    "height": 3865,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e9e958da-bae2-4892-843e-1b50016265a9\/annotation\/e9e958da-bae2-4892-843e-1b50016265a9.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e9e958da-bae2-4892-843e-1b50016265a9\/annotation\/e9e958da-bae2-4892-843e-1b50016265a9.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@e9e958da-bae2-4892-843e-1b50016265a9@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 5596,
+                                "height": 3865,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@e9e958da-bae2-4892-843e-1b50016265a9@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@e9e958da-bae2-4892-843e-1b50016265a9@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00044.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/61ccef1a-2922-49ae-a832-9c3774222c43\/canvas\/61ccef1a-2922-49ae-a832-9c3774222c43.json",
+                    "@type": "sc:Canvas",
+                    "width": 5596,
+                    "height": 3820,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/61ccef1a-2922-49ae-a832-9c3774222c43\/annotation\/61ccef1a-2922-49ae-a832-9c3774222c43.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/61ccef1a-2922-49ae-a832-9c3774222c43\/annotation\/61ccef1a-2922-49ae-a832-9c3774222c43.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@61ccef1a-2922-49ae-a832-9c3774222c43@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 5596,
+                                "height": 3820,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@61ccef1a-2922-49ae-a832-9c3774222c43@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@61ccef1a-2922-49ae-a832-9c3774222c43@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00045.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ad01df0a-dc53-4422-b085-8ecd969bb384\/canvas\/ad01df0a-dc53-4422-b085-8ecd969bb384.json",
+                    "@type": "sc:Canvas",
+                    "width": 4240,
+                    "height": 8964,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ad01df0a-dc53-4422-b085-8ecd969bb384\/annotation\/ad01df0a-dc53-4422-b085-8ecd969bb384.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ad01df0a-dc53-4422-b085-8ecd969bb384\/annotation\/ad01df0a-dc53-4422-b085-8ecd969bb384.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@ad01df0a-dc53-4422-b085-8ecd969bb384@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 4240,
+                                "height": 8964,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@ad01df0a-dc53-4422-b085-8ecd969bb384@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@ad01df0a-dc53-4422-b085-8ecd969bb384@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00046.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1626f027-227a-4e0f-8db1-63e476654e1b\/canvas\/1626f027-227a-4e0f-8db1-63e476654e1b.json",
+                    "@type": "sc:Canvas",
+                    "width": 3731,
+                    "height": 5290,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1626f027-227a-4e0f-8db1-63e476654e1b\/annotation\/1626f027-227a-4e0f-8db1-63e476654e1b.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1626f027-227a-4e0f-8db1-63e476654e1b\/annotation\/1626f027-227a-4e0f-8db1-63e476654e1b.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1626f027-227a-4e0f-8db1-63e476654e1b@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3731,
+                                "height": 5290,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1626f027-227a-4e0f-8db1-63e476654e1b@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@1626f027-227a-4e0f-8db1-63e476654e1b@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00047.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4d73829f-ed8c-47dd-bad6-864873facac1\/canvas\/4d73829f-ed8c-47dd-bad6-864873facac1.json",
+                    "@type": "sc:Canvas",
+                    "width": 3764,
+                    "height": 5325,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4d73829f-ed8c-47dd-bad6-864873facac1\/annotation\/4d73829f-ed8c-47dd-bad6-864873facac1.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4d73829f-ed8c-47dd-bad6-864873facac1\/annotation\/4d73829f-ed8c-47dd-bad6-864873facac1.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4d73829f-ed8c-47dd-bad6-864873facac1@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3764,
+                                "height": 5325,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4d73829f-ed8c-47dd-bad6-864873facac1@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4d73829f-ed8c-47dd-bad6-864873facac1@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00048.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/14872ca1-fd16-4103-a98b-f62f033a0fe0\/canvas\/14872ca1-fd16-4103-a98b-f62f033a0fe0.json",
+                    "@type": "sc:Canvas",
+                    "width": 3710,
+                    "height": 5296,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/14872ca1-fd16-4103-a98b-f62f033a0fe0\/annotation\/14872ca1-fd16-4103-a98b-f62f033a0fe0.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/14872ca1-fd16-4103-a98b-f62f033a0fe0\/annotation\/14872ca1-fd16-4103-a98b-f62f033a0fe0.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@14872ca1-fd16-4103-a98b-f62f033a0fe0@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3710,
+                                "height": 5296,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@14872ca1-fd16-4103-a98b-f62f033a0fe0@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@14872ca1-fd16-4103-a98b-f62f033a0fe0@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00049.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6f3b2cba-71ff-44bc-a45b-ad1c2f0badcb\/canvas\/6f3b2cba-71ff-44bc-a45b-ad1c2f0badcb.json",
+                    "@type": "sc:Canvas",
+                    "width": 3710,
+                    "height": 5296,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6f3b2cba-71ff-44bc-a45b-ad1c2f0badcb\/annotation\/6f3b2cba-71ff-44bc-a45b-ad1c2f0badcb.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6f3b2cba-71ff-44bc-a45b-ad1c2f0badcb\/annotation\/6f3b2cba-71ff-44bc-a45b-ad1c2f0badcb.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@6f3b2cba-71ff-44bc-a45b-ad1c2f0badcb@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3710,
+                                "height": 5296,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@6f3b2cba-71ff-44bc-a45b-ad1c2f0badcb@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@6f3b2cba-71ff-44bc-a45b-ad1c2f0badcb@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00050.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4ee2febb-e0c2-4c42-84ea-32a05969f4c3\/canvas\/4ee2febb-e0c2-4c42-84ea-32a05969f4c3.json",
+                    "@type": "sc:Canvas",
+                    "width": 2278,
+                    "height": 7249,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4ee2febb-e0c2-4c42-84ea-32a05969f4c3\/annotation\/4ee2febb-e0c2-4c42-84ea-32a05969f4c3.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4ee2febb-e0c2-4c42-84ea-32a05969f4c3\/annotation\/4ee2febb-e0c2-4c42-84ea-32a05969f4c3.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4ee2febb-e0c2-4c42-84ea-32a05969f4c3@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2278,
+                                "height": 7249,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4ee2febb-e0c2-4c42-84ea-32a05969f4c3@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-genova@get@4ee2febb-e0c2-4c42-84ea-32a05969f4c3@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00051.jpg"
+                }
+            ]
+        }
+    ]
+}
