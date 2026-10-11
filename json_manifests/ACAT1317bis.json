@@ -1,0 +1,377 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2746134\/manifest.json?type=archive&page=",
+    "@type": "sc:Manifest",
+    "label": "Nicol\u00f2 Francaviglia",
+    "description": "<b>Complesso<\/b>: Atti notarili del distretto di Catania. Primo versamento<br\/><b>Estremi Cronologici<\/b>: 27\/03\/1431 - 04\/1431<br\/><br\/><a href=\"https:\/\/archiviodigitale-icar.cultura.gov.it\/it\/185\/ricerca\/detail\/2746134\" target=\"_blank\">Vedi scheda<\/a>",
+    "attribution": "Archivio Digitale",
+    "sequences": [
+        {
+            "@id": "sequence",
+            "@type": "sc:Sequence",
+            "label": "Sequenza",
+            "canvases": [
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9a2fcbb0-230f-46ac-ac78-d624787dee76\/canvas\/9a2fcbb0-230f-46ac-ac78-d624787dee76.json",
+                    "@type": "sc:Canvas",
+                    "width": 2318,
+                    "height": 3363,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9a2fcbb0-230f-46ac-ac78-d624787dee76\/annotation\/9a2fcbb0-230f-46ac-ac78-d624787dee76.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9a2fcbb0-230f-46ac-ac78-d624787dee76\/annotation\/9a2fcbb0-230f-46ac-ac78-d624787dee76.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@9a2fcbb0-230f-46ac-ac78-d624787dee76@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2318,
+                                "height": 3363,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@9a2fcbb0-230f-46ac-ac78-d624787dee76@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@9a2fcbb0-230f-46ac-ac78-d624787dee76@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0001.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c77cf1c1-6d64-4993-baf7-a05c040bbae2\/canvas\/c77cf1c1-6d64-4993-baf7-a05c040bbae2.json",
+                    "@type": "sc:Canvas",
+                    "width": 2356,
+                    "height": 3468,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c77cf1c1-6d64-4993-baf7-a05c040bbae2\/annotation\/c77cf1c1-6d64-4993-baf7-a05c040bbae2.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c77cf1c1-6d64-4993-baf7-a05c040bbae2\/annotation\/c77cf1c1-6d64-4993-baf7-a05c040bbae2.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@c77cf1c1-6d64-4993-baf7-a05c040bbae2@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2356,
+                                "height": 3468,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@c77cf1c1-6d64-4993-baf7-a05c040bbae2@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@c77cf1c1-6d64-4993-baf7-a05c040bbae2@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0002.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1dfe70f4-ed2b-4e6c-97e2-65cb45e01455\/canvas\/1dfe70f4-ed2b-4e6c-97e2-65cb45e01455.json",
+                    "@type": "sc:Canvas",
+                    "width": 2632,
+                    "height": 3477,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1dfe70f4-ed2b-4e6c-97e2-65cb45e01455\/annotation\/1dfe70f4-ed2b-4e6c-97e2-65cb45e01455.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1dfe70f4-ed2b-4e6c-97e2-65cb45e01455\/annotation\/1dfe70f4-ed2b-4e6c-97e2-65cb45e01455.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@1dfe70f4-ed2b-4e6c-97e2-65cb45e01455@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2632,
+                                "height": 3477,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@1dfe70f4-ed2b-4e6c-97e2-65cb45e01455@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@1dfe70f4-ed2b-4e6c-97e2-65cb45e01455@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0003.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9f481f7e-c28c-41e4-b1ae-139301ad16d7\/canvas\/9f481f7e-c28c-41e4-b1ae-139301ad16d7.json",
+                    "@type": "sc:Canvas",
+                    "width": 2622,
+                    "height": 3515,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9f481f7e-c28c-41e4-b1ae-139301ad16d7\/annotation\/9f481f7e-c28c-41e4-b1ae-139301ad16d7.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9f481f7e-c28c-41e4-b1ae-139301ad16d7\/annotation\/9f481f7e-c28c-41e4-b1ae-139301ad16d7.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@9f481f7e-c28c-41e4-b1ae-139301ad16d7@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2622,
+                                "height": 3515,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@9f481f7e-c28c-41e4-b1ae-139301ad16d7@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@9f481f7e-c28c-41e4-b1ae-139301ad16d7@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0004.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6350d146-70ea-4117-ae81-098feb6f9698\/canvas\/6350d146-70ea-4117-ae81-098feb6f9698.json",
+                    "@type": "sc:Canvas",
+                    "width": 2632,
+                    "height": 3468,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6350d146-70ea-4117-ae81-098feb6f9698\/annotation\/6350d146-70ea-4117-ae81-098feb6f9698.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6350d146-70ea-4117-ae81-098feb6f9698\/annotation\/6350d146-70ea-4117-ae81-098feb6f9698.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@6350d146-70ea-4117-ae81-098feb6f9698@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2632,
+                                "height": 3468,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@6350d146-70ea-4117-ae81-098feb6f9698@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@6350d146-70ea-4117-ae81-098feb6f9698@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0005.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f8593d32-b593-4f51-ba60-3b27a8f3752a\/canvas\/f8593d32-b593-4f51-ba60-3b27a8f3752a.json",
+                    "@type": "sc:Canvas",
+                    "width": 2622,
+                    "height": 3477,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f8593d32-b593-4f51-ba60-3b27a8f3752a\/annotation\/f8593d32-b593-4f51-ba60-3b27a8f3752a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f8593d32-b593-4f51-ba60-3b27a8f3752a\/annotation\/f8593d32-b593-4f51-ba60-3b27a8f3752a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@f8593d32-b593-4f51-ba60-3b27a8f3752a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2622,
+                                "height": 3477,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@f8593d32-b593-4f51-ba60-3b27a8f3752a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@f8593d32-b593-4f51-ba60-3b27a8f3752a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0006.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f30a1e35-5150-4c08-b4ae-26aaa28f4d32\/canvas\/f30a1e35-5150-4c08-b4ae-26aaa28f4d32.json",
+                    "@type": "sc:Canvas",
+                    "width": 2613,
+                    "height": 3487,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f30a1e35-5150-4c08-b4ae-26aaa28f4d32\/annotation\/f30a1e35-5150-4c08-b4ae-26aaa28f4d32.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f30a1e35-5150-4c08-b4ae-26aaa28f4d32\/annotation\/f30a1e35-5150-4c08-b4ae-26aaa28f4d32.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@f30a1e35-5150-4c08-b4ae-26aaa28f4d32@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2613,
+                                "height": 3487,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@f30a1e35-5150-4c08-b4ae-26aaa28f4d32@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@f30a1e35-5150-4c08-b4ae-26aaa28f4d32@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0007.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b02ad316-d5a0-4863-9aef-47cf490be9e4\/canvas\/b02ad316-d5a0-4863-9aef-47cf490be9e4.json",
+                    "@type": "sc:Canvas",
+                    "width": 2622,
+                    "height": 3477,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b02ad316-d5a0-4863-9aef-47cf490be9e4\/annotation\/b02ad316-d5a0-4863-9aef-47cf490be9e4.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b02ad316-d5a0-4863-9aef-47cf490be9e4\/annotation\/b02ad316-d5a0-4863-9aef-47cf490be9e4.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@b02ad316-d5a0-4863-9aef-47cf490be9e4@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2622,
+                                "height": 3477,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@b02ad316-d5a0-4863-9aef-47cf490be9e4@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@b02ad316-d5a0-4863-9aef-47cf490be9e4@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0008.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33c3fcd5-0582-41e0-b5d0-4c2a92c1a86c\/canvas\/33c3fcd5-0582-41e0-b5d0-4c2a92c1a86c.json",
+                    "@type": "sc:Canvas",
+                    "width": 2613,
+                    "height": 3487,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33c3fcd5-0582-41e0-b5d0-4c2a92c1a86c\/annotation\/33c3fcd5-0582-41e0-b5d0-4c2a92c1a86c.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33c3fcd5-0582-41e0-b5d0-4c2a92c1a86c\/annotation\/33c3fcd5-0582-41e0-b5d0-4c2a92c1a86c.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@33c3fcd5-0582-41e0-b5d0-4c2a92c1a86c@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2613,
+                                "height": 3487,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@33c3fcd5-0582-41e0-b5d0-4c2a92c1a86c@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@33c3fcd5-0582-41e0-b5d0-4c2a92c1a86c@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0009.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/62878e3a-83e2-4312-954b-81eba2b1fee3\/canvas\/62878e3a-83e2-4312-954b-81eba2b1fee3.json",
+                    "@type": "sc:Canvas",
+                    "width": 2575,
+                    "height": 3468,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/62878e3a-83e2-4312-954b-81eba2b1fee3\/annotation\/62878e3a-83e2-4312-954b-81eba2b1fee3.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/62878e3a-83e2-4312-954b-81eba2b1fee3\/annotation\/62878e3a-83e2-4312-954b-81eba2b1fee3.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@62878e3a-83e2-4312-954b-81eba2b1fee3@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2575,
+                                "height": 3468,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@62878e3a-83e2-4312-954b-81eba2b1fee3@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@62878e3a-83e2-4312-954b-81eba2b1fee3@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0010.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/fec4ee04-9907-494f-b711-4b09a049585c\/canvas\/fec4ee04-9907-494f-b711-4b09a049585c.json",
+                    "@type": "sc:Canvas",
+                    "width": 2318,
+                    "height": 3420,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/fec4ee04-9907-494f-b711-4b09a049585c\/annotation\/fec4ee04-9907-494f-b711-4b09a049585c.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/fec4ee04-9907-494f-b711-4b09a049585c\/annotation\/fec4ee04-9907-494f-b711-4b09a049585c.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@fec4ee04-9907-494f-b711-4b09a049585c@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2318,
+                                "height": 3420,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@fec4ee04-9907-494f-b711-4b09a049585c@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@fec4ee04-9907-494f-b711-4b09a049585c@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0011.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e13f7683-7d8f-4b6b-a1e1-490bc27554b4\/canvas\/e13f7683-7d8f-4b6b-a1e1-490bc27554b4.json",
+                    "@type": "sc:Canvas",
+                    "width": 2375,
+                    "height": 3420,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e13f7683-7d8f-4b6b-a1e1-490bc27554b4\/annotation\/e13f7683-7d8f-4b6b-a1e1-490bc27554b4.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e13f7683-7d8f-4b6b-a1e1-490bc27554b4\/annotation\/e13f7683-7d8f-4b6b-a1e1-490bc27554b4.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@e13f7683-7d8f-4b6b-a1e1-490bc27554b4@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2375,
+                                "height": 3420,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@e13f7683-7d8f-4b6b-a1e1-490bc27554b4@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-catania@get@e13f7683-7d8f-4b6b-a1e1-490bc27554b4@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "0012.jpg"
+                }
+            ]
+        }
+    ]
+}
