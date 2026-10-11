@@ -1,0 +1,887 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2776196\/manifest.json?type=archive&page=",
+    "@type": "sc:Manifest",
+    "label": "Giacomo di Battista",
+    "description": "<b>Complesso<\/b>: Archivio notarile comunale di Ancona<br\/><b>Estremi Cronologici<\/b>: 27\/01\/1369 - 30\/10\/1369<br\/><br\/><a href=\"https:\/\/archiviodigitale-icar.cultura.gov.it\/it\/185\/ricerca\/detail\/2776196\" target=\"_blank\">Vedi scheda<\/a>",
+    "attribution": "Archivio Digitale",
+    "sequences": [
+        {
+            "@id": "sequence",
+            "@type": "sc:Sequence",
+            "label": "Sequenza",
+            "canvases": [
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/846f29b5-8fd9-4f47-ab85-8693c1193363\/canvas\/846f29b5-8fd9-4f47-ab85-8693c1193363.json",
+                    "@type": "sc:Canvas",
+                    "width": 3475,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/846f29b5-8fd9-4f47-ab85-8693c1193363\/annotation\/846f29b5-8fd9-4f47-ab85-8693c1193363.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/846f29b5-8fd9-4f47-ab85-8693c1193363\/annotation\/846f29b5-8fd9-4f47-ab85-8693c1193363.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@846f29b5-8fd9-4f47-ab85-8693c1193363@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3475,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@846f29b5-8fd9-4f47-ab85-8693c1193363@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@846f29b5-8fd9-4f47-ab85-8693c1193363@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00001.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/db42aa91-5433-40b8-9c82-3f48cca209db\/canvas\/db42aa91-5433-40b8-9c82-3f48cca209db.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/db42aa91-5433-40b8-9c82-3f48cca209db\/annotation\/db42aa91-5433-40b8-9c82-3f48cca209db.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/db42aa91-5433-40b8-9c82-3f48cca209db\/annotation\/db42aa91-5433-40b8-9c82-3f48cca209db.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@db42aa91-5433-40b8-9c82-3f48cca209db@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@db42aa91-5433-40b8-9c82-3f48cca209db@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@db42aa91-5433-40b8-9c82-3f48cca209db@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00002.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ab26da4f-cf66-448c-b869-7799aa4301dc\/canvas\/ab26da4f-cf66-448c-b869-7799aa4301dc.json",
+                    "@type": "sc:Canvas",
+                    "width": 3475,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ab26da4f-cf66-448c-b869-7799aa4301dc\/annotation\/ab26da4f-cf66-448c-b869-7799aa4301dc.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ab26da4f-cf66-448c-b869-7799aa4301dc\/annotation\/ab26da4f-cf66-448c-b869-7799aa4301dc.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ab26da4f-cf66-448c-b869-7799aa4301dc@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3475,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ab26da4f-cf66-448c-b869-7799aa4301dc@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ab26da4f-cf66-448c-b869-7799aa4301dc@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00003.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6d8b5c7a-1fb3-48f9-a8ec-48e3ece3fe47\/canvas\/6d8b5c7a-1fb3-48f9-a8ec-48e3ece3fe47.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6d8b5c7a-1fb3-48f9-a8ec-48e3ece3fe47\/annotation\/6d8b5c7a-1fb3-48f9-a8ec-48e3ece3fe47.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6d8b5c7a-1fb3-48f9-a8ec-48e3ece3fe47\/annotation\/6d8b5c7a-1fb3-48f9-a8ec-48e3ece3fe47.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@6d8b5c7a-1fb3-48f9-a8ec-48e3ece3fe47@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@6d8b5c7a-1fb3-48f9-a8ec-48e3ece3fe47@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@6d8b5c7a-1fb3-48f9-a8ec-48e3ece3fe47@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00004.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/59aba382-efb7-4733-9a09-5b87000fc5a9\/canvas\/59aba382-efb7-4733-9a09-5b87000fc5a9.json",
+                    "@type": "sc:Canvas",
+                    "width": 3475,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/59aba382-efb7-4733-9a09-5b87000fc5a9\/annotation\/59aba382-efb7-4733-9a09-5b87000fc5a9.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/59aba382-efb7-4733-9a09-5b87000fc5a9\/annotation\/59aba382-efb7-4733-9a09-5b87000fc5a9.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@59aba382-efb7-4733-9a09-5b87000fc5a9@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3475,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@59aba382-efb7-4733-9a09-5b87000fc5a9@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@59aba382-efb7-4733-9a09-5b87000fc5a9@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00005.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d169c246-8d19-4b5a-b215-f5356f094c82\/canvas\/d169c246-8d19-4b5a-b215-f5356f094c82.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d169c246-8d19-4b5a-b215-f5356f094c82\/annotation\/d169c246-8d19-4b5a-b215-f5356f094c82.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d169c246-8d19-4b5a-b215-f5356f094c82\/annotation\/d169c246-8d19-4b5a-b215-f5356f094c82.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@d169c246-8d19-4b5a-b215-f5356f094c82@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@d169c246-8d19-4b5a-b215-f5356f094c82@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@d169c246-8d19-4b5a-b215-f5356f094c82@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00006.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b37c98b6-736b-4945-9b97-45144d37d5fa\/canvas\/b37c98b6-736b-4945-9b97-45144d37d5fa.json",
+                    "@type": "sc:Canvas",
+                    "width": 3475,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b37c98b6-736b-4945-9b97-45144d37d5fa\/annotation\/b37c98b6-736b-4945-9b97-45144d37d5fa.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b37c98b6-736b-4945-9b97-45144d37d5fa\/annotation\/b37c98b6-736b-4945-9b97-45144d37d5fa.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@b37c98b6-736b-4945-9b97-45144d37d5fa@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3475,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@b37c98b6-736b-4945-9b97-45144d37d5fa@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@b37c98b6-736b-4945-9b97-45144d37d5fa@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00007.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f1a0e947-0c51-46cd-9675-f6cb95e9fa3d\/canvas\/f1a0e947-0c51-46cd-9675-f6cb95e9fa3d.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f1a0e947-0c51-46cd-9675-f6cb95e9fa3d\/annotation\/f1a0e947-0c51-46cd-9675-f6cb95e9fa3d.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f1a0e947-0c51-46cd-9675-f6cb95e9fa3d\/annotation\/f1a0e947-0c51-46cd-9675-f6cb95e9fa3d.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@f1a0e947-0c51-46cd-9675-f6cb95e9fa3d@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@f1a0e947-0c51-46cd-9675-f6cb95e9fa3d@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@f1a0e947-0c51-46cd-9675-f6cb95e9fa3d@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00008.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c8e1c528-b62f-414b-99c9-680c0ac75ff4\/canvas\/c8e1c528-b62f-414b-99c9-680c0ac75ff4.json",
+                    "@type": "sc:Canvas",
+                    "width": 3475,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c8e1c528-b62f-414b-99c9-680c0ac75ff4\/annotation\/c8e1c528-b62f-414b-99c9-680c0ac75ff4.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c8e1c528-b62f-414b-99c9-680c0ac75ff4\/annotation\/c8e1c528-b62f-414b-99c9-680c0ac75ff4.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@c8e1c528-b62f-414b-99c9-680c0ac75ff4@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3475,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@c8e1c528-b62f-414b-99c9-680c0ac75ff4@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@c8e1c528-b62f-414b-99c9-680c0ac75ff4@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00009.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/770f1bb6-e114-4bda-b1bb-de56de95ed9e\/canvas\/770f1bb6-e114-4bda-b1bb-de56de95ed9e.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/770f1bb6-e114-4bda-b1bb-de56de95ed9e\/annotation\/770f1bb6-e114-4bda-b1bb-de56de95ed9e.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/770f1bb6-e114-4bda-b1bb-de56de95ed9e\/annotation\/770f1bb6-e114-4bda-b1bb-de56de95ed9e.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@770f1bb6-e114-4bda-b1bb-de56de95ed9e@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@770f1bb6-e114-4bda-b1bb-de56de95ed9e@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@770f1bb6-e114-4bda-b1bb-de56de95ed9e@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00010.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d62b7730-bfdd-42b4-b1b6-6a5df1041670\/canvas\/d62b7730-bfdd-42b4-b1b6-6a5df1041670.json",
+                    "@type": "sc:Canvas",
+                    "width": 3475,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d62b7730-bfdd-42b4-b1b6-6a5df1041670\/annotation\/d62b7730-bfdd-42b4-b1b6-6a5df1041670.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d62b7730-bfdd-42b4-b1b6-6a5df1041670\/annotation\/d62b7730-bfdd-42b4-b1b6-6a5df1041670.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@d62b7730-bfdd-42b4-b1b6-6a5df1041670@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3475,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@d62b7730-bfdd-42b4-b1b6-6a5df1041670@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@d62b7730-bfdd-42b4-b1b6-6a5df1041670@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00011.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/32ed5d44-11d1-4727-a444-61aef19e1d46\/canvas\/32ed5d44-11d1-4727-a444-61aef19e1d46.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/32ed5d44-11d1-4727-a444-61aef19e1d46\/annotation\/32ed5d44-11d1-4727-a444-61aef19e1d46.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/32ed5d44-11d1-4727-a444-61aef19e1d46\/annotation\/32ed5d44-11d1-4727-a444-61aef19e1d46.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@32ed5d44-11d1-4727-a444-61aef19e1d46@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@32ed5d44-11d1-4727-a444-61aef19e1d46@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@32ed5d44-11d1-4727-a444-61aef19e1d46@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00012.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6ef4087e-846f-4fcc-b0f5-f9acfc3e54f3\/canvas\/6ef4087e-846f-4fcc-b0f5-f9acfc3e54f3.json",
+                    "@type": "sc:Canvas",
+                    "width": 3475,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6ef4087e-846f-4fcc-b0f5-f9acfc3e54f3\/annotation\/6ef4087e-846f-4fcc-b0f5-f9acfc3e54f3.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6ef4087e-846f-4fcc-b0f5-f9acfc3e54f3\/annotation\/6ef4087e-846f-4fcc-b0f5-f9acfc3e54f3.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@6ef4087e-846f-4fcc-b0f5-f9acfc3e54f3@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3475,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@6ef4087e-846f-4fcc-b0f5-f9acfc3e54f3@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@6ef4087e-846f-4fcc-b0f5-f9acfc3e54f3@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00013.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3cc30a94-d206-4502-8633-8bcbab7d92d4\/canvas\/3cc30a94-d206-4502-8633-8bcbab7d92d4.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3cc30a94-d206-4502-8633-8bcbab7d92d4\/annotation\/3cc30a94-d206-4502-8633-8bcbab7d92d4.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3cc30a94-d206-4502-8633-8bcbab7d92d4\/annotation\/3cc30a94-d206-4502-8633-8bcbab7d92d4.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@3cc30a94-d206-4502-8633-8bcbab7d92d4@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@3cc30a94-d206-4502-8633-8bcbab7d92d4@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@3cc30a94-d206-4502-8633-8bcbab7d92d4@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00014.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cef599c4-4e5f-4b44-ad43-933e3b889503\/canvas\/cef599c4-4e5f-4b44-ad43-933e3b889503.json",
+                    "@type": "sc:Canvas",
+                    "width": 3475,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cef599c4-4e5f-4b44-ad43-933e3b889503\/annotation\/cef599c4-4e5f-4b44-ad43-933e3b889503.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cef599c4-4e5f-4b44-ad43-933e3b889503\/annotation\/cef599c4-4e5f-4b44-ad43-933e3b889503.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@cef599c4-4e5f-4b44-ad43-933e3b889503@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3475,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@cef599c4-4e5f-4b44-ad43-933e3b889503@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@cef599c4-4e5f-4b44-ad43-933e3b889503@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00015.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e044b558-91ca-4cc3-b8cc-a35b54ab4536\/canvas\/e044b558-91ca-4cc3-b8cc-a35b54ab4536.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e044b558-91ca-4cc3-b8cc-a35b54ab4536\/annotation\/e044b558-91ca-4cc3-b8cc-a35b54ab4536.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e044b558-91ca-4cc3-b8cc-a35b54ab4536\/annotation\/e044b558-91ca-4cc3-b8cc-a35b54ab4536.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@e044b558-91ca-4cc3-b8cc-a35b54ab4536@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@e044b558-91ca-4cc3-b8cc-a35b54ab4536@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@e044b558-91ca-4cc3-b8cc-a35b54ab4536@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00016.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f5baa85e-802f-4270-9dfa-11f96f3f0335\/canvas\/f5baa85e-802f-4270-9dfa-11f96f3f0335.json",
+                    "@type": "sc:Canvas",
+                    "width": 3475,
+                    "height": 3880,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f5baa85e-802f-4270-9dfa-11f96f3f0335\/annotation\/f5baa85e-802f-4270-9dfa-11f96f3f0335.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f5baa85e-802f-4270-9dfa-11f96f3f0335\/annotation\/f5baa85e-802f-4270-9dfa-11f96f3f0335.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@f5baa85e-802f-4270-9dfa-11f96f3f0335@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3475,
+                                "height": 3880,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@f5baa85e-802f-4270-9dfa-11f96f3f0335@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@f5baa85e-802f-4270-9dfa-11f96f3f0335@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00017.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/37273809-2e59-45fa-87e0-e39920469fca\/canvas\/37273809-2e59-45fa-87e0-e39920469fca.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/37273809-2e59-45fa-87e0-e39920469fca\/annotation\/37273809-2e59-45fa-87e0-e39920469fca.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/37273809-2e59-45fa-87e0-e39920469fca\/annotation\/37273809-2e59-45fa-87e0-e39920469fca.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@37273809-2e59-45fa-87e0-e39920469fca@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@37273809-2e59-45fa-87e0-e39920469fca@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@37273809-2e59-45fa-87e0-e39920469fca@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00018.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1bc3040a-3f16-474e-af5f-9eeb5764d29b\/canvas\/1bc3040a-3f16-474e-af5f-9eeb5764d29b.json",
+                    "@type": "sc:Canvas",
+                    "width": 3514,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1bc3040a-3f16-474e-af5f-9eeb5764d29b\/annotation\/1bc3040a-3f16-474e-af5f-9eeb5764d29b.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1bc3040a-3f16-474e-af5f-9eeb5764d29b\/annotation\/1bc3040a-3f16-474e-af5f-9eeb5764d29b.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@1bc3040a-3f16-474e-af5f-9eeb5764d29b@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3514,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@1bc3040a-3f16-474e-af5f-9eeb5764d29b@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@1bc3040a-3f16-474e-af5f-9eeb5764d29b@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00019.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ce27e29f-4e76-43a2-b8af-d62a13554c09\/canvas\/ce27e29f-4e76-43a2-b8af-d62a13554c09.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ce27e29f-4e76-43a2-b8af-d62a13554c09\/annotation\/ce27e29f-4e76-43a2-b8af-d62a13554c09.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ce27e29f-4e76-43a2-b8af-d62a13554c09\/annotation\/ce27e29f-4e76-43a2-b8af-d62a13554c09.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ce27e29f-4e76-43a2-b8af-d62a13554c09@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ce27e29f-4e76-43a2-b8af-d62a13554c09@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ce27e29f-4e76-43a2-b8af-d62a13554c09@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00020.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2e74c35a-4a38-4649-836f-567e7babe09e\/canvas\/2e74c35a-4a38-4649-836f-567e7babe09e.json",
+                    "@type": "sc:Canvas",
+                    "width": 3514,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2e74c35a-4a38-4649-836f-567e7babe09e\/annotation\/2e74c35a-4a38-4649-836f-567e7babe09e.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2e74c35a-4a38-4649-836f-567e7babe09e\/annotation\/2e74c35a-4a38-4649-836f-567e7babe09e.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@2e74c35a-4a38-4649-836f-567e7babe09e@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3514,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@2e74c35a-4a38-4649-836f-567e7babe09e@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@2e74c35a-4a38-4649-836f-567e7babe09e@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00021.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ad0e208d-9c41-43aa-9e4f-d2916f45ff3f\/canvas\/ad0e208d-9c41-43aa-9e4f-d2916f45ff3f.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ad0e208d-9c41-43aa-9e4f-d2916f45ff3f\/annotation\/ad0e208d-9c41-43aa-9e4f-d2916f45ff3f.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ad0e208d-9c41-43aa-9e4f-d2916f45ff3f\/annotation\/ad0e208d-9c41-43aa-9e4f-d2916f45ff3f.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ad0e208d-9c41-43aa-9e4f-d2916f45ff3f@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ad0e208d-9c41-43aa-9e4f-d2916f45ff3f@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ad0e208d-9c41-43aa-9e4f-d2916f45ff3f@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00022.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cf5c6f7b-f367-4685-8e94-1a1740b1a980\/canvas\/cf5c6f7b-f367-4685-8e94-1a1740b1a980.json",
+                    "@type": "sc:Canvas",
+                    "width": 3514,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cf5c6f7b-f367-4685-8e94-1a1740b1a980\/annotation\/cf5c6f7b-f367-4685-8e94-1a1740b1a980.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cf5c6f7b-f367-4685-8e94-1a1740b1a980\/annotation\/cf5c6f7b-f367-4685-8e94-1a1740b1a980.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@cf5c6f7b-f367-4685-8e94-1a1740b1a980@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3514,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@cf5c6f7b-f367-4685-8e94-1a1740b1a980@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@cf5c6f7b-f367-4685-8e94-1a1740b1a980@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00023.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ae2bf67e-01aa-4420-a6e0-5cd8d4e071f6\/canvas\/ae2bf67e-01aa-4420-a6e0-5cd8d4e071f6.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ae2bf67e-01aa-4420-a6e0-5cd8d4e071f6\/annotation\/ae2bf67e-01aa-4420-a6e0-5cd8d4e071f6.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ae2bf67e-01aa-4420-a6e0-5cd8d4e071f6\/annotation\/ae2bf67e-01aa-4420-a6e0-5cd8d4e071f6.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ae2bf67e-01aa-4420-a6e0-5cd8d4e071f6@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ae2bf67e-01aa-4420-a6e0-5cd8d4e071f6@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ae2bf67e-01aa-4420-a6e0-5cd8d4e071f6@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00024.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba004f32-dc3b-4e6b-9993-6e64c3964a0c\/canvas\/ba004f32-dc3b-4e6b-9993-6e64c3964a0c.json",
+                    "@type": "sc:Canvas",
+                    "width": 3514,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba004f32-dc3b-4e6b-9993-6e64c3964a0c\/annotation\/ba004f32-dc3b-4e6b-9993-6e64c3964a0c.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba004f32-dc3b-4e6b-9993-6e64c3964a0c\/annotation\/ba004f32-dc3b-4e6b-9993-6e64c3964a0c.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ba004f32-dc3b-4e6b-9993-6e64c3964a0c@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3514,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ba004f32-dc3b-4e6b-9993-6e64c3964a0c@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@ba004f32-dc3b-4e6b-9993-6e64c3964a0c@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00025.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d6c6465b-cba1-44ab-b7f2-3b07d16f152d\/canvas\/d6c6465b-cba1-44ab-b7f2-3b07d16f152d.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d6c6465b-cba1-44ab-b7f2-3b07d16f152d\/annotation\/d6c6465b-cba1-44ab-b7f2-3b07d16f152d.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d6c6465b-cba1-44ab-b7f2-3b07d16f152d\/annotation\/d6c6465b-cba1-44ab-b7f2-3b07d16f152d.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@d6c6465b-cba1-44ab-b7f2-3b07d16f152d@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@d6c6465b-cba1-44ab-b7f2-3b07d16f152d@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@d6c6465b-cba1-44ab-b7f2-3b07d16f152d@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00026.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/fef23fb0-adb2-4064-bc1f-434087b19edb\/canvas\/fef23fb0-adb2-4064-bc1f-434087b19edb.json",
+                    "@type": "sc:Canvas",
+                    "width": 3514,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/fef23fb0-adb2-4064-bc1f-434087b19edb\/annotation\/fef23fb0-adb2-4064-bc1f-434087b19edb.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/fef23fb0-adb2-4064-bc1f-434087b19edb\/annotation\/fef23fb0-adb2-4064-bc1f-434087b19edb.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@fef23fb0-adb2-4064-bc1f-434087b19edb@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3514,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@fef23fb0-adb2-4064-bc1f-434087b19edb@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@fef23fb0-adb2-4064-bc1f-434087b19edb@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00027.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/7499c875-bec0-4d9d-b4bd-5ae608820712\/canvas\/7499c875-bec0-4d9d-b4bd-5ae608820712.json",
+                    "@type": "sc:Canvas",
+                    "width": 3495,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/7499c875-bec0-4d9d-b4bd-5ae608820712\/annotation\/7499c875-bec0-4d9d-b4bd-5ae608820712.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/7499c875-bec0-4d9d-b4bd-5ae608820712\/annotation\/7499c875-bec0-4d9d-b4bd-5ae608820712.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@7499c875-bec0-4d9d-b4bd-5ae608820712@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3495,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@7499c875-bec0-4d9d-b4bd-5ae608820712@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@7499c875-bec0-4d9d-b4bd-5ae608820712@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00028.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/13f01ff0-e0d5-47e0-beb9-d6ee8793b820\/canvas\/13f01ff0-e0d5-47e0-beb9-d6ee8793b820.json",
+                    "@type": "sc:Canvas",
+                    "width": 3514,
+                    "height": 3930,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/13f01ff0-e0d5-47e0-beb9-d6ee8793b820\/annotation\/13f01ff0-e0d5-47e0-beb9-d6ee8793b820.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/13f01ff0-e0d5-47e0-beb9-d6ee8793b820\/annotation\/13f01ff0-e0d5-47e0-beb9-d6ee8793b820.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@13f01ff0-e0d5-47e0-beb9-d6ee8793b820@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 3514,
+                                "height": 3930,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@13f01ff0-e0d5-47e0-beb9-d6ee8793b820@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-ancona@get@13f01ff0-e0d5-47e0-beb9-d6ee8793b820@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "00029.jpg"
+                }
+            ]
+        }
+    ]
+}
