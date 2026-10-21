@@ -1,0 +1,2117 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2746404\/manifest.json?type=archive&page=",
+    "@type": "sc:Manifest",
+    "label": "Giovanni Scanatello",
+    "description": "<b>Complesso<\/b>: Notai di Trapani<br\/><b>Estremi Cronologici<\/b>: xv secolo<br\/><br\/><a href=\"https:\/\/archiviodigitale-icar.cultura.gov.it\/it\/185\/ricerca\/detail\/2746404\" target=\"_blank\">Vedi scheda<\/a>",
+    "attribution": "Archivio Digitale",
+    "sequences": [
+        {
+            "@id": "sequence",
+            "@type": "sc:Sequence",
+            "label": "Sequenza",
+            "canvases": [
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/81e13d52-20b7-4a7c-94e6-02f97a409865\/canvas\/81e13d52-20b7-4a7c-94e6-02f97a409865.json",
+                    "@type": "sc:Canvas",
+                    "width": 2900,
+                    "height": 3640,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/81e13d52-20b7-4a7c-94e6-02f97a409865\/annotation\/81e13d52-20b7-4a7c-94e6-02f97a409865.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/81e13d52-20b7-4a7c-94e6-02f97a409865\/annotation\/81e13d52-20b7-4a7c-94e6-02f97a409865.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@81e13d52-20b7-4a7c-94e6-02f97a409865@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2900,
+                                "height": 3640,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@81e13d52-20b7-4a7c-94e6-02f97a409865@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@81e13d52-20b7-4a7c-94e6-02f97a409865@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0001.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/79e691f6-e7c2-433b-b42e-40b33cf1592c\/canvas\/79e691f6-e7c2-433b-b42e-40b33cf1592c.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/79e691f6-e7c2-433b-b42e-40b33cf1592c\/annotation\/79e691f6-e7c2-433b-b42e-40b33cf1592c.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/79e691f6-e7c2-433b-b42e-40b33cf1592c\/annotation\/79e691f6-e7c2-433b-b42e-40b33cf1592c.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@79e691f6-e7c2-433b-b42e-40b33cf1592c@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@79e691f6-e7c2-433b-b42e-40b33cf1592c@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@79e691f6-e7c2-433b-b42e-40b33cf1592c@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0002.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5926b464-ddc6-4139-b46e-f33597255a5a\/canvas\/5926b464-ddc6-4139-b46e-f33597255a5a.json",
+                    "@type": "sc:Canvas",
+                    "width": 2880,
+                    "height": 3600,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5926b464-ddc6-4139-b46e-f33597255a5a\/annotation\/5926b464-ddc6-4139-b46e-f33597255a5a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5926b464-ddc6-4139-b46e-f33597255a5a\/annotation\/5926b464-ddc6-4139-b46e-f33597255a5a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@5926b464-ddc6-4139-b46e-f33597255a5a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2880,
+                                "height": 3600,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@5926b464-ddc6-4139-b46e-f33597255a5a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@5926b464-ddc6-4139-b46e-f33597255a5a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0003.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a99dcb05-0eae-46bb-a126-4c722a8d3582\/canvas\/a99dcb05-0eae-46bb-a126-4c722a8d3582.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a99dcb05-0eae-46bb-a126-4c722a8d3582\/annotation\/a99dcb05-0eae-46bb-a126-4c722a8d3582.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a99dcb05-0eae-46bb-a126-4c722a8d3582\/annotation\/a99dcb05-0eae-46bb-a126-4c722a8d3582.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a99dcb05-0eae-46bb-a126-4c722a8d3582@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a99dcb05-0eae-46bb-a126-4c722a8d3582@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a99dcb05-0eae-46bb-a126-4c722a8d3582@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0004.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a72f67f7-d346-48de-92a4-27299a648336\/canvas\/a72f67f7-d346-48de-92a4-27299a648336.json",
+                    "@type": "sc:Canvas",
+                    "width": 2880,
+                    "height": 3600,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a72f67f7-d346-48de-92a4-27299a648336\/annotation\/a72f67f7-d346-48de-92a4-27299a648336.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a72f67f7-d346-48de-92a4-27299a648336\/annotation\/a72f67f7-d346-48de-92a4-27299a648336.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a72f67f7-d346-48de-92a4-27299a648336@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2880,
+                                "height": 3600,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a72f67f7-d346-48de-92a4-27299a648336@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a72f67f7-d346-48de-92a4-27299a648336@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0005.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b9ee6398-1b3d-4ae2-8d01-f960a0c69d04\/canvas\/b9ee6398-1b3d-4ae2-8d01-f960a0c69d04.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b9ee6398-1b3d-4ae2-8d01-f960a0c69d04\/annotation\/b9ee6398-1b3d-4ae2-8d01-f960a0c69d04.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b9ee6398-1b3d-4ae2-8d01-f960a0c69d04\/annotation\/b9ee6398-1b3d-4ae2-8d01-f960a0c69d04.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@b9ee6398-1b3d-4ae2-8d01-f960a0c69d04@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@b9ee6398-1b3d-4ae2-8d01-f960a0c69d04@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@b9ee6398-1b3d-4ae2-8d01-f960a0c69d04@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0006.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/638b48a2-171c-40ca-b033-5283c88125ad\/canvas\/638b48a2-171c-40ca-b033-5283c88125ad.json",
+                    "@type": "sc:Canvas",
+                    "width": 2880,
+                    "height": 3600,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/638b48a2-171c-40ca-b033-5283c88125ad\/annotation\/638b48a2-171c-40ca-b033-5283c88125ad.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/638b48a2-171c-40ca-b033-5283c88125ad\/annotation\/638b48a2-171c-40ca-b033-5283c88125ad.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@638b48a2-171c-40ca-b033-5283c88125ad@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2880,
+                                "height": 3600,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@638b48a2-171c-40ca-b033-5283c88125ad@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@638b48a2-171c-40ca-b033-5283c88125ad@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0007.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/26435f99-6324-45e1-9930-a2bb784beace\/canvas\/26435f99-6324-45e1-9930-a2bb784beace.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/26435f99-6324-45e1-9930-a2bb784beace\/annotation\/26435f99-6324-45e1-9930-a2bb784beace.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/26435f99-6324-45e1-9930-a2bb784beace\/annotation\/26435f99-6324-45e1-9930-a2bb784beace.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@26435f99-6324-45e1-9930-a2bb784beace@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@26435f99-6324-45e1-9930-a2bb784beace@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@26435f99-6324-45e1-9930-a2bb784beace@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0008.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6ef9dfb4-bb79-49af-a4ac-14a3ed650add\/canvas\/6ef9dfb4-bb79-49af-a4ac-14a3ed650add.json",
+                    "@type": "sc:Canvas",
+                    "width": 2880,
+                    "height": 3600,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6ef9dfb4-bb79-49af-a4ac-14a3ed650add\/annotation\/6ef9dfb4-bb79-49af-a4ac-14a3ed650add.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/6ef9dfb4-bb79-49af-a4ac-14a3ed650add\/annotation\/6ef9dfb4-bb79-49af-a4ac-14a3ed650add.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@6ef9dfb4-bb79-49af-a4ac-14a3ed650add@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2880,
+                                "height": 3600,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@6ef9dfb4-bb79-49af-a4ac-14a3ed650add@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@6ef9dfb4-bb79-49af-a4ac-14a3ed650add@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0009.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d2ba152c-29fc-477e-916b-0d37ae17b866\/canvas\/d2ba152c-29fc-477e-916b-0d37ae17b866.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d2ba152c-29fc-477e-916b-0d37ae17b866\/annotation\/d2ba152c-29fc-477e-916b-0d37ae17b866.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/d2ba152c-29fc-477e-916b-0d37ae17b866\/annotation\/d2ba152c-29fc-477e-916b-0d37ae17b866.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@d2ba152c-29fc-477e-916b-0d37ae17b866@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@d2ba152c-29fc-477e-916b-0d37ae17b866@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@d2ba152c-29fc-477e-916b-0d37ae17b866@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0010.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1f9a89e6-5551-45b2-9c87-f2179b463e32\/canvas\/1f9a89e6-5551-45b2-9c87-f2179b463e32.json",
+                    "@type": "sc:Canvas",
+                    "width": 2880,
+                    "height": 3600,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1f9a89e6-5551-45b2-9c87-f2179b463e32\/annotation\/1f9a89e6-5551-45b2-9c87-f2179b463e32.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/1f9a89e6-5551-45b2-9c87-f2179b463e32\/annotation\/1f9a89e6-5551-45b2-9c87-f2179b463e32.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@1f9a89e6-5551-45b2-9c87-f2179b463e32@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2880,
+                                "height": 3600,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@1f9a89e6-5551-45b2-9c87-f2179b463e32@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@1f9a89e6-5551-45b2-9c87-f2179b463e32@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0011.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/23bb0d70-832a-4b35-a082-c138cd992ec2\/canvas\/23bb0d70-832a-4b35-a082-c138cd992ec2.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/23bb0d70-832a-4b35-a082-c138cd992ec2\/annotation\/23bb0d70-832a-4b35-a082-c138cd992ec2.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/23bb0d70-832a-4b35-a082-c138cd992ec2\/annotation\/23bb0d70-832a-4b35-a082-c138cd992ec2.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@23bb0d70-832a-4b35-a082-c138cd992ec2@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@23bb0d70-832a-4b35-a082-c138cd992ec2@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@23bb0d70-832a-4b35-a082-c138cd992ec2@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0012.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4f68e95f-e0db-43fa-a6b6-76ebdddb6cdc\/canvas\/4f68e95f-e0db-43fa-a6b6-76ebdddb6cdc.json",
+                    "@type": "sc:Canvas",
+                    "width": 2880,
+                    "height": 3600,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4f68e95f-e0db-43fa-a6b6-76ebdddb6cdc\/annotation\/4f68e95f-e0db-43fa-a6b6-76ebdddb6cdc.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4f68e95f-e0db-43fa-a6b6-76ebdddb6cdc\/annotation\/4f68e95f-e0db-43fa-a6b6-76ebdddb6cdc.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4f68e95f-e0db-43fa-a6b6-76ebdddb6cdc@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2880,
+                                "height": 3600,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4f68e95f-e0db-43fa-a6b6-76ebdddb6cdc@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4f68e95f-e0db-43fa-a6b6-76ebdddb6cdc@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0013.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba4b5f4e-49db-4a61-ba28-07e234990745\/canvas\/ba4b5f4e-49db-4a61-ba28-07e234990745.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba4b5f4e-49db-4a61-ba28-07e234990745\/annotation\/ba4b5f4e-49db-4a61-ba28-07e234990745.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba4b5f4e-49db-4a61-ba28-07e234990745\/annotation\/ba4b5f4e-49db-4a61-ba28-07e234990745.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ba4b5f4e-49db-4a61-ba28-07e234990745@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ba4b5f4e-49db-4a61-ba28-07e234990745@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ba4b5f4e-49db-4a61-ba28-07e234990745@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0014.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ebf90e2a-1a67-495a-a710-c08e14a3c6da\/canvas\/ebf90e2a-1a67-495a-a710-c08e14a3c6da.json",
+                    "@type": "sc:Canvas",
+                    "width": 1855,
+                    "height": 2515,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ebf90e2a-1a67-495a-a710-c08e14a3c6da\/annotation\/ebf90e2a-1a67-495a-a710-c08e14a3c6da.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ebf90e2a-1a67-495a-a710-c08e14a3c6da\/annotation\/ebf90e2a-1a67-495a-a710-c08e14a3c6da.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ebf90e2a-1a67-495a-a710-c08e14a3c6da@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 1855,
+                                "height": 2515,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ebf90e2a-1a67-495a-a710-c08e14a3c6da@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ebf90e2a-1a67-495a-a710-c08e14a3c6da@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0015.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3ad39de8-eafd-4a0a-bef6-62f01bbd59b0\/canvas\/3ad39de8-eafd-4a0a-bef6-62f01bbd59b0.json",
+                    "@type": "sc:Canvas",
+                    "width": 2880,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3ad39de8-eafd-4a0a-bef6-62f01bbd59b0\/annotation\/3ad39de8-eafd-4a0a-bef6-62f01bbd59b0.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3ad39de8-eafd-4a0a-bef6-62f01bbd59b0\/annotation\/3ad39de8-eafd-4a0a-bef6-62f01bbd59b0.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3ad39de8-eafd-4a0a-bef6-62f01bbd59b0@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2880,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3ad39de8-eafd-4a0a-bef6-62f01bbd59b0@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3ad39de8-eafd-4a0a-bef6-62f01bbd59b0@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0016.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a95fc95d-2159-491c-ae3b-08cfabe868de\/canvas\/a95fc95d-2159-491c-ae3b-08cfabe868de.json",
+                    "@type": "sc:Canvas",
+                    "width": 2800,
+                    "height": 3620,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a95fc95d-2159-491c-ae3b-08cfabe868de\/annotation\/a95fc95d-2159-491c-ae3b-08cfabe868de.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a95fc95d-2159-491c-ae3b-08cfabe868de\/annotation\/a95fc95d-2159-491c-ae3b-08cfabe868de.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a95fc95d-2159-491c-ae3b-08cfabe868de@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2800,
+                                "height": 3620,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a95fc95d-2159-491c-ae3b-08cfabe868de@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a95fc95d-2159-491c-ae3b-08cfabe868de@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0017.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/8001907d-3115-40a3-b704-dcd64a1b2e65\/canvas\/8001907d-3115-40a3-b704-dcd64a1b2e65.json",
+                    "@type": "sc:Canvas",
+                    "width": 2860,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/8001907d-3115-40a3-b704-dcd64a1b2e65\/annotation\/8001907d-3115-40a3-b704-dcd64a1b2e65.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/8001907d-3115-40a3-b704-dcd64a1b2e65\/annotation\/8001907d-3115-40a3-b704-dcd64a1b2e65.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@8001907d-3115-40a3-b704-dcd64a1b2e65@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2860,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@8001907d-3115-40a3-b704-dcd64a1b2e65@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@8001907d-3115-40a3-b704-dcd64a1b2e65@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0018.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bb93a889-ef02-4d18-9d64-e4117d98e51a\/canvas\/bb93a889-ef02-4d18-9d64-e4117d98e51a.json",
+                    "@type": "sc:Canvas",
+                    "width": 2800,
+                    "height": 3620,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bb93a889-ef02-4d18-9d64-e4117d98e51a\/annotation\/bb93a889-ef02-4d18-9d64-e4117d98e51a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bb93a889-ef02-4d18-9d64-e4117d98e51a\/annotation\/bb93a889-ef02-4d18-9d64-e4117d98e51a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bb93a889-ef02-4d18-9d64-e4117d98e51a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2800,
+                                "height": 3620,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bb93a889-ef02-4d18-9d64-e4117d98e51a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bb93a889-ef02-4d18-9d64-e4117d98e51a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0019.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9d8195eb-efee-4a50-8968-661f7fed073b\/canvas\/9d8195eb-efee-4a50-8968-661f7fed073b.json",
+                    "@type": "sc:Canvas",
+                    "width": 1835,
+                    "height": 1740,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9d8195eb-efee-4a50-8968-661f7fed073b\/annotation\/9d8195eb-efee-4a50-8968-661f7fed073b.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9d8195eb-efee-4a50-8968-661f7fed073b\/annotation\/9d8195eb-efee-4a50-8968-661f7fed073b.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9d8195eb-efee-4a50-8968-661f7fed073b@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 1835,
+                                "height": 1740,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9d8195eb-efee-4a50-8968-661f7fed073b@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9d8195eb-efee-4a50-8968-661f7fed073b@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0020.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3573277d-85e1-40e9-8821-85663faed2d8\/canvas\/3573277d-85e1-40e9-8821-85663faed2d8.json",
+                    "@type": "sc:Canvas",
+                    "width": 2850,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3573277d-85e1-40e9-8821-85663faed2d8\/annotation\/3573277d-85e1-40e9-8821-85663faed2d8.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3573277d-85e1-40e9-8821-85663faed2d8\/annotation\/3573277d-85e1-40e9-8821-85663faed2d8.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3573277d-85e1-40e9-8821-85663faed2d8@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2850,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3573277d-85e1-40e9-8821-85663faed2d8@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3573277d-85e1-40e9-8821-85663faed2d8@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0021.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2da0eea4-64fb-4f09-a6b9-b7cae93fcf6d\/canvas\/2da0eea4-64fb-4f09-a6b9-b7cae93fcf6d.json",
+                    "@type": "sc:Canvas",
+                    "width": 2790,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2da0eea4-64fb-4f09-a6b9-b7cae93fcf6d\/annotation\/2da0eea4-64fb-4f09-a6b9-b7cae93fcf6d.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2da0eea4-64fb-4f09-a6b9-b7cae93fcf6d\/annotation\/2da0eea4-64fb-4f09-a6b9-b7cae93fcf6d.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@2da0eea4-64fb-4f09-a6b9-b7cae93fcf6d@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2790,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@2da0eea4-64fb-4f09-a6b9-b7cae93fcf6d@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@2da0eea4-64fb-4f09-a6b9-b7cae93fcf6d@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0022.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a6a93f85-be07-4891-998e-90566f835370\/canvas\/a6a93f85-be07-4891-998e-90566f835370.json",
+                    "@type": "sc:Canvas",
+                    "width": 2870,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a6a93f85-be07-4891-998e-90566f835370\/annotation\/a6a93f85-be07-4891-998e-90566f835370.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a6a93f85-be07-4891-998e-90566f835370\/annotation\/a6a93f85-be07-4891-998e-90566f835370.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a6a93f85-be07-4891-998e-90566f835370@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2870,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a6a93f85-be07-4891-998e-90566f835370@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a6a93f85-be07-4891-998e-90566f835370@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0023.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e4c35dc2-62e8-4d7c-87c2-072bc7cc195a\/canvas\/e4c35dc2-62e8-4d7c-87c2-072bc7cc195a.json",
+                    "@type": "sc:Canvas",
+                    "width": 2790,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e4c35dc2-62e8-4d7c-87c2-072bc7cc195a\/annotation\/e4c35dc2-62e8-4d7c-87c2-072bc7cc195a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e4c35dc2-62e8-4d7c-87c2-072bc7cc195a\/annotation\/e4c35dc2-62e8-4d7c-87c2-072bc7cc195a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@e4c35dc2-62e8-4d7c-87c2-072bc7cc195a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2790,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@e4c35dc2-62e8-4d7c-87c2-072bc7cc195a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@e4c35dc2-62e8-4d7c-87c2-072bc7cc195a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0024.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e986b34e-a600-4658-9e67-a0b3bb863c73\/canvas\/e986b34e-a600-4658-9e67-a0b3bb863c73.json",
+                    "@type": "sc:Canvas",
+                    "width": 2870,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e986b34e-a600-4658-9e67-a0b3bb863c73\/annotation\/e986b34e-a600-4658-9e67-a0b3bb863c73.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e986b34e-a600-4658-9e67-a0b3bb863c73\/annotation\/e986b34e-a600-4658-9e67-a0b3bb863c73.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@e986b34e-a600-4658-9e67-a0b3bb863c73@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2870,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@e986b34e-a600-4658-9e67-a0b3bb863c73@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@e986b34e-a600-4658-9e67-a0b3bb863c73@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0025.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a5dec8fe-3225-49c9-9d08-937999b6731c\/canvas\/a5dec8fe-3225-49c9-9d08-937999b6731c.json",
+                    "@type": "sc:Canvas",
+                    "width": 2790,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a5dec8fe-3225-49c9-9d08-937999b6731c\/annotation\/a5dec8fe-3225-49c9-9d08-937999b6731c.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a5dec8fe-3225-49c9-9d08-937999b6731c\/annotation\/a5dec8fe-3225-49c9-9d08-937999b6731c.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a5dec8fe-3225-49c9-9d08-937999b6731c@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2790,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a5dec8fe-3225-49c9-9d08-937999b6731c@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a5dec8fe-3225-49c9-9d08-937999b6731c@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0026.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/68262155-8e90-475d-a1b8-8533f3a2a1ad\/canvas\/68262155-8e90-475d-a1b8-8533f3a2a1ad.json",
+                    "@type": "sc:Canvas",
+                    "width": 2870,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/68262155-8e90-475d-a1b8-8533f3a2a1ad\/annotation\/68262155-8e90-475d-a1b8-8533f3a2a1ad.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/68262155-8e90-475d-a1b8-8533f3a2a1ad\/annotation\/68262155-8e90-475d-a1b8-8533f3a2a1ad.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@68262155-8e90-475d-a1b8-8533f3a2a1ad@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2870,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@68262155-8e90-475d-a1b8-8533f3a2a1ad@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@68262155-8e90-475d-a1b8-8533f3a2a1ad@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0027.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a41667d6-fa1b-4b9b-a588-9b9d2c3cd403\/canvas\/a41667d6-fa1b-4b9b-a588-9b9d2c3cd403.json",
+                    "@type": "sc:Canvas",
+                    "width": 2790,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a41667d6-fa1b-4b9b-a588-9b9d2c3cd403\/annotation\/a41667d6-fa1b-4b9b-a588-9b9d2c3cd403.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/a41667d6-fa1b-4b9b-a588-9b9d2c3cd403\/annotation\/a41667d6-fa1b-4b9b-a588-9b9d2c3cd403.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a41667d6-fa1b-4b9b-a588-9b9d2c3cd403@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2790,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a41667d6-fa1b-4b9b-a588-9b9d2c3cd403@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@a41667d6-fa1b-4b9b-a588-9b9d2c3cd403@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0028.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ef8b69cb-b51b-4c21-9442-f371ca4d909a\/canvas\/ef8b69cb-b51b-4c21-9442-f371ca4d909a.json",
+                    "@type": "sc:Canvas",
+                    "width": 2870,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ef8b69cb-b51b-4c21-9442-f371ca4d909a\/annotation\/ef8b69cb-b51b-4c21-9442-f371ca4d909a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ef8b69cb-b51b-4c21-9442-f371ca4d909a\/annotation\/ef8b69cb-b51b-4c21-9442-f371ca4d909a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ef8b69cb-b51b-4c21-9442-f371ca4d909a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2870,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ef8b69cb-b51b-4c21-9442-f371ca4d909a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ef8b69cb-b51b-4c21-9442-f371ca4d909a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0029.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3d71e6c5-c9d8-45ad-b4bd-ae178ebb0c2f\/canvas\/3d71e6c5-c9d8-45ad-b4bd-ae178ebb0c2f.json",
+                    "@type": "sc:Canvas",
+                    "width": 2790,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3d71e6c5-c9d8-45ad-b4bd-ae178ebb0c2f\/annotation\/3d71e6c5-c9d8-45ad-b4bd-ae178ebb0c2f.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3d71e6c5-c9d8-45ad-b4bd-ae178ebb0c2f\/annotation\/3d71e6c5-c9d8-45ad-b4bd-ae178ebb0c2f.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3d71e6c5-c9d8-45ad-b4bd-ae178ebb0c2f@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2790,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3d71e6c5-c9d8-45ad-b4bd-ae178ebb0c2f@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3d71e6c5-c9d8-45ad-b4bd-ae178ebb0c2f@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0030.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/45044e4d-5eba-44c9-84d0-fdb587c70e6e\/canvas\/45044e4d-5eba-44c9-84d0-fdb587c70e6e.json",
+                    "@type": "sc:Canvas",
+                    "width": 2870,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/45044e4d-5eba-44c9-84d0-fdb587c70e6e\/annotation\/45044e4d-5eba-44c9-84d0-fdb587c70e6e.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/45044e4d-5eba-44c9-84d0-fdb587c70e6e\/annotation\/45044e4d-5eba-44c9-84d0-fdb587c70e6e.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@45044e4d-5eba-44c9-84d0-fdb587c70e6e@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2870,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@45044e4d-5eba-44c9-84d0-fdb587c70e6e@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@45044e4d-5eba-44c9-84d0-fdb587c70e6e@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0031.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5a2523bf-0b5d-4375-95a1-ba0226bb8fa8\/canvas\/5a2523bf-0b5d-4375-95a1-ba0226bb8fa8.json",
+                    "@type": "sc:Canvas",
+                    "width": 2790,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5a2523bf-0b5d-4375-95a1-ba0226bb8fa8\/annotation\/5a2523bf-0b5d-4375-95a1-ba0226bb8fa8.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/5a2523bf-0b5d-4375-95a1-ba0226bb8fa8\/annotation\/5a2523bf-0b5d-4375-95a1-ba0226bb8fa8.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@5a2523bf-0b5d-4375-95a1-ba0226bb8fa8@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2790,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@5a2523bf-0b5d-4375-95a1-ba0226bb8fa8@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@5a2523bf-0b5d-4375-95a1-ba0226bb8fa8@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0032.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/27704aa8-b621-47f9-ac8a-525948d6507c\/canvas\/27704aa8-b621-47f9-ac8a-525948d6507c.json",
+                    "@type": "sc:Canvas",
+                    "width": 2870,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/27704aa8-b621-47f9-ac8a-525948d6507c\/annotation\/27704aa8-b621-47f9-ac8a-525948d6507c.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/27704aa8-b621-47f9-ac8a-525948d6507c\/annotation\/27704aa8-b621-47f9-ac8a-525948d6507c.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@27704aa8-b621-47f9-ac8a-525948d6507c@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2870,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@27704aa8-b621-47f9-ac8a-525948d6507c@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@27704aa8-b621-47f9-ac8a-525948d6507c@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0033.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cd935764-b567-4336-9e8f-3ce4a7299137\/canvas\/cd935764-b567-4336-9e8f-3ce4a7299137.json",
+                    "@type": "sc:Canvas",
+                    "width": 2790,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cd935764-b567-4336-9e8f-3ce4a7299137\/annotation\/cd935764-b567-4336-9e8f-3ce4a7299137.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cd935764-b567-4336-9e8f-3ce4a7299137\/annotation\/cd935764-b567-4336-9e8f-3ce4a7299137.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@cd935764-b567-4336-9e8f-3ce4a7299137@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2790,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@cd935764-b567-4336-9e8f-3ce4a7299137@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@cd935764-b567-4336-9e8f-3ce4a7299137@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0034.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bea5eb2e-2957-40b1-a2e6-113d25c943ff\/canvas\/bea5eb2e-2957-40b1-a2e6-113d25c943ff.json",
+                    "@type": "sc:Canvas",
+                    "width": 2870,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bea5eb2e-2957-40b1-a2e6-113d25c943ff\/annotation\/bea5eb2e-2957-40b1-a2e6-113d25c943ff.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bea5eb2e-2957-40b1-a2e6-113d25c943ff\/annotation\/bea5eb2e-2957-40b1-a2e6-113d25c943ff.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bea5eb2e-2957-40b1-a2e6-113d25c943ff@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2870,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bea5eb2e-2957-40b1-a2e6-113d25c943ff@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bea5eb2e-2957-40b1-a2e6-113d25c943ff@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0035.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9194539d-aab7-4cf7-ad46-365906ea699a\/canvas\/9194539d-aab7-4cf7-ad46-365906ea699a.json",
+                    "@type": "sc:Canvas",
+                    "width": 2790,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9194539d-aab7-4cf7-ad46-365906ea699a\/annotation\/9194539d-aab7-4cf7-ad46-365906ea699a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9194539d-aab7-4cf7-ad46-365906ea699a\/annotation\/9194539d-aab7-4cf7-ad46-365906ea699a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9194539d-aab7-4cf7-ad46-365906ea699a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2790,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9194539d-aab7-4cf7-ad46-365906ea699a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9194539d-aab7-4cf7-ad46-365906ea699a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0036.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c399d4f3-f49d-4e46-aa27-76f799ad4de2\/canvas\/c399d4f3-f49d-4e46-aa27-76f799ad4de2.json",
+                    "@type": "sc:Canvas",
+                    "width": 2870,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c399d4f3-f49d-4e46-aa27-76f799ad4de2\/annotation\/c399d4f3-f49d-4e46-aa27-76f799ad4de2.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c399d4f3-f49d-4e46-aa27-76f799ad4de2\/annotation\/c399d4f3-f49d-4e46-aa27-76f799ad4de2.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c399d4f3-f49d-4e46-aa27-76f799ad4de2@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2870,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c399d4f3-f49d-4e46-aa27-76f799ad4de2@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c399d4f3-f49d-4e46-aa27-76f799ad4de2@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0037.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f4acda7e-f7d8-4a53-900c-7cd49403d75d\/canvas\/f4acda7e-f7d8-4a53-900c-7cd49403d75d.json",
+                    "@type": "sc:Canvas",
+                    "width": 2790,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f4acda7e-f7d8-4a53-900c-7cd49403d75d\/annotation\/f4acda7e-f7d8-4a53-900c-7cd49403d75d.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/f4acda7e-f7d8-4a53-900c-7cd49403d75d\/annotation\/f4acda7e-f7d8-4a53-900c-7cd49403d75d.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@f4acda7e-f7d8-4a53-900c-7cd49403d75d@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2790,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@f4acda7e-f7d8-4a53-900c-7cd49403d75d@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@f4acda7e-f7d8-4a53-900c-7cd49403d75d@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0038.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/344b85f3-5676-46d3-825a-eb7a58b5be12\/canvas\/344b85f3-5676-46d3-825a-eb7a58b5be12.json",
+                    "@type": "sc:Canvas",
+                    "width": 2870,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/344b85f3-5676-46d3-825a-eb7a58b5be12\/annotation\/344b85f3-5676-46d3-825a-eb7a58b5be12.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/344b85f3-5676-46d3-825a-eb7a58b5be12\/annotation\/344b85f3-5676-46d3-825a-eb7a58b5be12.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@344b85f3-5676-46d3-825a-eb7a58b5be12@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2870,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@344b85f3-5676-46d3-825a-eb7a58b5be12@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@344b85f3-5676-46d3-825a-eb7a58b5be12@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0039.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/93257aad-948d-4146-a179-a4457cb036ff\/canvas\/93257aad-948d-4146-a179-a4457cb036ff.json",
+                    "@type": "sc:Canvas",
+                    "width": 2790,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/93257aad-948d-4146-a179-a4457cb036ff\/annotation\/93257aad-948d-4146-a179-a4457cb036ff.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/93257aad-948d-4146-a179-a4457cb036ff\/annotation\/93257aad-948d-4146-a179-a4457cb036ff.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@93257aad-948d-4146-a179-a4457cb036ff@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2790,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@93257aad-948d-4146-a179-a4457cb036ff@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@93257aad-948d-4146-a179-a4457cb036ff@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0040.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/494b207c-5488-431d-a3b8-3f1ed5ddcfa2\/canvas\/494b207c-5488-431d-a3b8-3f1ed5ddcfa2.json",
+                    "@type": "sc:Canvas",
+                    "width": 2870,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/494b207c-5488-431d-a3b8-3f1ed5ddcfa2\/annotation\/494b207c-5488-431d-a3b8-3f1ed5ddcfa2.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/494b207c-5488-431d-a3b8-3f1ed5ddcfa2\/annotation\/494b207c-5488-431d-a3b8-3f1ed5ddcfa2.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@494b207c-5488-431d-a3b8-3f1ed5ddcfa2@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2870,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@494b207c-5488-431d-a3b8-3f1ed5ddcfa2@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@494b207c-5488-431d-a3b8-3f1ed5ddcfa2@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0041.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4d0478b8-12f7-49e9-8948-9d2f68db09b1\/canvas\/4d0478b8-12f7-49e9-8948-9d2f68db09b1.json",
+                    "@type": "sc:Canvas",
+                    "width": 2800,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4d0478b8-12f7-49e9-8948-9d2f68db09b1\/annotation\/4d0478b8-12f7-49e9-8948-9d2f68db09b1.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4d0478b8-12f7-49e9-8948-9d2f68db09b1\/annotation\/4d0478b8-12f7-49e9-8948-9d2f68db09b1.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4d0478b8-12f7-49e9-8948-9d2f68db09b1@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2800,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4d0478b8-12f7-49e9-8948-9d2f68db09b1@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4d0478b8-12f7-49e9-8948-9d2f68db09b1@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0042.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c2c8ba0d-79ad-4320-8230-caf2fc4e02eb\/canvas\/c2c8ba0d-79ad-4320-8230-caf2fc4e02eb.json",
+                    "@type": "sc:Canvas",
+                    "width": 2850,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c2c8ba0d-79ad-4320-8230-caf2fc4e02eb\/annotation\/c2c8ba0d-79ad-4320-8230-caf2fc4e02eb.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c2c8ba0d-79ad-4320-8230-caf2fc4e02eb\/annotation\/c2c8ba0d-79ad-4320-8230-caf2fc4e02eb.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c2c8ba0d-79ad-4320-8230-caf2fc4e02eb@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2850,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c2c8ba0d-79ad-4320-8230-caf2fc4e02eb@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c2c8ba0d-79ad-4320-8230-caf2fc4e02eb@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0043.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/fa2d4562-b7ca-410b-b823-dfa128cb1fb0\/canvas\/fa2d4562-b7ca-410b-b823-dfa128cb1fb0.json",
+                    "@type": "sc:Canvas",
+                    "width": 2730,
+                    "height": 3620,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/fa2d4562-b7ca-410b-b823-dfa128cb1fb0\/annotation\/fa2d4562-b7ca-410b-b823-dfa128cb1fb0.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/fa2d4562-b7ca-410b-b823-dfa128cb1fb0\/annotation\/fa2d4562-b7ca-410b-b823-dfa128cb1fb0.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@fa2d4562-b7ca-410b-b823-dfa128cb1fb0@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2730,
+                                "height": 3620,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@fa2d4562-b7ca-410b-b823-dfa128cb1fb0@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@fa2d4562-b7ca-410b-b823-dfa128cb1fb0@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0044.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2b5a87d6-92de-4bed-bbd1-716718433fda\/canvas\/2b5a87d6-92de-4bed-bbd1-716718433fda.json",
+                    "@type": "sc:Canvas",
+                    "width": 2650,
+                    "height": 1940,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2b5a87d6-92de-4bed-bbd1-716718433fda\/annotation\/2b5a87d6-92de-4bed-bbd1-716718433fda.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/2b5a87d6-92de-4bed-bbd1-716718433fda\/annotation\/2b5a87d6-92de-4bed-bbd1-716718433fda.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@2b5a87d6-92de-4bed-bbd1-716718433fda@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2650,
+                                "height": 1940,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@2b5a87d6-92de-4bed-bbd1-716718433fda@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@2b5a87d6-92de-4bed-bbd1-716718433fda@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0045.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/faf69ccb-ec8b-4b12-9fc7-f97a2717ee93\/canvas\/faf69ccb-ec8b-4b12-9fc7-f97a2717ee93.json",
+                    "@type": "sc:Canvas",
+                    "width": 2785,
+                    "height": 3590,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/faf69ccb-ec8b-4b12-9fc7-f97a2717ee93\/annotation\/faf69ccb-ec8b-4b12-9fc7-f97a2717ee93.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/faf69ccb-ec8b-4b12-9fc7-f97a2717ee93\/annotation\/faf69ccb-ec8b-4b12-9fc7-f97a2717ee93.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@faf69ccb-ec8b-4b12-9fc7-f97a2717ee93@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2785,
+                                "height": 3590,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@faf69ccb-ec8b-4b12-9fc7-f97a2717ee93@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@faf69ccb-ec8b-4b12-9fc7-f97a2717ee93@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0046.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3f22d2fb-b984-409e-88e0-fbbb3f51f7ba\/canvas\/3f22d2fb-b984-409e-88e0-fbbb3f51f7ba.json",
+                    "@type": "sc:Canvas",
+                    "width": 2850,
+                    "height": 3620,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3f22d2fb-b984-409e-88e0-fbbb3f51f7ba\/annotation\/3f22d2fb-b984-409e-88e0-fbbb3f51f7ba.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/3f22d2fb-b984-409e-88e0-fbbb3f51f7ba\/annotation\/3f22d2fb-b984-409e-88e0-fbbb3f51f7ba.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3f22d2fb-b984-409e-88e0-fbbb3f51f7ba@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2850,
+                                "height": 3620,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3f22d2fb-b984-409e-88e0-fbbb3f51f7ba@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@3f22d2fb-b984-409e-88e0-fbbb3f51f7ba@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0047.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/99f27cce-c82a-4199-a112-3d7060b38cc8\/canvas\/99f27cce-c82a-4199-a112-3d7060b38cc8.json",
+                    "@type": "sc:Canvas",
+                    "width": 2860,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/99f27cce-c82a-4199-a112-3d7060b38cc8\/annotation\/99f27cce-c82a-4199-a112-3d7060b38cc8.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/99f27cce-c82a-4199-a112-3d7060b38cc8\/annotation\/99f27cce-c82a-4199-a112-3d7060b38cc8.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@99f27cce-c82a-4199-a112-3d7060b38cc8@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2860,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@99f27cce-c82a-4199-a112-3d7060b38cc8@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@99f27cce-c82a-4199-a112-3d7060b38cc8@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0048.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4da4bd00-1311-45de-a0f5-82e96855fbe7\/canvas\/4da4bd00-1311-45de-a0f5-82e96855fbe7.json",
+                    "@type": "sc:Canvas",
+                    "width": 2850,
+                    "height": 3620,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4da4bd00-1311-45de-a0f5-82e96855fbe7\/annotation\/4da4bd00-1311-45de-a0f5-82e96855fbe7.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4da4bd00-1311-45de-a0f5-82e96855fbe7\/annotation\/4da4bd00-1311-45de-a0f5-82e96855fbe7.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4da4bd00-1311-45de-a0f5-82e96855fbe7@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2850,
+                                "height": 3620,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4da4bd00-1311-45de-a0f5-82e96855fbe7@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4da4bd00-1311-45de-a0f5-82e96855fbe7@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0049.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9097d5a5-35cf-4f53-8215-abda9f52423a\/canvas\/9097d5a5-35cf-4f53-8215-abda9f52423a.json",
+                    "@type": "sc:Canvas",
+                    "width": 2860,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9097d5a5-35cf-4f53-8215-abda9f52423a\/annotation\/9097d5a5-35cf-4f53-8215-abda9f52423a.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9097d5a5-35cf-4f53-8215-abda9f52423a\/annotation\/9097d5a5-35cf-4f53-8215-abda9f52423a.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9097d5a5-35cf-4f53-8215-abda9f52423a@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2860,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9097d5a5-35cf-4f53-8215-abda9f52423a@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9097d5a5-35cf-4f53-8215-abda9f52423a@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0050.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/08e54625-3424-4c54-980e-40aaced24196\/canvas\/08e54625-3424-4c54-980e-40aaced24196.json",
+                    "@type": "sc:Canvas",
+                    "width": 2850,
+                    "height": 3620,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/08e54625-3424-4c54-980e-40aaced24196\/annotation\/08e54625-3424-4c54-980e-40aaced24196.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/08e54625-3424-4c54-980e-40aaced24196\/annotation\/08e54625-3424-4c54-980e-40aaced24196.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@08e54625-3424-4c54-980e-40aaced24196@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2850,
+                                "height": 3620,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@08e54625-3424-4c54-980e-40aaced24196@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@08e54625-3424-4c54-980e-40aaced24196@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0051.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/7dde091f-4e38-4f7e-9da3-c41396eeb271\/canvas\/7dde091f-4e38-4f7e-9da3-c41396eeb271.json",
+                    "@type": "sc:Canvas",
+                    "width": 2860,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/7dde091f-4e38-4f7e-9da3-c41396eeb271\/annotation\/7dde091f-4e38-4f7e-9da3-c41396eeb271.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/7dde091f-4e38-4f7e-9da3-c41396eeb271\/annotation\/7dde091f-4e38-4f7e-9da3-c41396eeb271.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@7dde091f-4e38-4f7e-9da3-c41396eeb271@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2860,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@7dde091f-4e38-4f7e-9da3-c41396eeb271@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@7dde091f-4e38-4f7e-9da3-c41396eeb271@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0052.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/130ddeb6-2225-4c44-b680-f10054b27456\/canvas\/130ddeb6-2225-4c44-b680-f10054b27456.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3620,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/130ddeb6-2225-4c44-b680-f10054b27456\/annotation\/130ddeb6-2225-4c44-b680-f10054b27456.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/130ddeb6-2225-4c44-b680-f10054b27456\/annotation\/130ddeb6-2225-4c44-b680-f10054b27456.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@130ddeb6-2225-4c44-b680-f10054b27456@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3620,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@130ddeb6-2225-4c44-b680-f10054b27456@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@130ddeb6-2225-4c44-b680-f10054b27456@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0053.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bd265be3-7d10-4bbf-a4a9-22c4999274a0\/canvas\/bd265be3-7d10-4bbf-a4a9-22c4999274a0.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bd265be3-7d10-4bbf-a4a9-22c4999274a0\/annotation\/bd265be3-7d10-4bbf-a4a9-22c4999274a0.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bd265be3-7d10-4bbf-a4a9-22c4999274a0\/annotation\/bd265be3-7d10-4bbf-a4a9-22c4999274a0.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bd265be3-7d10-4bbf-a4a9-22c4999274a0@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bd265be3-7d10-4bbf-a4a9-22c4999274a0@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bd265be3-7d10-4bbf-a4a9-22c4999274a0@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0054.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e12f10e4-6487-4660-a9b3-39ca9094254e\/canvas\/e12f10e4-6487-4660-a9b3-39ca9094254e.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3620,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e12f10e4-6487-4660-a9b3-39ca9094254e\/annotation\/e12f10e4-6487-4660-a9b3-39ca9094254e.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/e12f10e4-6487-4660-a9b3-39ca9094254e\/annotation\/e12f10e4-6487-4660-a9b3-39ca9094254e.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@e12f10e4-6487-4660-a9b3-39ca9094254e@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3620,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@e12f10e4-6487-4660-a9b3-39ca9094254e@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@e12f10e4-6487-4660-a9b3-39ca9094254e@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0055.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c24e731c-160c-49da-a9e9-957b892ff736\/canvas\/c24e731c-160c-49da-a9e9-957b892ff736.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c24e731c-160c-49da-a9e9-957b892ff736\/annotation\/c24e731c-160c-49da-a9e9-957b892ff736.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c24e731c-160c-49da-a9e9-957b892ff736\/annotation\/c24e731c-160c-49da-a9e9-957b892ff736.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c24e731c-160c-49da-a9e9-957b892ff736@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c24e731c-160c-49da-a9e9-957b892ff736@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c24e731c-160c-49da-a9e9-957b892ff736@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0056.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/aac42eb5-c871-4f1a-9fba-32629a467b46\/canvas\/aac42eb5-c871-4f1a-9fba-32629a467b46.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/aac42eb5-c871-4f1a-9fba-32629a467b46\/annotation\/aac42eb5-c871-4f1a-9fba-32629a467b46.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/aac42eb5-c871-4f1a-9fba-32629a467b46\/annotation\/aac42eb5-c871-4f1a-9fba-32629a467b46.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@aac42eb5-c871-4f1a-9fba-32629a467b46@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@aac42eb5-c871-4f1a-9fba-32629a467b46@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@aac42eb5-c871-4f1a-9fba-32629a467b46@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0057.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9819a1c5-5aa4-48b1-9452-2458be68bf72\/canvas\/9819a1c5-5aa4-48b1-9452-2458be68bf72.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9819a1c5-5aa4-48b1-9452-2458be68bf72\/annotation\/9819a1c5-5aa4-48b1-9452-2458be68bf72.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/9819a1c5-5aa4-48b1-9452-2458be68bf72\/annotation\/9819a1c5-5aa4-48b1-9452-2458be68bf72.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9819a1c5-5aa4-48b1-9452-2458be68bf72@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9819a1c5-5aa4-48b1-9452-2458be68bf72@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@9819a1c5-5aa4-48b1-9452-2458be68bf72@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0058.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b7578c4a-5a9b-4dde-a9ed-ca66194ca8e3\/canvas\/b7578c4a-5a9b-4dde-a9ed-ca66194ca8e3.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b7578c4a-5a9b-4dde-a9ed-ca66194ca8e3\/annotation\/b7578c4a-5a9b-4dde-a9ed-ca66194ca8e3.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/b7578c4a-5a9b-4dde-a9ed-ca66194ca8e3\/annotation\/b7578c4a-5a9b-4dde-a9ed-ca66194ca8e3.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@b7578c4a-5a9b-4dde-a9ed-ca66194ca8e3@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@b7578c4a-5a9b-4dde-a9ed-ca66194ca8e3@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@b7578c4a-5a9b-4dde-a9ed-ca66194ca8e3@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0059.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/da3171bf-efc3-43ff-94c5-1228450be9a7\/canvas\/da3171bf-efc3-43ff-94c5-1228450be9a7.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/da3171bf-efc3-43ff-94c5-1228450be9a7\/annotation\/da3171bf-efc3-43ff-94c5-1228450be9a7.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/da3171bf-efc3-43ff-94c5-1228450be9a7\/annotation\/da3171bf-efc3-43ff-94c5-1228450be9a7.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@da3171bf-efc3-43ff-94c5-1228450be9a7@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@da3171bf-efc3-43ff-94c5-1228450be9a7@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@da3171bf-efc3-43ff-94c5-1228450be9a7@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0060.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bfe93d13-dc86-47ac-8111-d4ea4c8e5dbe\/canvas\/bfe93d13-dc86-47ac-8111-d4ea4c8e5dbe.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bfe93d13-dc86-47ac-8111-d4ea4c8e5dbe\/annotation\/bfe93d13-dc86-47ac-8111-d4ea4c8e5dbe.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/bfe93d13-dc86-47ac-8111-d4ea4c8e5dbe\/annotation\/bfe93d13-dc86-47ac-8111-d4ea4c8e5dbe.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bfe93d13-dc86-47ac-8111-d4ea4c8e5dbe@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bfe93d13-dc86-47ac-8111-d4ea4c8e5dbe@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@bfe93d13-dc86-47ac-8111-d4ea4c8e5dbe@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0061.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba4e6b3c-4386-4db2-a8e0-3a9c550e4a04\/canvas\/ba4e6b3c-4386-4db2-a8e0-3a9c550e4a04.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba4e6b3c-4386-4db2-a8e0-3a9c550e4a04\/annotation\/ba4e6b3c-4386-4db2-a8e0-3a9c550e4a04.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba4e6b3c-4386-4db2-a8e0-3a9c550e4a04\/annotation\/ba4e6b3c-4386-4db2-a8e0-3a9c550e4a04.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ba4e6b3c-4386-4db2-a8e0-3a9c550e4a04@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ba4e6b3c-4386-4db2-a8e0-3a9c550e4a04@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ba4e6b3c-4386-4db2-a8e0-3a9c550e4a04@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0062.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/eb4362f3-2b94-4f8f-a49f-7faaa231a85d\/canvas\/eb4362f3-2b94-4f8f-a49f-7faaa231a85d.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/eb4362f3-2b94-4f8f-a49f-7faaa231a85d\/annotation\/eb4362f3-2b94-4f8f-a49f-7faaa231a85d.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/eb4362f3-2b94-4f8f-a49f-7faaa231a85d\/annotation\/eb4362f3-2b94-4f8f-a49f-7faaa231a85d.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@eb4362f3-2b94-4f8f-a49f-7faaa231a85d@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@eb4362f3-2b94-4f8f-a49f-7faaa231a85d@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@eb4362f3-2b94-4f8f-a49f-7faaa231a85d@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0063.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cc69982e-86c4-4b36-9741-baa4dad0b284\/canvas\/cc69982e-86c4-4b36-9741-baa4dad0b284.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cc69982e-86c4-4b36-9741-baa4dad0b284\/annotation\/cc69982e-86c4-4b36-9741-baa4dad0b284.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cc69982e-86c4-4b36-9741-baa4dad0b284\/annotation\/cc69982e-86c4-4b36-9741-baa4dad0b284.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@cc69982e-86c4-4b36-9741-baa4dad0b284@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@cc69982e-86c4-4b36-9741-baa4dad0b284@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@cc69982e-86c4-4b36-9741-baa4dad0b284@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0064.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/23fbe335-5843-46bc-9073-dd738e4a0410\/canvas\/23fbe335-5843-46bc-9073-dd738e4a0410.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/23fbe335-5843-46bc-9073-dd738e4a0410\/annotation\/23fbe335-5843-46bc-9073-dd738e4a0410.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/23fbe335-5843-46bc-9073-dd738e4a0410\/annotation\/23fbe335-5843-46bc-9073-dd738e4a0410.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@23fbe335-5843-46bc-9073-dd738e4a0410@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@23fbe335-5843-46bc-9073-dd738e4a0410@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@23fbe335-5843-46bc-9073-dd738e4a0410@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0065.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4d92d50a-d6d6-4ae3-9954-83ee77fed81f\/canvas\/4d92d50a-d6d6-4ae3-9954-83ee77fed81f.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3610,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4d92d50a-d6d6-4ae3-9954-83ee77fed81f\/annotation\/4d92d50a-d6d6-4ae3-9954-83ee77fed81f.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/4d92d50a-d6d6-4ae3-9954-83ee77fed81f\/annotation\/4d92d50a-d6d6-4ae3-9954-83ee77fed81f.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4d92d50a-d6d6-4ae3-9954-83ee77fed81f@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3610,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4d92d50a-d6d6-4ae3-9954-83ee77fed81f@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@4d92d50a-d6d6-4ae3-9954-83ee77fed81f@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0066.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c72dd660-81c1-49b7-9786-83043b024af3\/canvas\/c72dd660-81c1-49b7-9786-83043b024af3.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c72dd660-81c1-49b7-9786-83043b024af3\/annotation\/c72dd660-81c1-49b7-9786-83043b024af3.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/c72dd660-81c1-49b7-9786-83043b024af3\/annotation\/c72dd660-81c1-49b7-9786-83043b024af3.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c72dd660-81c1-49b7-9786-83043b024af3@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c72dd660-81c1-49b7-9786-83043b024af3@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@c72dd660-81c1-49b7-9786-83043b024af3@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0067.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33203881-257d-4784-9d40-75cf8e76dac8\/canvas\/33203881-257d-4784-9d40-75cf8e76dac8.json",
+                    "@type": "sc:Canvas",
+                    "width": 2860,
+                    "height": 3600,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33203881-257d-4784-9d40-75cf8e76dac8\/annotation\/33203881-257d-4784-9d40-75cf8e76dac8.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/33203881-257d-4784-9d40-75cf8e76dac8\/annotation\/33203881-257d-4784-9d40-75cf8e76dac8.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@33203881-257d-4784-9d40-75cf8e76dac8@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2860,
+                                "height": 3600,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@33203881-257d-4784-9d40-75cf8e76dac8@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@33203881-257d-4784-9d40-75cf8e76dac8@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0068.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba317576-1c57-4144-b7ce-d5d06ef715b1\/canvas\/ba317576-1c57-4144-b7ce-d5d06ef715b1.json",
+                    "@type": "sc:Canvas",
+                    "width": 2840,
+                    "height": 3630,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba317576-1c57-4144-b7ce-d5d06ef715b1\/annotation\/ba317576-1c57-4144-b7ce-d5d06ef715b1.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/ba317576-1c57-4144-b7ce-d5d06ef715b1\/annotation\/ba317576-1c57-4144-b7ce-d5d06ef715b1.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ba317576-1c57-4144-b7ce-d5d06ef715b1@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2840,
+                                "height": 3630,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ba317576-1c57-4144-b7ce-d5d06ef715b1@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@ba317576-1c57-4144-b7ce-d5d06ef715b1@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0069.jpg"
+                },
+                {
+                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cf42b75e-aeec-45e5-bd1d-f9107be66b55\/canvas\/cf42b75e-aeec-45e5-bd1d-f9107be66b55.json",
+                    "@type": "sc:Canvas",
+                    "width": 2860,
+                    "height": 3600,
+                    "images": [
+                        {
+                            "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cf42b75e-aeec-45e5-bd1d-f9107be66b55\/annotation\/cf42b75e-aeec-45e5-bd1d-f9107be66b55.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/archiviodigitale-icar.cultura.gov.it\/metadata\/cf42b75e-aeec-45e5-bd1d-f9107be66b55\/annotation\/cf42b75e-aeec-45e5-bd1d-f9107be66b55.json",
+                            "resource": {
+                                "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@cf42b75e-aeec-45e5-bd1d-f9107be66b55@original\/full\/full\/0\/default.jpg",
+                                "@type": "dctypes:Image",
+                                "@format": "image\/jpeg",
+                                "width": 2860,
+                                "height": 3600,
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@cf42b75e-aeec-45e5-bd1d-f9107be66b55@original",
+                                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                                }
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https:\/\/archiviodigitale-icar.cultura.gov.it\/iiif\/archivio-di-stato-di-trapani@get@cf42b75e-aeec-45e5-bd1d-f9107be66b55@thumbnail\/full\/full\/0\/default.jpg"
+                    },
+                    "label": "8562_0070.jpg"
+                }
+            ]
+        }
+    ]
+}
