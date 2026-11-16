@@ -1,0 +1,708 @@
+# NC 65_Coperta recto.tif
+https://asge.jarvis.memooria.org/images/iiif/db/725ad68a-2af0-4f3a-bc7f-9817d9383a6b/info.json
+# NC 65_Coperta verso.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7326265f-e816-4505-beef-577547e878d3/info.json
+# NC 65_Indice (1).tif
+https://asge.jarvis.memooria.org/images/iiif/db/89cbb252-f06f-4bdf-9806-8155c1e1ed78/info.json
+# NC 65_Indice (2).tif
+https://asge.jarvis.memooria.org/images/iiif/db/a2c8900d-c9ed-46da-8c5c-c9838558cd80/info.json
+# NC 65_Indice (3).tif
+https://asge.jarvis.memooria.org/images/iiif/db/d0d051be-dbf1-44a8-a252-b2a33d5defb0/info.json
+# NC 65_Indice (4).tif
+https://asge.jarvis.memooria.org/images/iiif/db/91fb6edc-280e-4b26-985a-866fdb554c9e/info.json
+# NC 65_Indice (5).tif
+https://asge.jarvis.memooria.org/images/iiif/db/6c96c0a1-0d2d-476b-b8a0-da8115fd4c41/info.json
+# NC 65_Indice (6).tif
+https://asge.jarvis.memooria.org/images/iiif/db/aa9fb927-8d5c-4b5b-86f6-68cc903b3aa6/info.json
+# NC 65_Indice (7).tif
+https://asge.jarvis.memooria.org/images/iiif/db/66a83ac4-aeda-4936-b306-595281763177/info.json
+# NC 65_Indice (8).tif
+https://asge.jarvis.memooria.org/images/iiif/db/697d1f94-22c5-4e24-83e6-8699a2580bc4/info.json
+# NC 65_Indice (9).tif
+https://asge.jarvis.memooria.org/images/iiif/db/d8947cad-8239-44d8-8429-62b9de81d704/info.json
+# NC 65_Indice (10).tif
+https://asge.jarvis.memooria.org/images/iiif/db/468d8d2a-a90f-4728-9272-3521d1285b64/info.json
+# NC 65_Indice (11).tif
+https://asge.jarvis.memooria.org/images/iiif/db/2a20bb53-256b-4481-a84a-221a20296b3a/info.json
+# NC 65_Indice (12).tif
+https://asge.jarvis.memooria.org/images/iiif/db/ed9df922-210b-4489-9af2-0a037401e462/info.json
+# NC 65_Indice (13).tif
+https://asge.jarvis.memooria.org/images/iiif/db/0313dd99-b44e-4e83-960a-1d9d95fa6e52/info.json
+# NC 65_Indice (14).tif
+https://asge.jarvis.memooria.org/images/iiif/db/0608d2cb-7ab9-436b-976e-e2154a821644/info.json
+# NC 65_Indice (15).tif
+https://asge.jarvis.memooria.org/images/iiif/db/6ae440b9-7802-4647-911a-f39d14ee7f54/info.json
+# NC 65_Indice (16).tif
+https://asge.jarvis.memooria.org/images/iiif/db/3ba286fe-d70a-4046-96a2-bb1d7775189e/info.json
+# Notai Chiavari 65_001r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/aec2ca8e-2795-4eb3-9d78-ae14a9e02c39/info.json
+# Notai Chiavari 65_001v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/15424db8-f394-4479-b2cd-9e04b8dd9aea/info.json
+# Notai Chiavari 65_002r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3aaa2ff1-a105-43ae-9bf3-31defcdf2d1a/info.json
+# Notai Chiavari 65_002v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/04ee59df-ffe9-4d47-ba63-b4624595bc54/info.json
+# Notai Chiavari 65_003r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b33785cd-e2dd-4f85-a79a-4b07123fb814/info.json
+# Notai Chiavari 65_003v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6635a561-4eda-4e9e-bc38-8db2408126b7/info.json
+# Notai Chiavari 65_004r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/16ae3216-bcdd-4ed3-a2e0-bebe07a99fb6/info.json
+# Notai Chiavari 65_004v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c0aaebb1-e7df-479d-8b3b-db70d4e3f65a/info.json
+# Notai Chiavari 65_005r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4d949e24-964e-46b0-bd10-895845177545/info.json
+# Notai Chiavari 65_005v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b2274180-09aa-4eb6-98f5-b0c37f6b9f09/info.json
+# Notai Chiavari 65_006r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ee3aca47-92fe-48c4-a29b-166acf324525/info.json
+# Notai Chiavari 65_006v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3ca93ca1-2d01-4fac-ab8f-1e2103738331/info.json
+# Notai Chiavari 65_007r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/eeee1ebf-50da-410d-afa6-6d024bee0324/info.json
+# Notai Chiavari 65_007v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3fd7dcd0-ea47-4396-bde7-4e0b1f263db4/info.json
+# Notai Chiavari 65_008r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7c9f44e5-7372-409f-a77f-8d3c2d0676cd/info.json
+# Notai Chiavari 65_008v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b88a7a92-4edb-4a3b-9103-9f862b466481/info.json
+# Notai Chiavari 65_009r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/67ae0b50-2ec3-4258-895f-848617022ff6/info.json
+# Notai Chiavari 65_009v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/36f4da71-507f-4cc6-b306-bad7ba52ddf4/info.json
+# Notai Chiavari 65_010r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c3145523-22af-4d80-9937-a3fd9d3840bb/info.json
+# Notai Chiavari 65_010v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/64b01e94-03a5-444b-a592-2737ebda51b4/info.json
+# Notai Chiavari 65_011r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a7bee156-f22d-4cb1-9f43-7cca56f20740/info.json
+# Notai Chiavari 65_011v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/57802246-9ecc-4c83-8eb0-8a097d07592b/info.json
+# Notai Chiavari 65_012r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1865c853-6d9f-499c-85c1-efaf2ec1029b/info.json
+# Notai Chiavari 65_012v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/878ae2be-cea2-49ca-9174-011edc555a83/info.json
+# Notai Chiavari 65_013r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9eb2318e-8b2c-40d6-b115-c2a4903ef578/info.json
+# Notai Chiavari 65_013v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fd26ca60-4a39-4c29-bdac-d5b9d4ea7c09/info.json
+# Notai Chiavari 65_014r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c673a6c8-19a5-4622-be95-b0fa54108581/info.json
+# Notai Chiavari 65_014v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4eb04c05-eabf-4685-92ac-78d71c909940/info.json
+# Notai Chiavari 65_015r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d300761c-a190-48b4-b4a9-b6d370cf5a60/info.json
+# Notai Chiavari 65_015v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b139b39c-7845-47a4-8e2e-cb112ad65b91/info.json
+# Notai Chiavari 65_016r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/69cb0458-f0e3-4fb7-a95c-a52f1eb4b883/info.json
+# Notai Chiavari 65_016v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/976dbd97-52ec-459c-a2c7-a026e0159ffe/info.json
+# Notai Chiavari 65_017r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4de5eda3-3bc7-409e-a606-afba3b1a7544/info.json
+# Notai Chiavari 65_017v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0157e66e-8376-4a5c-ae88-74b97d433c67/info.json
+# Notai Chiavari 65_018r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d64ee30a-d597-43bd-b736-32c6659a70e6/info.json
+# Notai Chiavari 65_018v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f189fd2c-34ca-4821-9dd0-ecd9214e492d/info.json
+# Notai Chiavari 65_019r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2b5490d9-2068-40cf-a30b-856af2e02067/info.json
+# Notai Chiavari 65_019v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d63e20e9-e6cf-402d-a95b-b01b23da31fc/info.json
+# Notai Chiavari 65_020r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cf6e88bc-b55a-41f3-8c59-a0dfb0f1eb94/info.json
+# Notai Chiavari 65_020v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7e497ae9-e957-42e4-95fa-d637531d649a/info.json
+# Notai Chiavari 65_021r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9fda7128-403f-4ee2-a004-562e070b8133/info.json
+# Notai Chiavari 65_021v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/87eaba58-474e-48a9-8cad-a7f1a540b7b8/info.json
+# Notai Chiavari 65_022r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/472fb905-1bf8-4227-916b-e327adf2dcf2/info.json
+# Notai Chiavari 65_022v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5d71840c-e17e-42c3-88f8-06aad2986593/info.json
+# Notai Chiavari 65_023r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1304752e-ab62-4054-8306-c8a82b5072ac/info.json
+# Notai Chiavari 65_023v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c064f5ac-9b4f-4b0c-ae81-e32605144987/info.json
+# Notai Chiavari 65_024r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a34df089-44d8-4621-bd50-e668a4531909/info.json
+# Notai Chiavari 65_024v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f8d396e6-7ed1-43bf-82c2-181c38452706/info.json
+# Notai Chiavari 65_025r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f9a44950-1bfa-4c37-a863-00bb987ab544/info.json
+# Notai Chiavari 65_025v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ae3c891d-65e7-4c4e-bd8b-f3adcd486224/info.json
+# Notai Chiavari 65_026r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/215d93e4-16bb-414e-86a8-fbb166709d0e/info.json
+# Notai Chiavari 65_026v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2a1b7fe6-e598-492d-b919-54e45822a329/info.json
+# Notai Chiavari 65_027r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/07d6e055-0141-490b-98de-adca3c4fd5b6/info.json
+# Notai Chiavari 65_027v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/95c2b714-d774-460e-8b02-1dfd28780730/info.json
+# Notai Chiavari 65_028r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3add755a-ef6d-47c9-b6c8-e5cc20b47920/info.json
+# Notai Chiavari 65_028v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/77a585cf-bb5e-4d26-9250-9655227cc078/info.json
+# Notai Chiavari 65_029r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a86b0042-f9c1-46f4-8080-c789db9a8515/info.json
+# Notai Chiavari 65_029v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/54c45c1d-253c-4dce-a385-269091ac7629/info.json
+# Notai Chiavari 65_030r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/52b376af-3598-4d7b-9383-4db89ab50056/info.json
+# Notai Chiavari 65_030v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a4bf6e0d-e54d-46ee-9090-212296596476/info.json
+# Notai Chiavari 65_031r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/45d84c82-8542-4945-9579-2f1abba1b87b/info.json
+# Notai Chiavari 65_031v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e0dc72e0-2366-46ff-b92e-b665403fdf5b/info.json
+# Notai Chiavari 65_032r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2be4ec74-8a83-4e34-9de5-16c35d99152a/info.json
+# Notai Chiavari 65_032v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/10665232-dfee-4f92-9c3a-5ac3ab47cb47/info.json
+# Notai Chiavari 65_033r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/75684e68-1814-45a8-824c-4f41f614dfd1/info.json
+# Notai Chiavari 65_033v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/628d8c7d-5cad-44fb-bc2c-56dfacb8ac75/info.json
+# Notai Chiavari 65_034r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d09ab41a-f6ef-4b5b-982c-81eeab6dfb92/info.json
+# Notai Chiavari 65_034v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/24b4b582-b165-4620-9a17-8e74efe2ec0e/info.json
+# Notai Chiavari 65_035r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a573a40c-8ab7-4c0d-a1fa-c347be7459ae/info.json
+# Notai Chiavari 65_035v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/967092ba-c7ac-47be-b060-90ba06eac3da/info.json
+# Notai Chiavari 65_036r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/408d8993-d3a1-44d4-95ab-8706aa74391e/info.json
+# Notai Chiavari 65_036v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/be51b3cf-d585-41e5-acf2-e5fbeeaf65f9/info.json
+# Notai Chiavari 65_037r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/853974c2-3a9b-4cb5-945d-9841d476a6d0/info.json
+# Notai Chiavari 65_037v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/05b0c5b7-9159-4968-b5c8-d220bb07c284/info.json
+# Notai Chiavari 65_038r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d771b539-eb59-47f6-8619-82dcb19fa1c2/info.json
+# Notai Chiavari 65_038v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2f3a097b-52de-43eb-ab28-f68e66206728/info.json
+# Notai Chiavari 65_039r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b3c30ca4-0065-4f26-a13e-d3d38dafe92a/info.json
+# Notai Chiavari 65_039v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/51722f77-31d6-4fac-9355-eac93dc32166/info.json
+# Notai Chiavari 65_040r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/425eefca-c700-486c-b88b-e7214c90d319/info.json
+# Notai Chiavari 65_040v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/29a0ad67-4d71-46b7-b552-affabbfff7bf/info.json
+# Notai Chiavari 65_041r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/73e0a39f-9eb8-402c-ac86-e8c186b79275/info.json
+# Notai Chiavari 65_041v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0dc4f191-d606-49c8-a95d-a6a9e05119ab/info.json
+# Notai Chiavari 65_042r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b2cc625c-3100-449c-bcd4-3becf9abc5cf/info.json
+# Notai Chiavari 65_042v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e3314b43-a56e-4783-8d27-9398090a5931/info.json
+# Notai Chiavari 65_043r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a619d3ea-e871-4d5b-9eeb-6618b982e4ba/info.json
+# Notai Chiavari 65_043v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/802db187-233e-438b-9c18-c6e44975e073/info.json
+# Notai Chiavari 65_044r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3c1f65d4-64c1-4bed-9d6e-f53b2b2a2ad2/info.json
+# Notai Chiavari 65_044v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cfddd2a6-7585-433f-baba-e7e384152926/info.json
+# Notai Chiavari 65_045r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6e7d4754-0b68-4e64-bd32-43258f6a3227/info.json
+# Notai Chiavari 65_045v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a985bfa7-8f16-4f7c-ae62-4ff67fcaa7ce/info.json
+# Notai Chiavari 65_046r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/359ae731-161e-4215-99de-45a0687a977e/info.json
+# Notai Chiavari 65_046v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f9fe3da8-da1a-4a09-8723-fdaca1cebcbe/info.json
+# Notai Chiavari 65_047r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3db2a9cf-6823-4597-932b-7dbfaa035c98/info.json
+# Notai Chiavari 65_047v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0b72e5d2-3c6b-46f6-93ff-d3a4d899583d/info.json
+# Notai Chiavari 65_048r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/68a257b1-ea8f-430c-bd7c-0919ccdf3cdd/info.json
+# Notai Chiavari 65_048v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/82fb18ea-eabc-4372-ae31-a78ce39026c0/info.json
+# Notai Chiavari 65_049r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/886550e6-9c9c-48ad-bafd-dc7b888587fa/info.json
+# Notai Chiavari 65_049v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/565a792a-782e-411d-9f85-d3d9cca9bdbe/info.json
+# Notai Chiavari 65_050r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5ddec215-b717-4f8f-975a-5d17987b60a7/info.json
+# Notai Chiavari 65_050v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a18f867e-4dd6-43ed-85c3-9ccbedf1ba65/info.json
+# Notai Chiavari 65_051r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/22b84c64-541e-4f5e-9f90-d29ada6b0451/info.json
+# Notai Chiavari 65_051v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/be9c4059-ab39-4d88-8071-09ecb1f62ef5/info.json
+# Notai Chiavari 65_052r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/63d5dabd-c1f9-451f-abcb-73be88f79d20/info.json
+# Notai Chiavari 65_052v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dd1a5305-e9cf-4392-98f3-e20a69c910c3/info.json
+# Notai Chiavari 65_053r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/534c1104-c38e-4b4e-84b1-5f3b2461972c/info.json
+# Notai Chiavari 65_053v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dd0dd732-9212-4eaa-91ca-5bcaf38392f8/info.json
+# Notai Chiavari 65_054r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/45718337-b50d-4320-8624-c09f33463898/info.json
+# Notai Chiavari 65_054v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ca2972a3-6ff4-40f4-ad4e-fd6f51ea3c7f/info.json
+# Notai Chiavari 65_055r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fef08b9e-8baf-452b-bb28-f779f7a39eaf/info.json
+# Notai Chiavari 65_055v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/50809291-e57b-4ce3-952f-13e3d5e85155/info.json
+# Notai Chiavari 65_056r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ee4b0264-e499-44be-ac75-7c457176fbe6/info.json
+# Notai Chiavari 65_056v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4cd64bca-a3f9-4c78-ac93-16c5b2bac20d/info.json
+# Notai Chiavari 65_057r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5671c637-c925-4aab-ac5d-49feedc835a5/info.json
+# Notai Chiavari 65_057v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9498a4ca-6c90-4873-91b3-b579750ce674/info.json
+# Notai Chiavari 65_058r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ca47c98b-2d5f-4bc5-a396-f4895660636c/info.json
+# Notai Chiavari 65_058v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/017c56cf-c8f9-4979-9699-4c4323d78178/info.json
+# Notai Chiavari 65_059r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/995f1acc-ef84-4d1b-af1d-60a0ad889c5d/info.json
+# Notai Chiavari 65_059v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c8bc185b-f6e0-4eb2-90f0-bd3836d76843/info.json
+# Notai Chiavari 65_060r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b1ce17fa-96f5-49ee-aec6-ded3de4b9dd9/info.json
+# Notai Chiavari 65_060v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/97738a0a-5495-46cf-a998-f55c8b0e6dda/info.json
+# Notai Chiavari 65_061r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b365e553-9951-4207-af26-e7c3fbf415c9/info.json
+# Notai Chiavari 65_061v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/30e87582-4e49-4757-8b15-ef78864e18c7/info.json
+# Notai Chiavari 65_062r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ee891689-f29d-4af8-a6e5-b6a234f30218/info.json
+# Notai Chiavari 65_062v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/defce7a0-cc27-41cb-8cae-d587fdf3a4cc/info.json
+# Notai Chiavari 65_063r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/27975d6b-772e-42ae-b119-254e5f3a33fd/info.json
+# Notai Chiavari 65_063v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8cbf1ef9-443d-484f-b221-e09e5f2d1b14/info.json
+# Notai Chiavari 65_064r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ecaf5d36-d2f9-40df-8a0a-066566f37e2f/info.json
+# Notai Chiavari 65_064v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6dac557b-34da-4ad2-bdd1-59d939662550/info.json
+# Notai Chiavari 65_065r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/299de093-c521-4588-b0b0-6a42f9f108e9/info.json
+# Notai Chiavari 65_065v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bc584577-a815-4507-997b-dfe5a8879598/info.json
+# Notai Chiavari 65_066r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ea80d44f-ecd9-48b3-bd69-65cc0056f61a/info.json
+# Notai Chiavari 65_066v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/38a04814-2972-4667-baca-a7c41d7ca8b5/info.json
+# Notai Chiavari 65_067r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1837eafb-fb94-4a97-b7bb-5282200b4b99/info.json
+# Notai Chiavari 65_067v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8ec8cd29-c0c7-4690-b4f3-de33ece367bc/info.json
+# Notai Chiavari 65_068r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ff4cf11f-5088-4dfc-8d5b-7ef236609635/info.json
+# Notai Chiavari 65_068v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/49774de5-6d30-443d-bfa0-12c6b98c890c/info.json
+# Notai Chiavari 65_069r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/87e29d7e-4173-475f-98fd-f009d2ff1933/info.json
+# Notai Chiavari 65_069v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9b292935-cb47-45f3-9d6b-b1d56e984540/info.json
+# Notai Chiavari 65_070r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0796ee7e-4b02-44af-9ce9-9261eb74ef91/info.json
+# Notai Chiavari 65_070v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/59ff0c0b-82b6-41df-8eae-c7223fffc81a/info.json
+# Notai Chiavari 65_071r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ee2582da-4e40-4451-9df2-ed4b6ae60853/info.json
+# Notai Chiavari 65_071v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/38e44f46-f2c3-4f69-986c-280fcb17ee8e/info.json
+# Notai Chiavari 65_072r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e7a760d3-e5f2-47a3-9d1b-fe9fd55de66d/info.json
+# Notai Chiavari 65_072v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/45b3f3ad-a608-4083-9756-3ee1d9a026b0/info.json
+# Notai Chiavari 65_073r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/aff4d61e-18af-4c66-a937-532b6df213a1/info.json
+# Notai Chiavari 65_073v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/50aaaa90-b0df-4e21-93c5-8d548fcad426/info.json
+# Notai Chiavari 65_074r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d0652ea9-2b7c-4e25-9fc3-78a56933cd1f/info.json
+# Notai Chiavari 65_074v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fe1f8722-7759-470c-90c5-429963bdce08/info.json
+# Notai Chiavari 65_075r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/37aff133-9bce-4c34-b66a-c5434e728d00/info.json
+# Notai Chiavari 65_075v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a4857c01-9eb9-4240-900a-81f6d67d1139/info.json
+# Notai Chiavari 65_076r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/57a89a23-28b4-4ae2-ae13-86db37da4eaf/info.json
+# Notai Chiavari 65_076v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b82cb2a5-7ca3-4351-93b6-b00b7766070e/info.json
+# Notai Chiavari 65_077r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d897ad9b-0d7e-4ffe-8dbf-a20a590dc6db/info.json
+# Notai Chiavari 65_077v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c762a221-1e62-4c6b-9c4d-2664112d7a43/info.json
+# Notai Chiavari 65_078r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/076827f4-5a4d-48bb-a4fd-bbbbb307d7f7/info.json
+# Notai Chiavari 65_078v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bfea1146-58fa-4be6-b027-fa9907e33ee5/info.json
+# Notai Chiavari 65_079r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e53de57d-d72e-463d-9580-c8d4a492b544/info.json
+# Notai Chiavari 65_079v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a397664f-7e23-4de6-a6cd-49b22d3fcaa9/info.json
+# Notai Chiavari 65_080r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/669f9597-fbee-4eaf-9f11-84bc06b36214/info.json
+# Notai Chiavari 65_080v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/55f02a77-4e4d-4c69-96db-18c8361d4855/info.json
+# Notai Chiavari 65_081r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d5c29373-528d-4533-9f9b-035779536a93/info.json
+# Notai Chiavari 65_081v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/60856d1a-6bb7-4ba3-9b34-9dc787345893/info.json
+# Notai Chiavari 65_082r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3b8f4456-9ee9-4e66-a684-c73265ffa45a/info.json
+# Notai Chiavari 65_082v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fcbea1a2-8082-45e9-b5a3-9e1e98231e0a/info.json
+# Notai Chiavari 65_083r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1d0f600d-4aca-4a8f-ac47-6066e972d512/info.json
+# Notai Chiavari 65_083v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/963c92ce-5235-4d75-a317-dae20d794398/info.json
+# Notai Chiavari 65_084r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9242ef6d-5601-4761-a446-31f9963e83b2/info.json
+# Notai Chiavari 65_084v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fd432b51-7520-49ba-b99e-128d305818a1/info.json
+# Notai Chiavari 65_085r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/543acab5-2897-4a25-9f2a-72c5a3244168/info.json
+# Notai Chiavari 65_085v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bc66a52d-8053-4f2e-8693-3955423c4509/info.json
+# Notai Chiavari 65_086r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2fc20e7f-8f3d-449f-bd74-9c8f558a34ee/info.json
+# Notai Chiavari 65_086v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/21a11fe1-e5aa-422b-83a0-c9721b1d2410/info.json
+# Notai Chiavari 65_087r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/eb5569df-b3e7-4b88-a21b-1ed7836cdb5a/info.json
+# Notai Chiavari 65_087v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1a730cca-1f64-4d4d-82ed-abd6a778a61d/info.json
+# Notai Chiavari 65_088r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/85e17b72-a4b9-409a-9001-3da9c5dc35cd/info.json
+# Notai Chiavari 65_088v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/72c10572-f080-4133-85d5-fcbb65270fc4/info.json
+# Notai Chiavari 65_089r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/15b5d74b-4bdd-4a11-b66d-e885834313ca/info.json
+# Notai Chiavari 65_089v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1afa7edf-70d9-4c8c-9dfd-e885ed29788e/info.json
+# Notai Chiavari 65_090bisr.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e129256b-08d2-44bc-a90c-d194d6c7d9eb/info.json
+# Notai Chiavari 65_090bisv.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b68ef3d1-b36f-4641-b1b9-386b86b93368/info.json
+# Notai Chiavari 65_090r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1f8b6a99-5348-45d8-ab86-d7e82f254055/info.json
+# Notai Chiavari 65_090v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6051fd06-3c44-47ff-8844-4eddd31bc4d1/info.json
+# Notai Chiavari 65_091bisr.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d0133cdd-e726-434e-8bb9-ae72ce2cca10/info.json
+# Notai Chiavari 65_091bisv.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b700015a-2028-47da-9d3f-e181ff7aae70/info.json
+# Notai Chiavari 65_091r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a1e6477c-56ad-46df-914b-1bd404b72a01/info.json
+# Notai Chiavari 65_091v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c09c51bd-9a37-4362-a63c-c9a7995045a3/info.json
+# Notai Chiavari 65_092bisr.tif
+https://asge.jarvis.memooria.org/images/iiif/db/95e9b386-d216-46df-a743-ca1f62859948/info.json
+# Notai Chiavari 65_092bisv.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b091f7d0-05c6-4e68-a8d4-e2ee269a2583/info.json
+# Notai Chiavari 65_092r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dc7f6cd1-cf65-4051-9a1c-b7f6de402c18/info.json
+# Notai Chiavari 65_092v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5d499fe2-9361-4456-ba72-60e4022ea62f/info.json
+# Notai Chiavari 65_093bisr.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2f54acd4-9688-42dd-892e-be72a6a21c80/info.json
+# Notai Chiavari 65_093bisv.tif
+https://asge.jarvis.memooria.org/images/iiif/db/827b0f18-8cb9-48de-970d-005397233908/info.json
+# Notai Chiavari 65_093r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/31393f29-037f-4857-9135-f07edde8ce40/info.json
+# Notai Chiavari 65_093v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cef0630c-17f3-41dc-8127-38ac28e53f14/info.json
+# Notai Chiavari 65_094bisr.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d6392a6c-abb1-4266-ba60-b0638ef5e469/info.json
+# Notai Chiavari 65_094bisv.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3c25ea5b-5e9b-4c11-bb9d-7cd5a7756d29/info.json
+# Notai Chiavari 65_094r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fe3a92eb-a324-420c-a24a-8b5092302cb1/info.json
+# Notai Chiavari 65_094v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/844ec503-d949-426c-b5c4-2fd032ca5089/info.json
+# Notai Chiavari 65_095bisr.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c35ad33f-419d-4dea-9e97-b7ff08e78cbb/info.json
+# Notai Chiavari 65_095bisv.tif
+https://asge.jarvis.memooria.org/images/iiif/db/76717918-b361-4387-91db-a4debd883fd9/info.json
+# Notai Chiavari 65_095r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6e6b8e55-3cf3-401c-b89a-463e23752e40/info.json
+# Notai Chiavari 65_095v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/810e115f-59b4-4a96-961f-b31f674b25d3/info.json
+# Notai Chiavari 65_096bisr.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4007f93e-f52f-4d92-8032-688e7f1820c8/info.json
+# Notai Chiavari 65_096bisv.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5e5f4527-8518-4672-9b66-a533aa8fea59/info.json
+# Notai Chiavari 65_096r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/68d09ed2-bacc-4588-a3f8-ac705ea7cb96/info.json
+# Notai Chiavari 65_096v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f7708099-aa91-4731-9ca0-b2b54333758b/info.json
+# Notai Chiavari 65_097bisr.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a4b87e23-db08-4ae6-ba47-e15690514be4/info.json
+# Notai Chiavari 65_097bisv.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ca2f195d-78d0-4268-a840-8e0ff9828055/info.json
+# Notai Chiavari 65_097r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b6047502-cca2-4630-a9a9-e8fd875f4306/info.json
+# Notai Chiavari 65_097v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3ac57b0d-2140-4397-b728-0f9d3645e329/info.json
+# Notai Chiavari 65_098bisr.tif
+https://asge.jarvis.memooria.org/images/iiif/db/29b15e93-287a-4fbb-a231-bd3912db3087/info.json
+# Notai Chiavari 65_098bisv.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1949760e-1f07-4810-a4f3-7bde0e1badc7/info.json
+# Notai Chiavari 65_098r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3e7daf09-84e0-43cb-947d-c68b13fe8973/info.json
+# Notai Chiavari 65_098v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/60b4a2d4-e191-4819-9201-42b16fb69319/info.json
+# Notai Chiavari 65_099bisr.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1bb69d19-fc99-4d28-bbf5-74d0cc46d9a9/info.json
+# Notai Chiavari 65_099bisv.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bd02f8e9-43af-4cb4-b83d-4e248ff11c34/info.json
+# Notai Chiavari 65_099r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a06c8a31-22ef-4dee-9192-762c2f4a2c78/info.json
+# Notai Chiavari 65_099v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5be45914-a926-4255-8d97-18fe698c1666/info.json
+# Notai Chiavari 65_100r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/af108453-b76f-4f5c-a8b4-1f7a028445ea/info.json
+# Notai Chiavari 65_100v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/339e0c7c-c382-46f8-a083-8674e57fb4c2/info.json
+# Notai Chiavari 65_101r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/31e10f46-eba3-437c-9b14-4478b40bafda/info.json
+# Notai Chiavari 65_101v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/46e47679-1e2a-41b1-931a-4971c56ac549/info.json
+# Notai Chiavari 65_102r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/303db624-edb8-4db8-89b4-830ef7170e26/info.json
+# Notai Chiavari 65_102v Inserto Ar.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b2b37b0d-520c-44b8-b7ea-0d7854039a18/info.json
+# Notai Chiavari 65_102v Inserto Av.tif
+https://asge.jarvis.memooria.org/images/iiif/db/64b96c37-053a-4503-8da5-ce5f22b4aa79/info.json
+# Notai Chiavari 65_102v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c7cfffa6-3e2c-4589-bea9-bb8ae30298d7/info.json
+# Notai Chiavari 65_103r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f2b3ce3a-c8c5-4f51-99e1-872ca9cca697/info.json
+# Notai Chiavari 65_103v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/cae59609-71bf-4a63-adee-48cf0a2211b3/info.json
+# Notai Chiavari 65_104r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2ca5eafd-f0eb-42e1-8466-a293d7d4da35/info.json
+# Notai Chiavari 65_104v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/36df8a97-22fd-41db-bb7b-f9ad74773719/info.json
+# Notai Chiavari 65_105r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/833c3ed9-873d-4377-b71b-d369b98f2d12/info.json
+# Notai Chiavari 65_105v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7cfab1af-d3d5-4271-8919-1170b8b0e580/info.json
+# Notai Chiavari 65_106r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c25d4c5f-c54a-44c5-b195-00c9c360d5e5/info.json
+# Notai Chiavari 65_106v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3ab45a96-4338-4486-9a54-a8f2ec5627ec/info.json
+# Notai Chiavari 65_107r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b095fa75-a451-4e12-bcc8-213b260afb0f/info.json
+# Notai Chiavari 65_107v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b584977d-bfa1-497d-89bb-d3a49ad36275/info.json
+# Notai Chiavari 65_108r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fd1c65da-9e60-4f54-8331-792978cbd85e/info.json
+# Notai Chiavari 65_108v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f889d448-f3fe-4f00-b3f8-156b15742e83/info.json
+# Notai Chiavari 65_109r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c7982357-b806-4fa4-b75a-1cfbab398eee/info.json
+# Notai Chiavari 65_109v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8b7e6472-43b4-4c40-96ba-0b685b27029c/info.json
+# Notai Chiavari 65_110r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b0b7ae34-deb4-4f46-b35b-fca4b6de415d/info.json
+# Notai Chiavari 65_110v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/be66a768-8f9e-43f5-8b73-993f6f31b469/info.json
+# Notai Chiavari 65_111r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5d409d14-d38f-4024-b2fa-faa9c9526ade/info.json
+# Notai Chiavari 65_111v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9ee9d1b0-bb71-41e4-a0ae-f6e48d9936f9/info.json
+# Notai Chiavari 65_112r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4f4404ef-9fa3-4377-a2ab-9d5cf28a303f/info.json
+# Notai Chiavari 65_112v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/188643fb-afd7-49b7-881d-f1dfb7c440fd/info.json
+# Notai Chiavari 65_113r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/19d0e5dc-2fec-4475-9420-8e05f8414f47/info.json
+# Notai Chiavari 65_113v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b4004491-0dd3-493d-81ac-c3a4eb6293da/info.json
+# Notai Chiavari 65_114r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8c6e6d04-46e8-4783-b982-9a69792452ed/info.json
+# Notai Chiavari 65_114v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/477e7536-1087-4139-8522-9827b8100d11/info.json
+# Notai Chiavari 65_115r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5fd97791-118c-4520-a9e1-8e1e252c3104/info.json
+# Notai Chiavari 65_115v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d1b1dd4a-25bd-4382-9728-e64fe7eb8898/info.json
+# Notai Chiavari 65_116r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c886ee15-0b52-41e1-b52b-09b5e352696a/info.json
+# Notai Chiavari 65_116v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1fbdd293-ca63-4fee-b28a-1c3e133723f5/info.json
+# Notai Chiavari 65_117r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2b7ea498-32a5-494a-895a-aa9dbf8b5d86/info.json
+# Notai Chiavari 65_117v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/301c71e1-17a8-450d-a27a-3e458213ee84/info.json
+# Notai Chiavari 65_118r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e1045fda-c78b-4615-be5a-d53b493cb5b4/info.json
+# Notai Chiavari 65_118v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2e382782-3ce0-419d-a4d3-3c0b5adede15/info.json
+# Notai Chiavari 65_119r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e6ce94d6-f5a2-4898-a856-6202477daa48/info.json
+# Notai Chiavari 65_119v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4946b8cd-4908-409b-b358-df7a5683cca4/info.json
+# Notai Chiavari 65_120r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/55168faf-557a-4d42-8d97-e63d7ade63a3/info.json
+# Notai Chiavari 65_120v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b16ba1ff-cbd3-49b6-ac4f-f3d6aaf24d43/info.json
+# Notai Chiavari 65_121r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/071fa056-089f-4c7b-a21b-dd8ef9fdd1c9/info.json
+# Notai Chiavari 65_121v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1d9a1a15-a6af-4875-90df-4ad92286bbb9/info.json
+# Notai Chiavari 65_122r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/65626805-0a1f-4bdd-96e5-ca79af1f10be/info.json
+# Notai Chiavari 65_122v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c21a2d5e-dcd9-4949-a1ce-009aa0508d1b/info.json
+# Notai Chiavari 65_123r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6522bbe6-551b-4353-9726-3e57ce05a9c9/info.json
+# Notai Chiavari 65_123v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/32a047b1-fbbd-4477-9c85-c20ca390d529/info.json
+# Notai Chiavari 65_124r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b9f4585d-de3f-43e6-b3a3-5482c6a2b745/info.json
+# Notai Chiavari 65_124v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/371be0fa-ab8d-4777-852c-68eeb820e799/info.json
+# Notai Chiavari 65_125r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/557b3b4b-54f4-44a0-976f-6611b8c1e351/info.json
+# Notai Chiavari 65_125v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/36f1feeb-2e43-42c7-b4b4-1a32e377711b/info.json
+# Notai Chiavari 65_126r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/7a534da1-3d5a-4ffb-846b-2154d1223edd/info.json
+# Notai Chiavari 65_126v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a5cca03a-f311-4775-b339-937997dda493/info.json
+# Notai Chiavari 65_127r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8465b5b1-ab92-4d98-bd20-ea97c40862a4/info.json
+# Notai Chiavari 65_127v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/24837fc9-04e4-4f9a-be60-e12ac75f46f7/info.json
+# Notai Chiavari 65_128r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e3c9ffcc-c485-4c04-b959-e047608c5684/info.json
+# Notai Chiavari 65_128v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5056f1f2-bfb2-42d0-876c-3f25cdfd151f/info.json
+# Notai Chiavari 65_129r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/65d01ddc-03c2-4c77-b892-8260d366a185/info.json
+# Notai Chiavari 65_129v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6b58b0bf-c07b-4727-90ab-dec75fcaaf60/info.json
+# Notai Chiavari 65_130r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a0ed215b-8e11-4581-a3cd-66d3f33292e2/info.json
+# Notai Chiavari 65_130v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/95c9a256-f093-46b9-8a68-bf91cfff45c9/info.json
+# Notai Chiavari 65_131r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/93ff648e-5f4c-43a7-8178-d3040afd7650/info.json
+# Notai Chiavari 65_131v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ebc317be-eef7-4a4e-8e85-4ac97216a531/info.json
+# Notai Chiavari 65_132r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/77c25cd1-639b-4186-bfc5-b9f5ffbc3145/info.json
+# Notai Chiavari 65_132v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/4d967971-cb0c-4150-8e12-c576b0e519e8/info.json
+# Notai Chiavari 65_133r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/53f3f7de-0786-4b97-9743-9652a1eed690/info.json
+# Notai Chiavari 65_133v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c69b4a5f-f87a-4969-a1e8-02784e16315a/info.json
+# Notai Chiavari 65_134r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/b655a78e-cb6d-4c58-a8ac-8b329c337950/info.json
+# Notai Chiavari 65_134v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/228936a1-9a8b-44ea-9d18-b26b35401cb2/info.json
+# Notai Chiavari 65_135r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/deff60d9-cdb0-4e5e-81ce-592a986599fe/info.json
+# Notai Chiavari 65_135v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/98256364-2837-45c0-bd1b-9cc8a1f23143/info.json
+# Notai Chiavari 65_136r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/880e4c1e-8704-478c-99e0-1b7a6b40bdf8/info.json
+# Notai Chiavari 65_136v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/874e70f1-336f-4bd2-84c3-0f964960916b/info.json
+# Notai Chiavari 65_137r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5181785b-37d9-4363-b8a2-673b1301e2ed/info.json
+# Notai Chiavari 65_137v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/86912a27-005c-42d3-b745-dcbcb60a19cf/info.json
+# Notai Chiavari 65_138r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/3cc504d3-fb30-4194-859c-1021892f0427/info.json
+# Notai Chiavari 65_138v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2f92bff9-7f7e-4d40-bfe8-e162ada923d1/info.json
+# Notai Chiavari 65_139r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/278c7727-6e65-4e96-98c2-79d48be901f4/info.json
+# Notai Chiavari 65_139v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/bf8aa02b-11fd-4c9e-a027-d7599190f98d/info.json
+# Notai Chiavari 65_140r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ef68448e-cc04-4f21-a3da-df4af8995889/info.json
+# Notai Chiavari 65_140v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0986f32c-59ab-4936-add9-fc94c4ed96f8/info.json
+# Notai Chiavari 65_141r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/60abe21f-2c22-4eee-96b6-aba434940e2e/info.json
+# Notai Chiavari 65_141v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/340983c7-1dfa-4fa5-868f-80f3274cf5c5/info.json
+# Notai Chiavari 65_142r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/deb87fd1-947a-42c6-a285-86bd83f47729/info.json
+# Notai Chiavari 65_142v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d8afec26-64e6-4801-abb9-d0490f34f649/info.json
+# Notai Chiavari 65_143r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1c39153b-0c3b-48ea-ad06-c8386e507a20/info.json
+# Notai Chiavari 65_143v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ad678299-9db7-4fad-b043-976b0684b837/info.json
+# Notai Chiavari 65_144r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/58cba279-2c8e-4af2-9acc-c69692c6c513/info.json
+# Notai Chiavari 65_144v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/16c31bf9-1e45-4f45-ae18-7c63bef77384/info.json
+# Notai Chiavari 65_145r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8d75c057-9c39-4e4c-a9fe-5e5a588d80cc/info.json
+# Notai Chiavari 65_145v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/2154ad26-eecc-482c-b967-cac881ebdaf0/info.json
+# Notai Chiavari 65_146r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/08c311cd-5182-40e3-a01b-34002da228c0/info.json
+# Notai Chiavari 65_146v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/a7b0854a-665b-434c-b037-6ca036abe159/info.json
+# Notai Chiavari 65_147r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0d31b2c8-73b1-4513-a45e-0a460ae857b0/info.json
+# Notai Chiavari 65_147v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/44480adc-412c-4bba-a119-ee76736f0ebe/info.json
+# Notai Chiavari 65_148r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/fa25aeff-1abc-4458-87fb-eed51254259d/info.json
+# Notai Chiavari 65_148v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/0f20159f-0094-4b38-83d5-b260ee67afa5/info.json
+# Notai Chiavari 65_149r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/d94e5da2-0463-4eb5-abe9-151ba3120268/info.json
+# Notai Chiavari 65_149v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/73eeeddc-78ff-40ad-a8d2-b4dfcd153c8d/info.json
+# Notai Chiavari 65_150r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/42eddaa6-3f3f-483a-bf55-3b61a49ea4a3/info.json
+# Notai Chiavari 65_150v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/e36e0899-5ec7-4522-9b4b-7c54201ed0b1/info.json
+# Notai Chiavari 65_151r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/6a0fe245-3069-4c61-b592-98776ebbf871/info.json
+# Notai Chiavari 65_151v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/1601729e-f9f1-47e5-b314-ede14786020f/info.json
+# Notai Chiavari 65_152r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/dafe0130-f8e8-41d8-ae1c-fd408c712129/info.json
+# Notai Chiavari 65_152v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/70f02ff0-e7c1-4772-9aa8-470ce5777641/info.json
+# Notai Chiavari 65_153r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/519e8696-0728-46ce-ae3a-25c5331abc29/info.json
+# Notai Chiavari 65_153v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/ccb117f5-730a-4c65-bad0-71a5df211d9c/info.json
+# Notai Chiavari 65_154r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/aad8697a-6137-4234-94dd-c74a8e269867/info.json
+# Notai Chiavari 65_154v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/10c734b0-e935-4389-84d8-f8ff425ae7e1/info.json
+# Notai Chiavari 65_155r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/9763c3d4-efa0-43b3-bb2c-9eccf44795d8/info.json
+# Notai Chiavari 65_155v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/5e947476-54cf-4e6a-9a0c-43df5140ee61/info.json
+# Notai Chiavari 65_156r.tif
+https://asge.jarvis.memooria.org/images/iiif/db/8504735c-ed13-4e89-b7e6-d55ba79fd669/info.json
+# Notai Chiavari 65_156v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/39e8b4d8-7537-4948-b1fb-20483f49f391/info.json
+# Notai Chiavari 65_157r Coperta recto.tif
+https://asge.jarvis.memooria.org/images/iiif/db/c4ad4c80-38a0-4690-9119-c5b62bc531da/info.json
+# Notai Chiavari 65_157v.tif
+https://asge.jarvis.memooria.org/images/iiif/db/f16e996a-f43f-45db-8d30-057a44a09737/info.json
