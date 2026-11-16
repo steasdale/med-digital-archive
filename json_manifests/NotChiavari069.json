@@ -1,0 +1,3362 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@type" : "sc:Manifest",
+  "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/manifest",
+  "label" : "Archivio di Stato di Genova, Notai di Chiavari, 69",
+  "metadata" : [ {
+    "label" : "ID",
+    "value" : "Archivio di Stato di Genova, Notai di Chiavari, 69"
+  }, {
+    "label" : "Title",
+    "value" : "Notai di Chiavari, 69"
+  }, {
+    "label" : "uuid",
+    "value" : "f4301a0e-331c-455b-a7e8-527909213c9d"
+  } ],
+  "sequences" : [ {
+    "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/sequence/default",
+    "@type" : "sc:Sequence",
+    "label" : "default",
+    "startCanvas" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/cf5d9dcd-b606-47f1-a903-9da7703cefe0",
+    "canvases" : [ {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/cf5d9dcd-b606-47f1-a903-9da7703cefe0",
+      "@type" : "sc:Canvas",
+      "label" : "NC 69_Coperta recto.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/cf5d9dcd-b606-47f1-a903-9da7703cefe0",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/cf5d9dcd-b606-47f1-a903-9da7703cefe0",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3130,
+          "height" : 4070
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/cf5d9dcd-b606-47f1-a903-9da7703cefe0"
+      } ],
+      "width" : 3130,
+      "height" : 4070
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d130be4e-c735-4dd1-b96b-8bccdd1edc13",
+      "@type" : "sc:Canvas",
+      "label" : "NC 69_Coperta verso.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d130be4e-c735-4dd1-b96b-8bccdd1edc13",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d130be4e-c735-4dd1-b96b-8bccdd1edc13",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2980,
+          "height" : 4070
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d130be4e-c735-4dd1-b96b-8bccdd1edc13"
+      } ],
+      "width" : 2980,
+      "height" : 4070
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c8c33c68-1ed9-46e6-ad64-fc89d9cbb4f9",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_001r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c8c33c68-1ed9-46e6-ad64-fc89d9cbb4f9",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c8c33c68-1ed9-46e6-ad64-fc89d9cbb4f9",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3130,
+          "height" : 4070
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c8c33c68-1ed9-46e6-ad64-fc89d9cbb4f9"
+      } ],
+      "width" : 3130,
+      "height" : 4070
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/643cf52e-b0ef-4dd5-9641-860dc0d47161",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_001v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/643cf52e-b0ef-4dd5-9641-860dc0d47161",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/643cf52e-b0ef-4dd5-9641-860dc0d47161",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2980,
+          "height" : 4070
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/643cf52e-b0ef-4dd5-9641-860dc0d47161"
+      } ],
+      "width" : 2980,
+      "height" : 4070
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2b0aaefc-c506-44e2-bf72-afa17266e681",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_002r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2b0aaefc-c506-44e2-bf72-afa17266e681",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2b0aaefc-c506-44e2-bf72-afa17266e681",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3175,
+          "height" : 4070
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2b0aaefc-c506-44e2-bf72-afa17266e681"
+      } ],
+      "width" : 3175,
+      "height" : 4070
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/dd8dca69-156d-425e-b3a7-6199c3855282",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_002v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/dd8dca69-156d-425e-b3a7-6199c3855282",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/dd8dca69-156d-425e-b3a7-6199c3855282",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2935,
+          "height" : 4070
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/dd8dca69-156d-425e-b3a7-6199c3855282"
+      } ],
+      "width" : 2935,
+      "height" : 4070
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/a10612e8-6918-40b7-b0ce-f49f3ecedcbd",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_003r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a10612e8-6918-40b7-b0ce-f49f3ecedcbd",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a10612e8-6918-40b7-b0ce-f49f3ecedcbd",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3175,
+          "height" : 4070
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/a10612e8-6918-40b7-b0ce-f49f3ecedcbd"
+      } ],
+      "width" : 3175,
+      "height" : 4070
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/601efd4b-4ef6-4eb6-99b7-8b800dd21bcb",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_003v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/601efd4b-4ef6-4eb6-99b7-8b800dd21bcb",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/601efd4b-4ef6-4eb6-99b7-8b800dd21bcb",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2935,
+          "height" : 4070
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/601efd4b-4ef6-4eb6-99b7-8b800dd21bcb"
+      } ],
+      "width" : 2935,
+      "height" : 4070
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/83245c55-5e75-453a-8704-2a0f017868df",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_004r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/83245c55-5e75-453a-8704-2a0f017868df",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/83245c55-5e75-453a-8704-2a0f017868df",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3175,
+          "height" : 4070
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/83245c55-5e75-453a-8704-2a0f017868df"
+      } ],
+      "width" : 3175,
+      "height" : 4070
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/7dcf851a-0d59-457d-933c-24b5bd58419a",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_004v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7dcf851a-0d59-457d-933c-24b5bd58419a",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7dcf851a-0d59-457d-933c-24b5bd58419a",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2875,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/7dcf851a-0d59-457d-933c-24b5bd58419a"
+      } ],
+      "width" : 2875,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d5752848-1ba9-4fa8-af87-75aed778128a",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_005r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d5752848-1ba9-4fa8-af87-75aed778128a",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d5752848-1ba9-4fa8-af87-75aed778128a",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3010,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d5752848-1ba9-4fa8-af87-75aed778128a"
+      } ],
+      "width" : 3010,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/79c82b44-18ba-4b91-afc9-fc8314cb4054",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_005v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/79c82b44-18ba-4b91-afc9-fc8314cb4054",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/79c82b44-18ba-4b91-afc9-fc8314cb4054",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2875,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/79c82b44-18ba-4b91-afc9-fc8314cb4054"
+      } ],
+      "width" : 2875,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f9c7bbab-c3ab-4f04-9108-c5bad6c3e089",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_006r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f9c7bbab-c3ab-4f04-9108-c5bad6c3e089",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f9c7bbab-c3ab-4f04-9108-c5bad6c3e089",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3010,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f9c7bbab-c3ab-4f04-9108-c5bad6c3e089"
+      } ],
+      "width" : 3010,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/901542e5-9322-4174-91bc-3103a319f45c",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_006v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/901542e5-9322-4174-91bc-3103a319f45c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/901542e5-9322-4174-91bc-3103a319f45c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2875,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/901542e5-9322-4174-91bc-3103a319f45c"
+      } ],
+      "width" : 2875,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/b4b0cd8b-40c2-4467-8da7-ce87e016ccd2",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_007r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b4b0cd8b-40c2-4467-8da7-ce87e016ccd2",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b4b0cd8b-40c2-4467-8da7-ce87e016ccd2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3010,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/b4b0cd8b-40c2-4467-8da7-ce87e016ccd2"
+      } ],
+      "width" : 3010,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f1345df2-d9b8-4acc-83d5-1cdc62ee7aa5",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_007v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f1345df2-d9b8-4acc-83d5-1cdc62ee7aa5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f1345df2-d9b8-4acc-83d5-1cdc62ee7aa5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2875,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f1345df2-d9b8-4acc-83d5-1cdc62ee7aa5"
+      } ],
+      "width" : 2875,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e4bcf201-b965-404f-a3b6-f23b531c7ad4",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_008r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e4bcf201-b965-404f-a3b6-f23b531c7ad4",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e4bcf201-b965-404f-a3b6-f23b531c7ad4",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3010,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e4bcf201-b965-404f-a3b6-f23b531c7ad4"
+      } ],
+      "width" : 3010,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/40ed0e86-428c-416d-bfb4-812896da992b",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_008v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/40ed0e86-428c-416d-bfb4-812896da992b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/40ed0e86-428c-416d-bfb4-812896da992b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2875,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/40ed0e86-428c-416d-bfb4-812896da992b"
+      } ],
+      "width" : 2875,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/828cdaa0-bb4d-4993-9ddf-2b301f28e916",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_009r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/828cdaa0-bb4d-4993-9ddf-2b301f28e916",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/828cdaa0-bb4d-4993-9ddf-2b301f28e916",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3010,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/828cdaa0-bb4d-4993-9ddf-2b301f28e916"
+      } ],
+      "width" : 3010,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/a23a783e-252d-4fd2-a1e9-e4828ed669f0",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_009v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a23a783e-252d-4fd2-a1e9-e4828ed669f0",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a23a783e-252d-4fd2-a1e9-e4828ed669f0",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2930,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/a23a783e-252d-4fd2-a1e9-e4828ed669f0"
+      } ],
+      "width" : 2930,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/130acfec-f008-47b0-a8f3-4c4c3287a442",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_010r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/130acfec-f008-47b0-a8f3-4c4c3287a442",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/130acfec-f008-47b0-a8f3-4c4c3287a442",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2955,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/130acfec-f008-47b0-a8f3-4c4c3287a442"
+      } ],
+      "width" : 2955,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e24d5f16-d5e5-4b7f-b97a-4038add4c581",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_010v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e24d5f16-d5e5-4b7f-b97a-4038add4c581",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e24d5f16-d5e5-4b7f-b97a-4038add4c581",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2930,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e24d5f16-d5e5-4b7f-b97a-4038add4c581"
+      } ],
+      "width" : 2930,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/58e506aa-0b94-49b0-9ab2-5ffb7582d1c0",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_011r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/58e506aa-0b94-49b0-9ab2-5ffb7582d1c0",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/58e506aa-0b94-49b0-9ab2-5ffb7582d1c0",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2955,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/58e506aa-0b94-49b0-9ab2-5ffb7582d1c0"
+      } ],
+      "width" : 2955,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e2c768e1-f565-4a66-acd8-ded5f70dfcee",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_011v Inserto Ar.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e2c768e1-f565-4a66-acd8-ded5f70dfcee",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e2c768e1-f565-4a66-acd8-ded5f70dfcee",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e2c768e1-f565-4a66-acd8-ded5f70dfcee"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/b55eb842-b223-4592-bc8d-305a69d59551",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_011v Inserto Av.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b55eb842-b223-4592-bc8d-305a69d59551",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b55eb842-b223-4592-bc8d-305a69d59551",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/b55eb842-b223-4592-bc8d-305a69d59551"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/321e63fd-80b3-4731-9e6b-2a87dc3242fc",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_011v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/321e63fd-80b3-4731-9e6b-2a87dc3242fc",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/321e63fd-80b3-4731-9e6b-2a87dc3242fc",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2930,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/321e63fd-80b3-4731-9e6b-2a87dc3242fc"
+      } ],
+      "width" : 2930,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/eede1581-c084-4ecc-b638-c00780c12482",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_012r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/eede1581-c084-4ecc-b638-c00780c12482",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/eede1581-c084-4ecc-b638-c00780c12482",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2955,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/eede1581-c084-4ecc-b638-c00780c12482"
+      } ],
+      "width" : 2955,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/658b7a87-2d4e-451e-981d-4ee2d3fc55b0",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_012v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/658b7a87-2d4e-451e-981d-4ee2d3fc55b0",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/658b7a87-2d4e-451e-981d-4ee2d3fc55b0",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/658b7a87-2d4e-451e-981d-4ee2d3fc55b0"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/3763f95e-6b13-4fbf-b51e-c6085d57e414",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_013r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3763f95e-6b13-4fbf-b51e-c6085d57e414",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3763f95e-6b13-4fbf-b51e-c6085d57e414",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/3763f95e-6b13-4fbf-b51e-c6085d57e414"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/aa469c9b-6235-4cc8-acf5-a9ac22811c5a",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_013v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/aa469c9b-6235-4cc8-acf5-a9ac22811c5a",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/aa469c9b-6235-4cc8-acf5-a9ac22811c5a",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/aa469c9b-6235-4cc8-acf5-a9ac22811c5a"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/1a42d0a2-945c-4a0d-96f8-6559a4f8315b",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_014r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/1a42d0a2-945c-4a0d-96f8-6559a4f8315b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/1a42d0a2-945c-4a0d-96f8-6559a4f8315b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/1a42d0a2-945c-4a0d-96f8-6559a4f8315b"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/19e7b001-ac5e-4c4e-8a00-a416ab4cd6fe",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_014v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/19e7b001-ac5e-4c4e-8a00-a416ab4cd6fe",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/19e7b001-ac5e-4c4e-8a00-a416ab4cd6fe",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/19e7b001-ac5e-4c4e-8a00-a416ab4cd6fe"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9de5bea9-2336-4179-8cf6-d4a14d7b3d6d",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_015r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9de5bea9-2336-4179-8cf6-d4a14d7b3d6d",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9de5bea9-2336-4179-8cf6-d4a14d7b3d6d",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9de5bea9-2336-4179-8cf6-d4a14d7b3d6d"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/53e28cce-99e9-4175-b514-efe711060540",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_015v Inserto Ar.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/53e28cce-99e9-4175-b514-efe711060540",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/53e28cce-99e9-4175-b514-efe711060540",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/53e28cce-99e9-4175-b514-efe711060540"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/cd4fa371-3fa8-4c35-8e27-1e432feaa93c",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_015v Inserto Av.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/cd4fa371-3fa8-4c35-8e27-1e432feaa93c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/cd4fa371-3fa8-4c35-8e27-1e432feaa93c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/cd4fa371-3fa8-4c35-8e27-1e432feaa93c"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e3bab3d0-d5c2-4f21-9c2e-0e0e11f64495",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_015v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e3bab3d0-d5c2-4f21-9c2e-0e0e11f64495",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e3bab3d0-d5c2-4f21-9c2e-0e0e11f64495",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e3bab3d0-d5c2-4f21-9c2e-0e0e11f64495"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d387ae56-f66c-4bb5-83b0-bda82b4c7d8f",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_016r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d387ae56-f66c-4bb5-83b0-bda82b4c7d8f",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d387ae56-f66c-4bb5-83b0-bda82b4c7d8f",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d387ae56-f66c-4bb5-83b0-bda82b4c7d8f"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/afbe8633-4e77-4f4b-80c3-5c135fe004b3",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_016v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/afbe8633-4e77-4f4b-80c3-5c135fe004b3",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/afbe8633-4e77-4f4b-80c3-5c135fe004b3",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/afbe8633-4e77-4f4b-80c3-5c135fe004b3"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f49e5584-8999-421e-8f85-f80977a70bd9",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_017r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f49e5584-8999-421e-8f85-f80977a70bd9",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f49e5584-8999-421e-8f85-f80977a70bd9",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f49e5584-8999-421e-8f85-f80977a70bd9"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/dfa487ec-0796-4f7d-99fa-8e54677b5f68",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_017v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/dfa487ec-0796-4f7d-99fa-8e54677b5f68",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/dfa487ec-0796-4f7d-99fa-8e54677b5f68",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/dfa487ec-0796-4f7d-99fa-8e54677b5f68"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/4e9b63fa-8d1b-4e87-a37f-32799db57d7b",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_018r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/4e9b63fa-8d1b-4e87-a37f-32799db57d7b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/4e9b63fa-8d1b-4e87-a37f-32799db57d7b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/4e9b63fa-8d1b-4e87-a37f-32799db57d7b"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c6d2f036-7962-49a0-85c9-c9724aae0a54",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_018v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c6d2f036-7962-49a0-85c9-c9724aae0a54",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c6d2f036-7962-49a0-85c9-c9724aae0a54",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c6d2f036-7962-49a0-85c9-c9724aae0a54"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2ca809ce-6263-4a01-a4d5-929e817c9cb7",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_019r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2ca809ce-6263-4a01-a4d5-929e817c9cb7",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2ca809ce-6263-4a01-a4d5-929e817c9cb7",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2ca809ce-6263-4a01-a4d5-929e817c9cb7"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/7f617b54-9e5b-4664-a3ee-aa9f520b0fcc",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_019v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7f617b54-9e5b-4664-a3ee-aa9f520b0fcc",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7f617b54-9e5b-4664-a3ee-aa9f520b0fcc",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/7f617b54-9e5b-4664-a3ee-aa9f520b0fcc"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/0c6b976f-08a3-4827-9916-c32c8c86f4d3",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_020r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/0c6b976f-08a3-4827-9916-c32c8c86f4d3",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/0c6b976f-08a3-4827-9916-c32c8c86f4d3",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/0c6b976f-08a3-4827-9916-c32c8c86f4d3"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/62a10964-70c5-409d-b208-a60ad14cce46",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_020v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/62a10964-70c5-409d-b208-a60ad14cce46",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/62a10964-70c5-409d-b208-a60ad14cce46",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/62a10964-70c5-409d-b208-a60ad14cce46"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/a8329384-7bf3-4496-be5a-0692ccc33317",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_021r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a8329384-7bf3-4496-be5a-0692ccc33317",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a8329384-7bf3-4496-be5a-0692ccc33317",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/a8329384-7bf3-4496-be5a-0692ccc33317"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9da56de4-d67a-4e90-b1ca-174949de7ae7",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_021v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9da56de4-d67a-4e90-b1ca-174949de7ae7",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9da56de4-d67a-4e90-b1ca-174949de7ae7",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9da56de4-d67a-4e90-b1ca-174949de7ae7"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/fdf40c00-d27e-4d72-9b38-4e65882bb8b1",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_022r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/fdf40c00-d27e-4d72-9b38-4e65882bb8b1",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/fdf40c00-d27e-4d72-9b38-4e65882bb8b1",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/fdf40c00-d27e-4d72-9b38-4e65882bb8b1"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/ee5071da-7cd7-4352-94c8-05a3ab6faf7e",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_022v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ee5071da-7cd7-4352-94c8-05a3ab6faf7e",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ee5071da-7cd7-4352-94c8-05a3ab6faf7e",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/ee5071da-7cd7-4352-94c8-05a3ab6faf7e"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/3d16d258-0f88-49db-abc8-84e462fa1b62",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_023r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3d16d258-0f88-49db-abc8-84e462fa1b62",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3d16d258-0f88-49db-abc8-84e462fa1b62",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2990,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/3d16d258-0f88-49db-abc8-84e462fa1b62"
+      } ],
+      "width" : 2990,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/bc7c3caa-7c36-4d18-b3e6-184df8df8dd6",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_023v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/bc7c3caa-7c36-4d18-b3e6-184df8df8dd6",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/bc7c3caa-7c36-4d18-b3e6-184df8df8dd6",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3015,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/bc7c3caa-7c36-4d18-b3e6-184df8df8dd6"
+      } ],
+      "width" : 3015,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/ad6d41ac-668e-4169-8b92-d54f4174b321",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_024r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ad6d41ac-668e-4169-8b92-d54f4174b321",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ad6d41ac-668e-4169-8b92-d54f4174b321",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2940,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/ad6d41ac-668e-4169-8b92-d54f4174b321"
+      } ],
+      "width" : 2940,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/837f5017-e629-4765-bfb3-95a12ce86072",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_024v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/837f5017-e629-4765-bfb3-95a12ce86072",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/837f5017-e629-4765-bfb3-95a12ce86072",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3015,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/837f5017-e629-4765-bfb3-95a12ce86072"
+      } ],
+      "width" : 3015,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/656e965e-cba7-485a-80c3-ac3c7bcf59ad",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_025r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/656e965e-cba7-485a-80c3-ac3c7bcf59ad",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/656e965e-cba7-485a-80c3-ac3c7bcf59ad",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2940,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/656e965e-cba7-485a-80c3-ac3c7bcf59ad"
+      } ],
+      "width" : 2940,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/fc3571f6-4b95-47f7-891e-d6e0168455a7",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_025v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/fc3571f6-4b95-47f7-891e-d6e0168455a7",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/fc3571f6-4b95-47f7-891e-d6e0168455a7",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3015,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/fc3571f6-4b95-47f7-891e-d6e0168455a7"
+      } ],
+      "width" : 3015,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f9393c56-7f16-4c8a-907d-87eb84ba8a13",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_026r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f9393c56-7f16-4c8a-907d-87eb84ba8a13",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f9393c56-7f16-4c8a-907d-87eb84ba8a13",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2940,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f9393c56-7f16-4c8a-907d-87eb84ba8a13"
+      } ],
+      "width" : 2940,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/ba4483af-cb5a-4d5e-ae99-499ad9daf72b",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_026v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ba4483af-cb5a-4d5e-ae99-499ad9daf72b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ba4483af-cb5a-4d5e-ae99-499ad9daf72b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3015,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/ba4483af-cb5a-4d5e-ae99-499ad9daf72b"
+      } ],
+      "width" : 3015,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/02f400ed-7cc6-47ff-a979-6fa71606054b",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_027r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/02f400ed-7cc6-47ff-a979-6fa71606054b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/02f400ed-7cc6-47ff-a979-6fa71606054b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2940,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/02f400ed-7cc6-47ff-a979-6fa71606054b"
+      } ],
+      "width" : 2940,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c4ed13ee-95f3-4da7-ae1a-03571c84a0a7",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_027v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c4ed13ee-95f3-4da7-ae1a-03571c84a0a7",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c4ed13ee-95f3-4da7-ae1a-03571c84a0a7",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3015,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c4ed13ee-95f3-4da7-ae1a-03571c84a0a7"
+      } ],
+      "width" : 3015,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9c285db7-9231-46b5-8b22-394126499dca",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_028r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9c285db7-9231-46b5-8b22-394126499dca",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9c285db7-9231-46b5-8b22-394126499dca",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2940,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9c285db7-9231-46b5-8b22-394126499dca"
+      } ],
+      "width" : 2940,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/08984f91-8a1b-4113-ab58-fc56249e0113",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_028v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/08984f91-8a1b-4113-ab58-fc56249e0113",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/08984f91-8a1b-4113-ab58-fc56249e0113",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/08984f91-8a1b-4113-ab58-fc56249e0113"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/6657f8f2-8569-43ac-a210-62b86fb64db4",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_029r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6657f8f2-8569-43ac-a210-62b86fb64db4",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6657f8f2-8569-43ac-a210-62b86fb64db4",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/6657f8f2-8569-43ac-a210-62b86fb64db4"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/aafe626e-ce1d-4101-87f5-3e24028a6baf",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_030r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/aafe626e-ce1d-4101-87f5-3e24028a6baf",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/aafe626e-ce1d-4101-87f5-3e24028a6baf",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/aafe626e-ce1d-4101-87f5-3e24028a6baf"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/6bce4fe5-1aef-4c97-89e2-7d371d309f0b",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_030v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6bce4fe5-1aef-4c97-89e2-7d371d309f0b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6bce4fe5-1aef-4c97-89e2-7d371d309f0b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/6bce4fe5-1aef-4c97-89e2-7d371d309f0b"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/58b89771-9b31-4a0d-9607-771d1716d56d",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_031r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/58b89771-9b31-4a0d-9607-771d1716d56d",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/58b89771-9b31-4a0d-9607-771d1716d56d",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/58b89771-9b31-4a0d-9607-771d1716d56d"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/84a2b0b0-2a7f-4911-b709-715acf1c82a5",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_031v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/84a2b0b0-2a7f-4911-b709-715acf1c82a5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/84a2b0b0-2a7f-4911-b709-715acf1c82a5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/84a2b0b0-2a7f-4911-b709-715acf1c82a5"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e335a21c-9052-4ac5-b647-34fa26e8b52b",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_032r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e335a21c-9052-4ac5-b647-34fa26e8b52b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e335a21c-9052-4ac5-b647-34fa26e8b52b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e335a21c-9052-4ac5-b647-34fa26e8b52b"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d7427fe3-48a8-49f1-bc5b-3ffb243e116c",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_032v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d7427fe3-48a8-49f1-bc5b-3ffb243e116c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d7427fe3-48a8-49f1-bc5b-3ffb243e116c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d7427fe3-48a8-49f1-bc5b-3ffb243e116c"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/95c95f14-eebf-411e-87d1-bdf5b31fb560",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_033r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/95c95f14-eebf-411e-87d1-bdf5b31fb560",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/95c95f14-eebf-411e-87d1-bdf5b31fb560",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/95c95f14-eebf-411e-87d1-bdf5b31fb560"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c49bad19-b3ee-4ed5-9803-694f2d6c19cf",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_033v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c49bad19-b3ee-4ed5-9803-694f2d6c19cf",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c49bad19-b3ee-4ed5-9803-694f2d6c19cf",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c49bad19-b3ee-4ed5-9803-694f2d6c19cf"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/3248ad52-2f65-4acd-a24d-7e8eaed2e229",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_034r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3248ad52-2f65-4acd-a24d-7e8eaed2e229",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3248ad52-2f65-4acd-a24d-7e8eaed2e229",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/3248ad52-2f65-4acd-a24d-7e8eaed2e229"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f29239b9-8cc3-4518-99ec-b430ca1f9f17",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_034v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f29239b9-8cc3-4518-99ec-b430ca1f9f17",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f29239b9-8cc3-4518-99ec-b430ca1f9f17",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f29239b9-8cc3-4518-99ec-b430ca1f9f17"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f4bd8768-5449-4363-a753-2a35c42199d3",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_035r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f4bd8768-5449-4363-a753-2a35c42199d3",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f4bd8768-5449-4363-a753-2a35c42199d3",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f4bd8768-5449-4363-a753-2a35c42199d3"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d9393597-e4ac-4e7a-b682-71ebe8c69cbb",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_035v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d9393597-e4ac-4e7a-b682-71ebe8c69cbb",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d9393597-e4ac-4e7a-b682-71ebe8c69cbb",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d9393597-e4ac-4e7a-b682-71ebe8c69cbb"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2983b970-0229-447c-8a5e-9c00795e86c1",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_036r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2983b970-0229-447c-8a5e-9c00795e86c1",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2983b970-0229-447c-8a5e-9c00795e86c1",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2983b970-0229-447c-8a5e-9c00795e86c1"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/73fcdfa9-bdc9-4118-a742-d8382067c61f",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_036v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/73fcdfa9-bdc9-4118-a742-d8382067c61f",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/73fcdfa9-bdc9-4118-a742-d8382067c61f",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/73fcdfa9-bdc9-4118-a742-d8382067c61f"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c57e700a-35b3-41ed-8b9a-38fe35a07e46",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_037r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c57e700a-35b3-41ed-8b9a-38fe35a07e46",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c57e700a-35b3-41ed-8b9a-38fe35a07e46",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c57e700a-35b3-41ed-8b9a-38fe35a07e46"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/568187cf-12e1-46bd-abc7-8c8d0eca0641",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_037v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/568187cf-12e1-46bd-abc7-8c8d0eca0641",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/568187cf-12e1-46bd-abc7-8c8d0eca0641",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/568187cf-12e1-46bd-abc7-8c8d0eca0641"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/26d02ade-a196-4327-80ec-4ddd6464cde0",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_038r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/26d02ade-a196-4327-80ec-4ddd6464cde0",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/26d02ade-a196-4327-80ec-4ddd6464cde0",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/26d02ade-a196-4327-80ec-4ddd6464cde0"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/ee0b392f-1675-410c-8862-6ff0c8a5ea08",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_038v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ee0b392f-1675-410c-8862-6ff0c8a5ea08",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/ee0b392f-1675-410c-8862-6ff0c8a5ea08",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/ee0b392f-1675-410c-8862-6ff0c8a5ea08"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/31363cfd-bb0f-4a77-818b-fc828faabb5c",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_039r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/31363cfd-bb0f-4a77-818b-fc828faabb5c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/31363cfd-bb0f-4a77-818b-fc828faabb5c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/31363cfd-bb0f-4a77-818b-fc828faabb5c"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d99ada35-aece-4859-a67e-02150bebe86c",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_039v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d99ada35-aece-4859-a67e-02150bebe86c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/d99ada35-aece-4859-a67e-02150bebe86c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/d99ada35-aece-4859-a67e-02150bebe86c"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/3185793a-f7b7-4ded-aaeb-f2b68844c807",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_040r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3185793a-f7b7-4ded-aaeb-f2b68844c807",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3185793a-f7b7-4ded-aaeb-f2b68844c807",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/3185793a-f7b7-4ded-aaeb-f2b68844c807"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/cc4fa10c-97ea-47d6-8e74-fe920405b524",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_040v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/cc4fa10c-97ea-47d6-8e74-fe920405b524",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/cc4fa10c-97ea-47d6-8e74-fe920405b524",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/cc4fa10c-97ea-47d6-8e74-fe920405b524"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/cf4de1b3-a1d1-4b03-b7a3-31c6f7201cea",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_041r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/cf4de1b3-a1d1-4b03-b7a3-31c6f7201cea",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/cf4de1b3-a1d1-4b03-b7a3-31c6f7201cea",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/cf4de1b3-a1d1-4b03-b7a3-31c6f7201cea"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/38f48aa9-5b82-4743-9ed8-3840405d78cc",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_041v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/38f48aa9-5b82-4743-9ed8-3840405d78cc",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/38f48aa9-5b82-4743-9ed8-3840405d78cc",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/38f48aa9-5b82-4743-9ed8-3840405d78cc"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/078fb106-c58d-48c4-b6a1-56b7a3eda31c",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_042r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/078fb106-c58d-48c4-b6a1-56b7a3eda31c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/078fb106-c58d-48c4-b6a1-56b7a3eda31c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/078fb106-c58d-48c4-b6a1-56b7a3eda31c"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/bfdf8666-6482-4b52-8b65-ecf40654c3d0",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_042v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/bfdf8666-6482-4b52-8b65-ecf40654c3d0",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/bfdf8666-6482-4b52-8b65-ecf40654c3d0",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3055,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/bfdf8666-6482-4b52-8b65-ecf40654c3d0"
+      } ],
+      "width" : 3055,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2eeaf481-b7df-4031-8b93-ac6fc0f212b3",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_043r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2eeaf481-b7df-4031-8b93-ac6fc0f212b3",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2eeaf481-b7df-4031-8b93-ac6fc0f212b3",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2900,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2eeaf481-b7df-4031-8b93-ac6fc0f212b3"
+      } ],
+      "width" : 2900,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2604e1ea-7868-402f-bf40-74e31b79b907",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_043v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2604e1ea-7868-402f-bf40-74e31b79b907",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2604e1ea-7868-402f-bf40-74e31b79b907",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2604e1ea-7868-402f-bf40-74e31b79b907"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f0fce2df-aa68-4c58-aaa2-6d83e5d14223",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_044r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f0fce2df-aa68-4c58-aaa2-6d83e5d14223",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f0fce2df-aa68-4c58-aaa2-6d83e5d14223",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f0fce2df-aa68-4c58-aaa2-6d83e5d14223"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/94cd23eb-6ae6-47b9-9fe1-107ccdcace22",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_044v Inserto Ar.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/94cd23eb-6ae6-47b9-9fe1-107ccdcace22",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/94cd23eb-6ae6-47b9-9fe1-107ccdcace22",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/94cd23eb-6ae6-47b9-9fe1-107ccdcace22"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/345c058e-acdb-4fbe-8521-d6d060e550a5",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_044v Inserto Av.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/345c058e-acdb-4fbe-8521-d6d060e550a5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/345c058e-acdb-4fbe-8521-d6d060e550a5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/345c058e-acdb-4fbe-8521-d6d060e550a5"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/af21549a-0613-4e5d-8a6a-5f724d7a72db",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_044v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/af21549a-0613-4e5d-8a6a-5f724d7a72db",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/af21549a-0613-4e5d-8a6a-5f724d7a72db",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/af21549a-0613-4e5d-8a6a-5f724d7a72db"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c6b2e811-ffc9-4857-bbe8-97d26d8d094c",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_045r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c6b2e811-ffc9-4857-bbe8-97d26d8d094c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c6b2e811-ffc9-4857-bbe8-97d26d8d094c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c6b2e811-ffc9-4857-bbe8-97d26d8d094c"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/917af313-65f3-40fd-aabc-7ec1e4b9740f",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_045v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/917af313-65f3-40fd-aabc-7ec1e4b9740f",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/917af313-65f3-40fd-aabc-7ec1e4b9740f",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/917af313-65f3-40fd-aabc-7ec1e4b9740f"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/959fa673-9602-4b25-8550-af557a454434",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_046r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/959fa673-9602-4b25-8550-af557a454434",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/959fa673-9602-4b25-8550-af557a454434",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/959fa673-9602-4b25-8550-af557a454434"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2221d657-27ee-4faf-81a7-6a2c7266f494",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_046v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2221d657-27ee-4faf-81a7-6a2c7266f494",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2221d657-27ee-4faf-81a7-6a2c7266f494",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2221d657-27ee-4faf-81a7-6a2c7266f494"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/6f270f1c-3a25-427e-843d-1dd64336cb7c",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_047r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6f270f1c-3a25-427e-843d-1dd64336cb7c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6f270f1c-3a25-427e-843d-1dd64336cb7c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/6f270f1c-3a25-427e-843d-1dd64336cb7c"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/554c38ae-1e90-4466-a605-cec9349b3787",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_047v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/554c38ae-1e90-4466-a605-cec9349b3787",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/554c38ae-1e90-4466-a605-cec9349b3787",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/554c38ae-1e90-4466-a605-cec9349b3787"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/4e5caa3b-f307-466e-a955-2e3b962dc878",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_048r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/4e5caa3b-f307-466e-a955-2e3b962dc878",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/4e5caa3b-f307-466e-a955-2e3b962dc878",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/4e5caa3b-f307-466e-a955-2e3b962dc878"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f2238bd0-9d44-4f3c-ab8f-7d349d0830b5",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_048v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f2238bd0-9d44-4f3c-ab8f-7d349d0830b5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f2238bd0-9d44-4f3c-ab8f-7d349d0830b5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f2238bd0-9d44-4f3c-ab8f-7d349d0830b5"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2fd47114-3f90-4a3d-8d80-336ced9c92b1",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_049r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2fd47114-3f90-4a3d-8d80-336ced9c92b1",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2fd47114-3f90-4a3d-8d80-336ced9c92b1",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2fd47114-3f90-4a3d-8d80-336ced9c92b1"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/161dada0-cb86-46f8-bdba-8d8666b5958d",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_049v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/161dada0-cb86-46f8-bdba-8d8666b5958d",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/161dada0-cb86-46f8-bdba-8d8666b5958d",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/161dada0-cb86-46f8-bdba-8d8666b5958d"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e758df36-58eb-4105-bd60-c5f6c5d56cf5",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_050r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e758df36-58eb-4105-bd60-c5f6c5d56cf5",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e758df36-58eb-4105-bd60-c5f6c5d56cf5",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e758df36-58eb-4105-bd60-c5f6c5d56cf5"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/5a77f87b-b481-4f38-83e2-aa30c91d31fd",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_050v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/5a77f87b-b481-4f38-83e2-aa30c91d31fd",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/5a77f87b-b481-4f38-83e2-aa30c91d31fd",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/5a77f87b-b481-4f38-83e2-aa30c91d31fd"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/046b4ef0-12d3-4b12-9ea6-051ce1533989",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_051r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/046b4ef0-12d3-4b12-9ea6-051ce1533989",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/046b4ef0-12d3-4b12-9ea6-051ce1533989",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/046b4ef0-12d3-4b12-9ea6-051ce1533989"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9071c983-b494-40e2-bd2c-a8a603f89e4c",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_051v Inserto Ar.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9071c983-b494-40e2-bd2c-a8a603f89e4c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9071c983-b494-40e2-bd2c-a8a603f89e4c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2955,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9071c983-b494-40e2-bd2c-a8a603f89e4c"
+      } ],
+      "width" : 2955,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/fd990b5f-4ee4-4ec9-9ed8-b8c0bea32ff1",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_051v Inserto Av.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/fd990b5f-4ee4-4ec9-9ed8-b8c0bea32ff1",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/fd990b5f-4ee4-4ec9-9ed8-b8c0bea32ff1",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2800,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/fd990b5f-4ee4-4ec9-9ed8-b8c0bea32ff1"
+      } ],
+      "width" : 2800,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/7193772b-c687-4896-a74b-e9413265047a",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_051v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7193772b-c687-4896-a74b-e9413265047a",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7193772b-c687-4896-a74b-e9413265047a",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 3120,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/7193772b-c687-4896-a74b-e9413265047a"
+      } ],
+      "width" : 3120,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/3924f443-4aab-41a4-8fc2-f6d6339a7216",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_052r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3924f443-4aab-41a4-8fc2-f6d6339a7216",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/3924f443-4aab-41a4-8fc2-f6d6339a7216",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2965,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/3924f443-4aab-41a4-8fc2-f6d6339a7216"
+      } ],
+      "width" : 2965,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/dece61ba-2120-4165-bf62-33731a15a7df",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_052v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/dece61ba-2120-4165-bf62-33731a15a7df",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/dece61ba-2120-4165-bf62-33731a15a7df",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2955,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/dece61ba-2120-4165-bf62-33731a15a7df"
+      } ],
+      "width" : 2955,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/113c98fa-6260-4891-b257-a956298d99d8",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_053r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/113c98fa-6260-4891-b257-a956298d99d8",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/113c98fa-6260-4891-b257-a956298d99d8",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2800,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/113c98fa-6260-4891-b257-a956298d99d8"
+      } ],
+      "width" : 2800,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e7634aec-a1b7-45bd-be13-2378282209e2",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_053v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e7634aec-a1b7-45bd-be13-2378282209e2",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e7634aec-a1b7-45bd-be13-2378282209e2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2955,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e7634aec-a1b7-45bd-be13-2378282209e2"
+      } ],
+      "width" : 2955,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2d2ddba5-2028-4c5f-b9e7-89ca73a3cbc2",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_054r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2d2ddba5-2028-4c5f-b9e7-89ca73a3cbc2",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2d2ddba5-2028-4c5f-b9e7-89ca73a3cbc2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2800,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2d2ddba5-2028-4c5f-b9e7-89ca73a3cbc2"
+      } ],
+      "width" : 2800,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/be4cf758-3f2f-403d-95f8-9a590771c333",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_054v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/be4cf758-3f2f-403d-95f8-9a590771c333",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/be4cf758-3f2f-403d-95f8-9a590771c333",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2785,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/be4cf758-3f2f-403d-95f8-9a590771c333"
+      } ],
+      "width" : 2785,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2a0cc752-f268-4d7b-96bf-f671797d03ed",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_055r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2a0cc752-f268-4d7b-96bf-f671797d03ed",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/2a0cc752-f268-4d7b-96bf-f671797d03ed",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2790,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/2a0cc752-f268-4d7b-96bf-f671797d03ed"
+      } ],
+      "width" : 2790,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/455f3479-8712-41de-b0f1-cd7c4960af93",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_055v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/455f3479-8712-41de-b0f1-cd7c4960af93",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/455f3479-8712-41de-b0f1-cd7c4960af93",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2785,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/455f3479-8712-41de-b0f1-cd7c4960af93"
+      } ],
+      "width" : 2785,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9abd51d3-f222-45ba-99ca-b8104d3bb7e8",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_056r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9abd51d3-f222-45ba-99ca-b8104d3bb7e8",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9abd51d3-f222-45ba-99ca-b8104d3bb7e8",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2790,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9abd51d3-f222-45ba-99ca-b8104d3bb7e8"
+      } ],
+      "width" : 2790,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/6702f38d-9cc1-42ec-b0e9-be7d32ed4dcb",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_056v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6702f38d-9cc1-42ec-b0e9-be7d32ed4dcb",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/6702f38d-9cc1-42ec-b0e9-be7d32ed4dcb",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2785,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/6702f38d-9cc1-42ec-b0e9-be7d32ed4dcb"
+      } ],
+      "width" : 2785,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/8cef7fa8-c1ae-4c10-8b66-202e7745bc10",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_057r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/8cef7fa8-c1ae-4c10-8b66-202e7745bc10",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/8cef7fa8-c1ae-4c10-8b66-202e7745bc10",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2790,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/8cef7fa8-c1ae-4c10-8b66-202e7745bc10"
+      } ],
+      "width" : 2790,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/16740507-16aa-40da-b864-5937fd20f02e",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_057v Inserto Ar.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/16740507-16aa-40da-b864-5937fd20f02e",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/16740507-16aa-40da-b864-5937fd20f02e",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2785,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/16740507-16aa-40da-b864-5937fd20f02e"
+      } ],
+      "width" : 2785,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/da5d1bac-5909-49aa-ac00-46cec70558a4",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_057v Inserto Av.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/da5d1bac-5909-49aa-ac00-46cec70558a4",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/da5d1bac-5909-49aa-ac00-46cec70558a4",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2785,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/da5d1bac-5909-49aa-ac00-46cec70558a4"
+      } ],
+      "width" : 2785,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/10bf00fd-be8c-4e83-8ef9-e34e4e04821b",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_057v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/10bf00fd-be8c-4e83-8ef9-e34e4e04821b",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/10bf00fd-be8c-4e83-8ef9-e34e4e04821b",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2785,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/10bf00fd-be8c-4e83-8ef9-e34e4e04821b"
+      } ],
+      "width" : 2785,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/481be570-c91c-41eb-95ea-a63cb4b63511",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_058r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/481be570-c91c-41eb-95ea-a63cb4b63511",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/481be570-c91c-41eb-95ea-a63cb4b63511",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2790,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/481be570-c91c-41eb-95ea-a63cb4b63511"
+      } ],
+      "width" : 2790,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f37ae54a-9e71-403e-b3c2-ccad178bfd72",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_058v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f37ae54a-9e71-403e-b3c2-ccad178bfd72",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f37ae54a-9e71-403e-b3c2-ccad178bfd72",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2785,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f37ae54a-9e71-403e-b3c2-ccad178bfd72"
+      } ],
+      "width" : 2785,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f588695e-6106-440b-a265-0b3cac060256",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_059r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f588695e-6106-440b-a265-0b3cac060256",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f588695e-6106-440b-a265-0b3cac060256",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2790,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f588695e-6106-440b-a265-0b3cac060256"
+      } ],
+      "width" : 2790,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/63005a3b-821e-4e9c-b217-820e643118ab",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_059v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/63005a3b-821e-4e9c-b217-820e643118ab",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/63005a3b-821e-4e9c-b217-820e643118ab",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2785,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/63005a3b-821e-4e9c-b217-820e643118ab"
+      } ],
+      "width" : 2785,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9d35e1ea-45e6-4011-9338-a6486d48744f",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_060r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9d35e1ea-45e6-4011-9338-a6486d48744f",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/9d35e1ea-45e6-4011-9338-a6486d48744f",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2790,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/9d35e1ea-45e6-4011-9338-a6486d48744f"
+      } ],
+      "width" : 2790,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/0bc347f8-7ac1-4037-b7dd-49e28924627d",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_060v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/0bc347f8-7ac1-4037-b7dd-49e28924627d",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/0bc347f8-7ac1-4037-b7dd-49e28924627d",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2785,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/0bc347f8-7ac1-4037-b7dd-49e28924627d"
+      } ],
+      "width" : 2785,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/46938741-e4ca-44dc-90eb-635a10ed2e8a",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_061r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/46938741-e4ca-44dc-90eb-635a10ed2e8a",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/46938741-e4ca-44dc-90eb-635a10ed2e8a",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2790,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/46938741-e4ca-44dc-90eb-635a10ed2e8a"
+      } ],
+      "width" : 2790,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c1773644-f2b2-44d2-a030-8f6631b4f323",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_061v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c1773644-f2b2-44d2-a030-8f6631b4f323",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/c1773644-f2b2-44d2-a030-8f6631b4f323",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2845,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/c1773644-f2b2-44d2-a030-8f6631b4f323"
+      } ],
+      "width" : 2845,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/a0c52a15-d316-477f-b657-1a717db208f8",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_062r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a0c52a15-d316-477f-b657-1a717db208f8",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a0c52a15-d316-477f-b657-1a717db208f8",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2840,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/a0c52a15-d316-477f-b657-1a717db208f8"
+      } ],
+      "width" : 2840,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e9072f3a-03a4-495b-805a-16e1d1c7fb82",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_062v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e9072f3a-03a4-495b-805a-16e1d1c7fb82",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/e9072f3a-03a4-495b-805a-16e1d1c7fb82",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2845,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/e9072f3a-03a4-495b-805a-16e1d1c7fb82"
+      } ],
+      "width" : 2845,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/b43c8dec-d6cb-4957-8472-2e35211e5ea0",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_063r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b43c8dec-d6cb-4957-8472-2e35211e5ea0",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/b43c8dec-d6cb-4957-8472-2e35211e5ea0",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2840,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/b43c8dec-d6cb-4957-8472-2e35211e5ea0"
+      } ],
+      "width" : 2840,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/deafbe57-c39a-41a6-8448-a82c21bacf63",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_063v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/deafbe57-c39a-41a6-8448-a82c21bacf63",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/deafbe57-c39a-41a6-8448-a82c21bacf63",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2845,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/deafbe57-c39a-41a6-8448-a82c21bacf63"
+      } ],
+      "width" : 2845,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/202ebf28-5693-40eb-a2e6-2a8b4d93e995",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_064r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/202ebf28-5693-40eb-a2e6-2a8b4d93e995",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/202ebf28-5693-40eb-a2e6-2a8b4d93e995",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2840,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/202ebf28-5693-40eb-a2e6-2a8b4d93e995"
+      } ],
+      "width" : 2840,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/7b2ca383-1e49-4486-8c6e-42cb6ac8d66c",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_064v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7b2ca383-1e49-4486-8c6e-42cb6ac8d66c",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/7b2ca383-1e49-4486-8c6e-42cb6ac8d66c",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2845,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/7b2ca383-1e49-4486-8c6e-42cb6ac8d66c"
+      } ],
+      "width" : 2845,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/60c19dca-3fab-434d-9340-da14c8e33e92",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_065r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/60c19dca-3fab-434d-9340-da14c8e33e92",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/60c19dca-3fab-434d-9340-da14c8e33e92",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2840,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/60c19dca-3fab-434d-9340-da14c8e33e92"
+      } ],
+      "width" : 2840,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/26a2dd85-4107-4743-a454-01ca9543bfee",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_065v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/26a2dd85-4107-4743-a454-01ca9543bfee",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/26a2dd85-4107-4743-a454-01ca9543bfee",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2845,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/26a2dd85-4107-4743-a454-01ca9543bfee"
+      } ],
+      "width" : 2845,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/484b92c3-ed54-4ce8-b5cc-ac92bd4b8383",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_066r.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/484b92c3-ed54-4ce8-b5cc-ac92bd4b8383",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/484b92c3-ed54-4ce8-b5cc-ac92bd4b8383",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2840,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/484b92c3-ed54-4ce8-b5cc-ac92bd4b8383"
+      } ],
+      "width" : 2840,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/39881854-7b68-49a0-b2e2-f2392e3ab6e4",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_066v.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/39881854-7b68-49a0-b2e2-f2392e3ab6e4",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/39881854-7b68-49a0-b2e2-f2392e3ab6e4",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2845,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/39881854-7b68-49a0-b2e2-f2392e3ab6e4"
+      } ],
+      "width" : 2845,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/a68d28bc-8a61-4374-85d7-af87c5992efc",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_067r Coperta recto.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a68d28bc-8a61-4374-85d7-af87c5992efc",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/a68d28bc-8a61-4374-85d7-af87c5992efc",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2840,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/a68d28bc-8a61-4374-85d7-af87c5992efc"
+      } ],
+      "width" : 2840,
+      "height" : 3760
+    }, {
+      "@id" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f435eb84-acb3-4776-95ca-adbc155265e9",
+      "@type" : "sc:Canvas",
+      "label" : "Notai Chiavari 69_067v Coperta verso.tif",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f435eb84-acb3-4776-95ca-adbc155265e9",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://asge.jarvis.memooria.org/images/iiif/db/f435eb84-acb3-4776-95ca-adbc155265e9",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 2845,
+          "height" : 3760
+        },
+        "on" : "https://asge.jarvis.memooria.org/meta/iiif/f4301a0e-331c-455b-a7e8-527909213c9d/canvas/f435eb84-acb3-4776-95ca-adbc155265e9"
+      } ],
+      "width" : 2845,
+      "height" : 3760
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://asge.jarvis.memooria.org/images/db/cf5d9dcd-b606-47f1-a903-9da7703cefe0/thumb.jpg",
+    "format" : "image/jpeg"
+  }
+}
