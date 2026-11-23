@@ -1,0 +1,602 @@
+# ASTrap08719_0001.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD08719504F8BE0631004FE0A8CDD@37f98c48071d1118/info.json
+# ASTrap08719_0002.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC6B406AA5AF4E0631004FE0AF92B@37f98c48071d1118/info.json
+# ASTrap08719_0003.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB51A2D657730E0631004FE0AAC72@37f98c48071d1118/info.json
+# ASTrap08719_0004.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA4026B5EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0005.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC421C077EC43E0631004FE0A94B6@37f98c48071d1118/info.json
+# ASTrap08719_0006.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB77BC2819071E0631004FE0A8EF7@37f98c48071d1118/info.json
+# ASTrap08719_0007.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B6E184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0008.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DAF56DF5D4A21E0631004FE0AA477@37f98c48071d1118/info.json
+# ASTrap08719_0009.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC421C072EC43E0631004FE0A94B6@37f98c48071d1118/info.json
+# ASTrap08719_0010.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258D5ABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0011.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258BEABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0012.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258C4ABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0013.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD128F3B969CFE0631004FE0AA9D1@37f98c48071d1118/info.json
+# ASTrap08719_0014.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC119011FC00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0015.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DF1CB85B5A6BEE0631004FE0A6096@37f98c48071d1118/info.json
+# ASTrap08719_0016.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDEA71B3D2D64E0631004FE0A817D@37f98c48071d1118/info.json
+# ASTrap08719_0017.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B5F184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0018.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B10184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0019.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEDE88973F5FE0631004FE0A92C6@37f98c48071d1118/info.json
+# ASTrap08719_0020.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD4748FC34F93E0631004FE0A2F72@37f98c48071d1118/info.json
+# ASTrap08719_0021.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B6B184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0022.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC15D423DC013E0631004FE0A2729@37f98c48071d1118/info.json
+# ASTrap08719_0023.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DECF863E7BD26E0631004FE0A27EA@37f98c48071d1118/info.json
+# ASTrap08719_0024.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBFD92D89AF78E0631004FE0AE66B@37f98c48071d1118/info.json
+# ASTrap08719_0025.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE92D5A289CDBE0631004FE0A4269@37f98c48071d1118/info.json
+# ASTrap08719_0026.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B18184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0027.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258E2ABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0028.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB072F63544E5E0631004FE0A96B9@37f98c48071d1118/info.json
+# ASTrap08719_0029.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95CBD165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0030.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB77BC2939071E0631004FE0A8EF7@37f98c48071d1118/info.json
+# ASTrap08719_0031.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB51A2D547730E0631004FE0AAC72@37f98c48071d1118/info.json
+# ASTrap08719_0032.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258DFABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0033.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA4026D5EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0034.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCF99D9401B4BE0631004FE0ABB99@37f98c48071d1118/info.json
+# ASTrap08719_0035.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCE9A620A1B51E0631004FE0A48B9@37f98c48071d1118/info.json
+# ASTrap08719_0036.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEF69E0D561EE0631004FE0A5496@37f98c48071d1118/info.json
+# ASTrap08719_0037.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA313254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0038.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA3E5EEDC97E0631004FE0ABF62@37f98c48071d1118/info.json
+# ASTrap08719_0039.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB6CEF8609065E0631004FE0AFC96@37f98c48071d1118/info.json
+# ASTrap08719_0040.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB85822076DAFE0631004FE0AB3CA@37f98c48071d1118/info.json
+# ASTrap08719_0041.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB27378FE4F7DE0631004FE0AC6A9@37f98c48071d1118/info.json
+# ASTrap08719_0042.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD0A994BF416CE0631004FE0AB4A0@37f98c48071d1118/info.json
+# ASTrap08719_0043.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBFD92D8BAF78E0631004FE0AE66B@37f98c48071d1118/info.json
+# ASTrap08719_0044.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB85821DB6DAFE0631004FE0AB3CA@37f98c48071d1118/info.json
+# ASTrap08719_0045.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE8F4A91C8DF6E0631004FE0AFB37@37f98c48071d1118/info.json
+# ASTrap08719_0046.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD087194C4F8BE0631004FE0A8CDD@37f98c48071d1118/info.json
+# ASTrap08719_0047.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCF99D9341B4BE0631004FE0ABB99@37f98c48071d1118/info.json
+# ASTrap08719_0048.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCABD2E8CF665E0631004FE0ADB6B@37f98c48071d1118/info.json
+# ASTrap08719_0049.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC421C079EC43E0631004FE0A94B6@37f98c48071d1118/info.json
+# ASTrap08719_0050.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCABD2EB0F665E0631004FE0ADB6B@37f98c48071d1118/info.json
+# ASTrap08719_0051.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCE9A62121B51E0631004FE0A48B9@37f98c48071d1118/info.json
+# ASTrap08719_0052.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DEE1203ADBCB6E0631004FE0AF36B@37f98c48071d1118/info.json
+# ASTrap08719_0053.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE92D5A2B9CDBE0631004FE0A4269@37f98c48071d1118/info.json
+# ASTrap08719_0054.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B53184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0055.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC1190106C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0056.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB574374A932FE0631004FE0ACC7A@37f98c48071d1118/info.json
+# ASTrap08719_0057.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC6B406875AF4E0631004FE0AF92B@37f98c48071d1118/info.json
+# ASTrap08719_0058.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB85821FB6DAFE0631004FE0AB3CA@37f98c48071d1118/info.json
+# ASTrap08719_0059.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB27378F64F7DE0631004FE0AC6A9@37f98c48071d1118/info.json
+# ASTrap08719_0060.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC421C07AEC43E0631004FE0A94B6@37f98c48071d1118/info.json
+# ASTrap08719_0061.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB77BC2889071E0631004FE0A8EF7@37f98c48071d1118/info.json
+# ASTrap08719_0062.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC1190137C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0063.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C71013D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0064.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCE8D9C11D87FE0631004FE0A1736@37f98c48071d1118/info.json
+# ASTrap08719_0065.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCABD2E90F665E0631004FE0ADB6B@37f98c48071d1118/info.json
+# ASTrap08719_0066.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC3F2FEB7F1C9E0631004FE0AB2ED@37f98c48071d1118/info.json
+# ASTrap08719_0067.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95CCB165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0068.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DEE1203A6BCB6E0631004FE0AF36B@37f98c48071d1118/info.json
+# ASTrap08719_0069.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB85821FC6DAFE0631004FE0AB3CA@37f98c48071d1118/info.json
+# ASTrap08719_0070.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B70184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0071.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB86DEA30B6FBE0631004FE0AACF2@37f98c48071d1118/info.json
+# ASTrap08719_0072.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD128F3A869CFE0631004FE0AA9D1@37f98c48071d1118/info.json
+# ASTrap08719_0073.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870FE5F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0074.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB6CEF88A9065E0631004FE0AFC96@37f98c48071d1118/info.json
+# ASTrap08719_0075.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC15D4245C013E0631004FE0A2729@37f98c48071d1118/info.json
+# ASTrap08719_0076.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBFD92D8AAF78E0631004FE0AE66B@37f98c48071d1118/info.json
+# ASTrap08719_0077.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEDE889A3F5FE0631004FE0A92C6@37f98c48071d1118/info.json
+# ASTrap08719_0078.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD08719544F8BE0631004FE0A8CDD@37f98c48071d1118/info.json
+# ASTrap08719_0079.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB5743731932FE0631004FE0ACC7A@37f98c48071d1118/info.json
+# ASTrap08719_0080.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB69457F165FE0631004FE0A9CF4@37f98c48071d1118/info.json
+# ASTrap08719_0081.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE8F4A91E8DF6E0631004FE0AFB37@37f98c48071d1118/info.json
+# ASTrap08719_0082.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE871015F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0083.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB574371A932FE0631004FE0ACC7A@37f98c48071d1118/info.json
+# ASTrap08719_0084.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C6FB13D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0085.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD128F3AD69CFE0631004FE0AA9D1@37f98c48071d1118/info.json
+# ASTrap08719_0086.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC3F6C4C0DC9DE0631004FE0AD97C@37f98c48071d1118/info.json
+# ASTrap08719_0087.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEF69E22561EE0631004FE0A5496@37f98c48071d1118/info.json
+# ASTrap08719_0088.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCABD2EB7F665E0631004FE0ADB6B@37f98c48071d1118/info.json
+# ASTrap08719_0089.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258CFABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0090.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA402715EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0091.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA402705EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0092.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC6B406835AF4E0631004FE0AF92B@37f98c48071d1118/info.json
+# ASTrap08719_0093.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC3F6C4D0DC9DE0631004FE0AD97C@37f98c48071d1118/info.json
+# ASTrap08719_0094.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA402605EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0095.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD5D013A269E5E0631004FE0A991E@37f98c48071d1118/info.json
+# ASTrap08719_0096.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258E3ABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0097.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDEA71B3F2D64E0631004FE0A817D@37f98c48071d1118/info.json
+# ASTrap08719_0098.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB7930E8C9B0DE0631004FE0ABD44@37f98c48071d1118/info.json
+# ASTrap08719_0099.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA4024C5EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0100.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB51A2D567730E0631004FE0AAC72@37f98c48071d1118/info.json
+# ASTrap08719_0101.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C74113D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0102.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DF0F37C18E3F6E0631004FE0AB875@37f98c48071d1118/info.json
+# ASTrap08719_0103.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA283254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0104.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC1190136C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0105.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C73813D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0106.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE92D5A3A9CDBE0631004FE0A4269@37f98c48071d1118/info.json
+# ASTrap08719_0107.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C74313D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0108.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCF99D94C1B4BE0631004FE0ABB99@37f98c48071d1118/info.json
+# ASTrap08719_0109.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD0A994C3416CE0631004FE0AB4A0@37f98c48071d1118/info.json
+# ASTrap08719_0110.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB27379034F7DE0631004FE0AC6A9@37f98c48071d1118/info.json
+# ASTrap08719_0111.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA153254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0112.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DEE1203A8BCB6E0631004FE0AF36B@37f98c48071d1118/info.json
+# ASTrap08719_0113.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870EE5F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0114.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DECF863E6BD26E0631004FE0A27EA@37f98c48071d1118/info.json
+# ASTrap08719_0115.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DAF56DF564A21E0631004FE0AA477@37f98c48071d1118/info.json
+# ASTrap08719_0116.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB6CEF86A9065E0631004FE0AFC96@37f98c48071d1118/info.json
+# ASTrap08719_0117.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC6B406925AF4E0631004FE0AF92B@37f98c48071d1118/info.json
+# ASTrap08719_0118.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB77BC26B9071E0631004FE0A8EF7@37f98c48071d1118/info.json
+# ASTrap08719_0119.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCF99D9361B4BE0631004FE0ABB99@37f98c48071d1118/info.json
+# ASTrap08719_0120.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA3E5F9DC97E0631004FE0ABF62@37f98c48071d1118/info.json
+# ASTrap08719_0121.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258D6ABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0122.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD128F3AE69CFE0631004FE0AA9D1@37f98c48071d1118/info.json
+# ASTrap08719_0123.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD128F3BB69CFE0631004FE0AA9D1@37f98c48071d1118/info.json
+# ASTrap08719_0124.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE95DABA0B087E0631004FE0A1946@37f98c48071d1118/info.json
+# ASTrap08719_0125.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA402675EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0126.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC11900F5C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0127.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAF9F53254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0128.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DFA950B4E35ECE0631004FE0A04DC@37f98c48071d1118/info.json
+# ASTrap08719_0129.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA3E5EDDC97E0631004FE0ABF62@37f98c48071d1118/info.json
+# ASTrap08719_0130.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C70A13D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0131.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE81F3A45BA53E0631004FE0A1D8C@37f98c48071d1118/info.json
+# ASTrap08719_0132.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB3883A3DC95E0631004FE0A52E5@37f98c48071d1118/info.json
+# ASTrap08719_0133.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95CC8165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0134.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB77BC2649071E0631004FE0A8EF7@37f98c48071d1118/info.json
+# ASTrap08719_0135.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB5743725932FE0631004FE0ACC7A@37f98c48071d1118/info.json
+# ASTrap08719_0136.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEDE88933F5FE0631004FE0A92C6@37f98c48071d1118/info.json
+# ASTrap08719_0137.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C73913D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0138.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA2D3254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0139.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE92D5A3E9CDBE0631004FE0A4269@37f98c48071d1118/info.json
+# ASTrap08719_0140.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870D95F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0141.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE8F4A9228DF6E0631004FE0AFB37@37f98c48071d1118/info.json
+# ASTrap08719_0142.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCE8D9C21D87FE0631004FE0A1736@37f98c48071d1118/info.json
+# ASTrap08719_0143.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB77BC2999071E0631004FE0A8EF7@37f98c48071d1118/info.json
+# ASTrap08719_0144.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCF99D9431B4BE0631004FE0ABB99@37f98c48071d1118/info.json
+# ASTrap08719_0145.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95CB1165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0146.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB694560165FE0631004FE0A9CF4@37f98c48071d1118/info.json
+# ASTrap08719_0147.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC11900FCC00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0148.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA402615EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0149.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95CC7165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0150.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA1C3254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0151.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B6C184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0152.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB85821F26DAFE0631004FE0AB3CA@37f98c48071d1118/info.json
+# ASTrap08719_0153.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD4748FC44F93E0631004FE0A2F72@37f98c48071d1118/info.json
+# ASTrap08719_0154.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE1BB10F283ECE0631004FE0AAC01@37f98c48071d1118/info.json
+# ASTrap08719_0155.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCE8D9C28D87FE0631004FE0A1736@37f98c48071d1118/info.json
+# ASTrap08719_0156.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870C65F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0157.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA402685EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0158.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC119011EC00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0159.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB388396DC95E0631004FE0A52E5@37f98c48071d1118/info.json
+# ASTrap08719_0160.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA163254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0161.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870DA5F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0162.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCE9A61F11B51E0631004FE0A48B9@37f98c48071d1118/info.json
+# ASTrap08719_0163.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C73613D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0164.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA3E5E1DC97E0631004FE0ABF62@37f98c48071d1118/info.json
+# ASTrap08719_0165.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC1190129C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0166.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE92D5A449CDBE0631004FE0A4269@37f98c48071d1118/info.json
+# ASTrap08719_0167.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C73B13D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0168.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258D4ABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0169.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB86DEA1FB6FBE0631004FE0AACF2@37f98c48071d1118/info.json
+# ASTrap08719_0170.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEF69E26561EE0631004FE0A5496@37f98c48071d1118/info.json
+# ASTrap08719_0171.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEDE88943F5FE0631004FE0A92C6@37f98c48071d1118/info.json
+# ASTrap08719_0172.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95CA8165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0173.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC119011CC00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0174.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCE073B19EC08E0631004FE0A2E63@37f98c48071d1118/info.json
+# ASTrap08719_0175.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEF69E18561EE0631004FE0A5496@37f98c48071d1118/info.json
+# ASTrap08719_0176.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC6B4068E5AF4E0631004FE0AF92B@37f98c48071d1118/info.json
+# ASTrap08719_0177.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA402785EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0178.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB694574165FE0631004FE0A9CF4@37f98c48071d1118/info.json
+# ASTrap08719_0179.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBAA2261C01D7E0631004FE0AC549@37f98c48071d1118/info.json
+# ASTrap08719_0180.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD128F3AF69CFE0631004FE0AA9D1@37f98c48071d1118/info.json
+# ASTrap08719_0181.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD4748FC74F93E0631004FE0A2F72@37f98c48071d1118/info.json
+# ASTrap08719_0182.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA3E5E4DC97E0631004FE0ABF62@37f98c48071d1118/info.json
+# ASTrap08719_0183.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC1190120C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0184.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC6B4067F5AF4E0631004FE0AF92B@37f98c48071d1118/info.json
+# ASTrap08719_0185.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB51A2D667730E0631004FE0AAC72@37f98c48071d1118/info.json
+# ASTrap08719_0186.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258C1ABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0187.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DECF863DDBD26E0631004FE0A27EA@37f98c48071d1118/info.json
+# ASTrap08719_0188.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB85822046DAFE0631004FE0AB3CA@37f98c48071d1118/info.json
+# ASTrap08719_0189.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA3E5E2DC97E0631004FE0ABF62@37f98c48071d1118/info.json
+# ASTrap08719_0190.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA3E5F5DC97E0631004FE0ABF62@37f98c48071d1118/info.json
+# ASTrap08719_0191.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCABD2EB4F665E0631004FE0ADB6B@37f98c48071d1118/info.json
+# ASTrap08719_0192.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870F25F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0193.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B63184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0194.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DECF863E4BD26E0631004FE0A27EA@37f98c48071d1118/info.json
+# ASTrap08719_0195.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95CA3165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0196.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870E05F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0197.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE8F4A9088DF6E0631004FE0AFB37@37f98c48071d1118/info.json
+# ASTrap08719_0198.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DEE4D3809C555E0631004FE0A7EFC@37f98c48071d1118/info.json
+# ASTrap08719_0199.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC15D4232C013E0631004FE0A2729@37f98c48071d1118/info.json
+# ASTrap08719_0200.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB6CEF8779065E0631004FE0AFC96@37f98c48071d1118/info.json
+# ASTrap08719_0201.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC1190134C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0202.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C74413D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0203.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDEA71B3A2D64E0631004FE0A817D@37f98c48071d1118/info.json
+# ASTrap08719_0204.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB77BC2919071E0631004FE0A8EF7@37f98c48071d1118/info.json
+# ASTrap08719_0205.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB6CEF86B9065E0631004FE0AFC96@37f98c48071d1118/info.json
+# ASTrap08719_0206.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD4449ED669DBE0631004FE0A5300@37f98c48071d1118/info.json
+# ASTrap08719_0207.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE8F4A9238DF6E0631004FE0AFB37@37f98c48071d1118/info.json
+# ASTrap08719_0208.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC119012EC00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0209.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95CC6165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0210.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB85821DC6DAFE0631004FE0AB3CA@37f98c48071d1118/info.json
+# ASTrap08719_0211.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD4748FD24F93E0631004FE0A2F72@37f98c48071d1118/info.json
+# ASTrap08719_0212.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870CC5F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0213.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB51A2D697730E0631004FE0AAC72@37f98c48071d1118/info.json
+# ASTrap08719_0214.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB694580165FE0631004FE0A9CF4@37f98c48071d1118/info.json
+# ASTrap08719_0215.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA1F3254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0216.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBFD92D8CAF78E0631004FE0AE66B@37f98c48071d1118/info.json
+# ASTrap08719_0217.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB3883A5DC95E0631004FE0A52E5@37f98c48071d1118/info.json
+# ASTrap08719_0218.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE871045F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0219.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD128F3BD69CFE0631004FE0AA9D1@37f98c48071d1118/info.json
+# ASTrap08719_0220.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB6CEF86F9065E0631004FE0AFC96@37f98c48071d1118/info.json
+# ASTrap08719_0221.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C73013D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0222.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCE8D9C29D87FE0631004FE0A1736@37f98c48071d1118/info.json
+# ASTrap08719_0223.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCABD2EB8F665E0631004FE0ADB6B@37f98c48071d1118/info.json
+# ASTrap08719_0224.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B51184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0225.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCE8D9C0BD87FE0631004FE0A1736@37f98c48071d1118/info.json
+# ASTrap08719_0226.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B5E184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0227.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DF1CB85B4A6BEE0631004FE0A6096@37f98c48071d1118/info.json
+# ASTrap08719_0228.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE81F3A47BA53E0631004FE0A1D8C@37f98c48071d1118/info.json
+# ASTrap08719_0229.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC6B406AB5AF4E0631004FE0AF92B@37f98c48071d1118/info.json
+# ASTrap08719_0230.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DEE4D3803C555E0631004FE0A7EFC@37f98c48071d1118/info.json
+# ASTrap08719_0231.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBFD92D7CAF78E0631004FE0AE66B@37f98c48071d1118/info.json
+# ASTrap08719_0232.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA0F3254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0233.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC6B406985AF4E0631004FE0AF92B@37f98c48071d1118/info.json
+# ASTrap08719_0234.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC11900F7C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0235.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB3883A4DC95E0631004FE0A52E5@37f98c48071d1118/info.json
+# ASTrap08719_0236.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB86DEA20B6FBE0631004FE0AACF2@37f98c48071d1118/info.json
+# ASTrap08719_0237.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95C94165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0238.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B59184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0239.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAF9E63254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0240.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DEC199EA79073E0631004FE0A2415@37f98c48071d1118/info.json
+# ASTrap08719_0241.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC3F6C4C9DC9DE0631004FE0AD97C@37f98c48071d1118/info.json
+# ASTrap08719_0242.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870EF5F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0243.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB77BC2899071E0631004FE0A8EF7@37f98c48071d1118/info.json
+# ASTrap08719_0244.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB5743743932FE0631004FE0ACC7A@37f98c48071d1118/info.json
+# ASTrap08719_0245.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEF69E2F561EE0631004FE0A5496@37f98c48071d1118/info.json
+# ASTrap08719_0246.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DAF56DF604A21E0631004FE0AA477@37f98c48071d1118/info.json
+# ASTrap08719_0247.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC1190109C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0248.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95C9A165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0249.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B2B184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0250.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B56184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0251.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA143254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0252.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCABD2EA7F665E0631004FE0ADB6B@37f98c48071d1118/info.json
+# ASTrap08719_0253.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEDE88863F5FE0631004FE0A92C6@37f98c48071d1118/info.json
+# ASTrap08719_0254.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB77BC29A9071E0631004FE0A8EF7@37f98c48071d1118/info.json
+# ASTrap08719_0255.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA4025C5EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0256.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA263254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0257.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB694575165FE0631004FE0A9CF4@37f98c48071d1118/info.json
+# ASTrap08719_0258.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB27378EF4F7DE0631004FE0AC6A9@37f98c48071d1118/info.json
+# ASTrap08719_0259.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCE073B06EC08E0631004FE0A2E63@37f98c48071d1118/info.json
+# ASTrap08719_0260.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA402755EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0261.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870E85F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0262.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD128F3BF69CFE0631004FE0AA9D1@37f98c48071d1118/info.json
+# ASTrap08719_0263.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCABD2E9FF665E0631004FE0ADB6B@37f98c48071d1118/info.json
+# ASTrap08719_0264.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCABD2EB5F665E0631004FE0ADB6B@37f98c48071d1118/info.json
+# ASTrap08719_0265.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC1190128C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0266.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD5D013A369E5E0631004FE0A991E@37f98c48071d1118/info.json
+# ASTrap08719_0267.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBBA4024F5EABE0631004FE0A217B@37f98c48071d1118/info.json
+# ASTrap08719_0268.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB96258BFABFAE0631004FE0A002C@37f98c48071d1118/info.json
+# ASTrap08719_0269.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DFA950B4D35ECE0631004FE0A04DC@37f98c48071d1118/info.json
+# ASTrap08719_0270.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEDE888D3F5FE0631004FE0A92C6@37f98c48071d1118/info.json
+# ASTrap08719_0271.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C71313D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0272.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBFD92D92AF78E0631004FE0AE66B@37f98c48071d1118/info.json
+# ASTrap08719_0273.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA0B3254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0274.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95CA4165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0275.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DF0F37C1BE3F6E0631004FE0AB875@37f98c48071d1118/info.json
+# ASTrap08719_0276.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DDCE870F95F50E0631004FE0A1A51@37f98c48071d1118/info.json
+# ASTrap08719_0277.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD2FAFA043254E0631004FE0A34D4@37f98c48071d1118/info.json
+# ASTrap08719_0278.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB38838CDC95E0631004FE0A52E5@37f98c48071d1118/info.json
+# ASTrap08719_0279.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB69457C165FE0631004FE0A9CF4@37f98c48071d1118/info.json
+# ASTrap08719_0280.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB6CEF8549065E0631004FE0AFC96@37f98c48071d1118/info.json
+# ASTrap08719_0281.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB69455C165FE0631004FE0A9CF4@37f98c48071d1118/info.json
+# ASTrap08719_0282.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B48184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0283.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC119010DC00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0284.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DE81F3A42BA53E0631004FE0A1D8C@37f98c48071d1118/info.json
+# ASTrap08719_0285.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9C6C73D13D3E0631004FE0A16C9@37f98c48071d1118/info.json
+# ASTrap08719_0286.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCEF69E05561EE0631004FE0A5496@37f98c48071d1118/info.json
+# ASTrap08719_0287.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC1190135C00DE0631004FE0A2D65@37f98c48071d1118/info.json
+# ASTrap08719_0288.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB38839DDC95E0631004FE0A52E5@37f98c48071d1118/info.json
+# ASTrap08719_0289.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB77BC2959071E0631004FE0A8EF7@37f98c48071d1118/info.json
+# ASTrap08719_0290.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD087194D4F8BE0631004FE0A8CDD@37f98c48071d1118/info.json
+# ASTrap08719_0291.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B50184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0292.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBFD92D7EAF78E0631004FE0AE66B@37f98c48071d1118/info.json
+# ASTrap08719_0293.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBB3883ABDC95E0631004FE0A52E5@37f98c48071d1118/info.json
+# ASTrap08719_0294.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB9E95CB2165AE0631004FE0A0DF1@37f98c48071d1118/info.json
+# ASTrap08719_0295.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DCFBC9B22184AE0631004FE0A858C@37f98c48071d1118/info.json
+# ASTrap08719_0296.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DD128F3C069CFE0631004FE0AA9D1@37f98c48071d1118/info.json
+# ASTrap08719_0297.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DC15D4248C013E0631004FE0A2729@37f98c48071d1118/info.json
+# ASTrap08719_0298.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB6CEF87A9065E0631004FE0AFC96@37f98c48071d1118/info.json
+# ASTrap08719_0299.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DEC199EB19073E0631004FE0A2415@37f98c48071d1118/info.json
+# ASTrap08719_0300.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DBAA2261801D7E0631004FE0AC549@37f98c48071d1118/info.json
+# ASTrap08719_0301.jpg
+https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/iiif/3/511DB86DEA15B6FBE0631004FE0AACF2@37f98c48071d1118/info.json
