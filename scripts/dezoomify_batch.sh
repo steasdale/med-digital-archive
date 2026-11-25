@@ -81,7 +81,11 @@ for i in "${!URLS[@]}"; do
   LABEL="${LABELS[$i]}"
 
   # UUID from URL
-  UUID=$(echo "$URL" | grep -oE '[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}')
+  UUID=$(echo "$URL" | grep -oE '[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}' || true)
+  # New-portal URLs carry no UUID; fall back to the 32-hex id before the @
+  if [[ -z "$UUID" ]]; then
+    UUID=$(echo "$URL" | grep -oE '[0-9A-F]{32}' | tail -1 || true)
+  fi
 
   # Filename: use the full canvas label as the output filename (minus
   # whatever image extension it already carries), not just the part after
