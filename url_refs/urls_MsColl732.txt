@@ -1,0 +1,284 @@
+# F1_01r
+https://iiif-images.library.upenn.edu/iiif/3/23e00dff-a514-400e-b8aa-adbe59db3029/info.json
+# F1_01v
+https://iiif-images.library.upenn.edu/iiif/3/02b100da-58c2-47fa-82d3-fc865e2c8b5c/info.json
+# F1_02r
+https://iiif-images.library.upenn.edu/iiif/3/7a373298-de65-4957-b8ea-e8ef5a792c6c/info.json
+# F1_02v
+https://iiif-images.library.upenn.edu/iiif/3/7e4f59b0-9270-4970-9257-7e4f7a15c7a3/info.json
+# F1_03r
+https://iiif-images.library.upenn.edu/iiif/3/941b135c-00ea-41ab-a52c-b6f9b9f813ad/info.json
+# F1_03v
+https://iiif-images.library.upenn.edu/iiif/3/6b700d99-f1da-4f62-99a9-70829b03bca6/info.json
+# F1_04r
+https://iiif-images.library.upenn.edu/iiif/3/cf8b1db4-4a53-4f20-8c46-6a27fc3f4790/info.json
+# F1_04v
+https://iiif-images.library.upenn.edu/iiif/3/712b32b9-1205-4105-96ef-ec1e1884195f/info.json
+# F1_05r
+https://iiif-images.library.upenn.edu/iiif/3/11fe14c0-9e6f-4e2d-96a5-b8b136ebf69c/info.json
+# F1_05v
+https://iiif-images.library.upenn.edu/iiif/3/840931fd-eeec-4605-8dc6-511fd743e82c/info.json
+# F1_06r
+https://iiif-images.library.upenn.edu/iiif/3/07c9e14e-2928-4b11-8a92-ac3259b61886/info.json
+# F1_06v
+https://iiif-images.library.upenn.edu/iiif/3/410fd61f-ea3f-4852-a838-3fe588e6eafe/info.json
+# F1_07r
+https://iiif-images.library.upenn.edu/iiif/3/096b26e5-d024-4cd7-8034-fa168419c620/info.json
+# F1_07v
+https://iiif-images.library.upenn.edu/iiif/3/98710782-9bfe-493b-ac8c-03e0c07cddd4/info.json
+# F1_08r
+https://iiif-images.library.upenn.edu/iiif/3/3042cc9b-9958-49cb-9be5-66b18fcaa722/info.json
+# F1_08v
+https://iiif-images.library.upenn.edu/iiif/3/acaae4be-288e-4150-bfbb-d73bdd2927a7/info.json
+# F1_09r
+https://iiif-images.library.upenn.edu/iiif/3/6f1cb60e-e3b9-4d45-9d89-0e4ad0b62db5/info.json
+# F1_09v
+https://iiif-images.library.upenn.edu/iiif/3/c3faba79-538b-422a-bf47-e139b27511e5/info.json
+# F1_10r
+https://iiif-images.library.upenn.edu/iiif/3/d8331bb3-6eb6-47ee-aa48-5325adabe9f0/info.json
+# F1_10v
+https://iiif-images.library.upenn.edu/iiif/3/61a7d6aa-344d-45e3-b41d-73291299072c/info.json
+# F1_11r
+https://iiif-images.library.upenn.edu/iiif/3/717d1315-2e38-4e48-8543-8f6c9e18e7b4/info.json
+# F1_11v
+https://iiif-images.library.upenn.edu/iiif/3/fbcb22ab-8bbd-41c9-9cec-0781af3be067/info.json
+# F1_12r
+https://iiif-images.library.upenn.edu/iiif/3/14b82b23-434b-49f9-81e3-41a88f146cb6/info.json
+# F1_12v
+https://iiif-images.library.upenn.edu/iiif/3/6826b733-5cc6-4073-9b0e-5b2c4e93fdfe/info.json
+# F1_13r
+https://iiif-images.library.upenn.edu/iiif/3/3a40b766-8dbe-4d6f-a959-6e28e5d36aad/info.json
+# F1_13v
+https://iiif-images.library.upenn.edu/iiif/3/0e68be55-37c5-43a5-b960-c1bd918db63a/info.json
+# F1_14r
+https://iiif-images.library.upenn.edu/iiif/3/4fd39c75-1f26-402c-b9b0-3efd6965c9d0/info.json
+# F1_14v
+https://iiif-images.library.upenn.edu/iiif/3/7df29334-3262-4d06-8c1d-30a991c7a629/info.json
+# F1_15r
+https://iiif-images.library.upenn.edu/iiif/3/a8650304-7101-485d-a39e-0d5a6d2dec27/info.json
+# F1_15v
+https://iiif-images.library.upenn.edu/iiif/3/9903de5a-9fda-47da-8650-16a23e305444/info.json
+# F1_16r
+https://iiif-images.library.upenn.edu/iiif/3/df0a2311-2ad8-45a6-870d-ce8a0f380635/info.json
+# F1_16v
+https://iiif-images.library.upenn.edu/iiif/3/1474c94e-7554-458f-b816-dbfac1ec94dd/info.json
+# F1_17r
+https://iiif-images.library.upenn.edu/iiif/3/e41f320b-d1e1-486e-9f56-78018f1a4306/info.json
+# F1_17v
+https://iiif-images.library.upenn.edu/iiif/3/d55ffec2-e118-4f44-a56b-59461dca9192/info.json
+# F1_18r
+https://iiif-images.library.upenn.edu/iiif/3/a422c647-7eb3-4120-be11-20c0dc60f0d9/info.json
+# F1_18v
+https://iiif-images.library.upenn.edu/iiif/3/80b455c7-afa9-41a6-8893-25c0216ec92a/info.json
+# F1_19r
+https://iiif-images.library.upenn.edu/iiif/3/c35b4c25-0a90-476f-8dbd-abf15e6a32c5/info.json
+# F1_19v
+https://iiif-images.library.upenn.edu/iiif/3/15d5bd35-8ad4-4112-9d0c-641614b05484/info.json
+# F1_20r
+https://iiif-images.library.upenn.edu/iiif/3/54237adb-ad55-4b0a-9b77-dd09d62654a6/info.json
+# F1_20v
+https://iiif-images.library.upenn.edu/iiif/3/83ab9fb7-cfde-4e4a-8d07-d13a8c0a8aeb/info.json
+# F1_21r
+https://iiif-images.library.upenn.edu/iiif/3/52ff59fa-af51-448c-9383-91acd2ee6233/info.json
+# F1_21v
+https://iiif-images.library.upenn.edu/iiif/3/d74d3d50-1a99-4e4c-b7f5-ed8c87a0aed2/info.json
+# F1_22r
+https://iiif-images.library.upenn.edu/iiif/3/7a75e42b-b595-4c34-b31b-b816ee4faf9e/info.json
+# F1_22v
+https://iiif-images.library.upenn.edu/iiif/3/95f13870-dc07-40f3-ad53-4f43ab440e7b/info.json
+# F1_23r
+https://iiif-images.library.upenn.edu/iiif/3/4b0db6b2-dc42-46c1-b62c-3fc66f3a6318/info.json
+# F1_23v
+https://iiif-images.library.upenn.edu/iiif/3/2b8a6f1a-9020-4186-a061-93cc436e149f/info.json
+# F1_24r
+https://iiif-images.library.upenn.edu/iiif/3/9406310b-acfa-40b8-b393-54138abe1b2d/info.json
+# F1_24v
+https://iiif-images.library.upenn.edu/iiif/3/5191cf99-fa36-40d9-ba45-b482d3aad408/info.json
+# F1_25r
+https://iiif-images.library.upenn.edu/iiif/3/5ec04340-74c2-45d6-8d54-9d04338885d4/info.json
+# F1_25v
+https://iiif-images.library.upenn.edu/iiif/3/db607164-89af-42ca-8f80-b4484064db58/info.json
+# F1_26r
+https://iiif-images.library.upenn.edu/iiif/3/babeac25-bc30-430a-a4c3-66b363899d1b/info.json
+# F1_26v
+https://iiif-images.library.upenn.edu/iiif/3/4f3f05d4-23df-41d6-93a2-6de721961fd6/info.json
+# F1_27r
+https://iiif-images.library.upenn.edu/iiif/3/9ec8c8ce-15de-4d94-b1ff-23b6a3d9adc4/info.json
+# F1_27v
+https://iiif-images.library.upenn.edu/iiif/3/b6f07f82-3b4e-4255-a136-82b9e72c1477/info.json
+# F2_01r
+https://iiif-images.library.upenn.edu/iiif/3/c58d2f9c-6b41-4462-9d6e-a649aa2ec784/info.json
+# F2_01v
+https://iiif-images.library.upenn.edu/iiif/3/757aeca6-0ffb-4457-8ec9-72e26ca485b1/info.json
+# F2_02r
+https://iiif-images.library.upenn.edu/iiif/3/45619878-3ee1-48b3-8633-c4792a20d474/info.json
+# F2_02v
+https://iiif-images.library.upenn.edu/iiif/3/3fbc26b9-b25b-4aa6-8bf1-2c484d0e4ea9/info.json
+# F2_03r
+https://iiif-images.library.upenn.edu/iiif/3/9e4fe84d-63c3-471d-ae9e-47e15cfa110a/info.json
+# F2_03v
+https://iiif-images.library.upenn.edu/iiif/3/9f02aeb8-ae56-4317-ac3d-7398b86f464d/info.json
+# F2_04r
+https://iiif-images.library.upenn.edu/iiif/3/af3ee53b-0d08-453a-9408-b7c17edbedcb/info.json
+# F2_04v
+https://iiif-images.library.upenn.edu/iiif/3/89e6f76b-9dfb-40e8-96c2-6a6dcb8804ce/info.json
+# F3_01r
+https://iiif-images.library.upenn.edu/iiif/3/c70a88de-56fb-4d50-8363-d2f3f0c6c7b6/info.json
+# F3_01v
+https://iiif-images.library.upenn.edu/iiif/3/6e59863d-e39f-4e62-8920-5770ba395467/info.json
+# F3_02r
+https://iiif-images.library.upenn.edu/iiif/3/17b86e36-1981-40e4-a074-edb397495e53/info.json
+# F3_02v
+https://iiif-images.library.upenn.edu/iiif/3/ab2b4bf5-1506-4a92-b3b8-fd9493e800f4/info.json
+# F4_01r
+https://iiif-images.library.upenn.edu/iiif/3/ba29fee2-327c-4d9c-a515-1d819b9693ee/info.json
+# F4_01v
+https://iiif-images.library.upenn.edu/iiif/3/03518da6-2a0c-4a5d-b623-767df14c3cd7/info.json
+# F4_02r
+https://iiif-images.library.upenn.edu/iiif/3/d5a25c73-5d71-4843-984c-64fda3cb6a9e/info.json
+# F4_02v
+https://iiif-images.library.upenn.edu/iiif/3/0ed3fee8-24e8-4708-8d83-d1bf8f647fcf/info.json
+# F5_01r
+https://iiif-images.library.upenn.edu/iiif/3/01cedc68-6ff2-4803-9bcb-4d48336261e5/info.json
+# F5_01v
+https://iiif-images.library.upenn.edu/iiif/3/1f50c9f0-5ef1-4837-80fb-d63ef7ea7bc3/info.json
+# F5_02r
+https://iiif-images.library.upenn.edu/iiif/3/6ba17958-dd5a-49c9-9ea5-03adf29be6d9/info.json
+# F5_02v
+https://iiif-images.library.upenn.edu/iiif/3/02d53190-38e6-449c-be5a-0da4c797497f/info.json
+# F5_03r
+https://iiif-images.library.upenn.edu/iiif/3/12132fe6-0737-411a-8f30-100806d8aeb6/info.json
+# F5_03v
+https://iiif-images.library.upenn.edu/iiif/3/74634b65-9219-44b9-9fe3-59b90c1eb39c/info.json
+# F5_04r
+https://iiif-images.library.upenn.edu/iiif/3/4c363704-f7be-46c3-9cda-223f394fbac3/info.json
+# F5_04v
+https://iiif-images.library.upenn.edu/iiif/3/035b52bd-fdb6-454a-bf6d-0d495726effc/info.json
+# F5_05r
+https://iiif-images.library.upenn.edu/iiif/3/b69395a6-f63b-44ab-b137-1355b8e4e0ba/info.json
+# F5_05v
+https://iiif-images.library.upenn.edu/iiif/3/34398a12-2d53-4fd7-bab1-cb788f67d9d7/info.json
+# F5_06r
+https://iiif-images.library.upenn.edu/iiif/3/2b2cd8c5-f230-402f-ae63-b398a338843a/info.json
+# F5_06v
+https://iiif-images.library.upenn.edu/iiif/3/fa84ed9b-e6e8-45b2-af71-090f3584c77c/info.json
+# F5_07r
+https://iiif-images.library.upenn.edu/iiif/3/37cd07d3-5d91-4fd5-92ac-251910df9aec/info.json
+# F5_07v
+https://iiif-images.library.upenn.edu/iiif/3/173733df-d3b2-4568-a016-2700391740ab/info.json
+# F5_08r
+https://iiif-images.library.upenn.edu/iiif/3/d607df24-6b48-4f65-b94c-3cab5e19a113/info.json
+# F5_08v
+https://iiif-images.library.upenn.edu/iiif/3/2b540680-6973-4044-8871-d0502d8ca45c/info.json
+# F5_09r
+https://iiif-images.library.upenn.edu/iiif/3/204d5fe6-2fde-47ae-a3c6-2cd90fb14f48/info.json
+# F5_09v
+https://iiif-images.library.upenn.edu/iiif/3/41e164ec-20eb-4171-9cac-1260d8d2b171/info.json
+# F5_10r
+https://iiif-images.library.upenn.edu/iiif/3/46e66300-25db-48bb-87ee-dcfdc312491a/info.json
+# F5_10v
+https://iiif-images.library.upenn.edu/iiif/3/0880294d-038d-412c-8fd4-2de582485b5d/info.json
+# F5_11r
+https://iiif-images.library.upenn.edu/iiif/3/83e1b9fe-395b-4bf8-854e-7d1cfccffa23/info.json
+# F5_11v
+https://iiif-images.library.upenn.edu/iiif/3/87720d80-e9be-41b3-a434-98cb4af215bc/info.json
+# F5_12r
+https://iiif-images.library.upenn.edu/iiif/3/bdbf0c81-f48d-466a-9309-41fe7e81be10/info.json
+# F5_12v
+https://iiif-images.library.upenn.edu/iiif/3/c5e94729-3585-4881-a9fa-5e4be0ba2cdf/info.json
+# F5_13r
+https://iiif-images.library.upenn.edu/iiif/3/b61d970a-4c86-436b-8017-1bca837c7501/info.json
+# F5_13v
+https://iiif-images.library.upenn.edu/iiif/3/c6e40382-b604-4712-b9b8-5f5e7763121c/info.json
+# F5_14r
+https://iiif-images.library.upenn.edu/iiif/3/a623bf34-2a80-4ec2-9642-326471a24c47/info.json
+# F5_14v
+https://iiif-images.library.upenn.edu/iiif/3/bae03e6d-dfda-4127-acc2-f8c25184284c/info.json
+# F5_15r
+https://iiif-images.library.upenn.edu/iiif/3/6530138b-ac26-436f-84e6-f918ce49d332/info.json
+# F5_15v
+https://iiif-images.library.upenn.edu/iiif/3/06e9942a-a443-4a7e-8265-d810ffcf34f4/info.json
+# F5_16r
+https://iiif-images.library.upenn.edu/iiif/3/7d273b55-e005-4236-bc88-3df9d053fb94/info.json
+# F5_16v
+https://iiif-images.library.upenn.edu/iiif/3/fc285d6e-3e76-47cf-80a0-14debe405c44/info.json
+# F5_17r
+https://iiif-images.library.upenn.edu/iiif/3/0908ebc7-75ed-4c9d-aa97-7484ad2bbd51/info.json
+# F5_17v
+https://iiif-images.library.upenn.edu/iiif/3/3b2b1f1b-e732-47a3-8913-1ae02fe53bbd/info.json
+# F5_18r
+https://iiif-images.library.upenn.edu/iiif/3/adb2f950-6bde-4e24-b430-631808f5c4c7/info.json
+# F5_18v
+https://iiif-images.library.upenn.edu/iiif/3/d2dc2222-1029-48bb-a8c4-ebeccc05d4e0/info.json
+# F6_01r
+https://iiif-images.library.upenn.edu/iiif/3/5698111e-a49b-4d32-a9c1-855e16785591/info.json
+# F6_01v
+https://iiif-images.library.upenn.edu/iiif/3/36e3942d-e9a0-428f-8127-de36643ed307/info.json
+# F6_02r
+https://iiif-images.library.upenn.edu/iiif/3/e694f229-1808-483c-a1a5-ee75eea1dad2/info.json
+# F6_02v
+https://iiif-images.library.upenn.edu/iiif/3/ae21d9ee-155b-48ba-afa5-ed02dc0ac72c/info.json
+# F6_03r
+https://iiif-images.library.upenn.edu/iiif/3/4ecc57c9-e4ef-4d76-b745-96a9575af78f/info.json
+# F6_03v
+https://iiif-images.library.upenn.edu/iiif/3/b3ed58cb-4fe3-427c-93a7-fc84d815fd03/info.json
+# F6_04r
+https://iiif-images.library.upenn.edu/iiif/3/20c72171-839b-4f30-9ec9-c38013bb02fe/info.json
+# F6_04v
+https://iiif-images.library.upenn.edu/iiif/3/2be10d88-062f-42de-b5eb-2fc2acc98202/info.json
+# F6_05r
+https://iiif-images.library.upenn.edu/iiif/3/faebf284-7639-4a8f-953d-8170f94e00ca/info.json
+# F6_05v
+https://iiif-images.library.upenn.edu/iiif/3/4981d054-85e7-422d-8cb7-bdac82ee9ff5/info.json
+# F6_06r
+https://iiif-images.library.upenn.edu/iiif/3/398f7df0-2c78-4ea8-8613-18d62e93afd7/info.json
+# F6_06v
+https://iiif-images.library.upenn.edu/iiif/3/83d95e48-4177-4828-8a7c-5c12ae02cc5c/info.json
+# F7_01r
+https://iiif-images.library.upenn.edu/iiif/3/4e050bbb-faac-4a06-a440-9191346b6f52/info.json
+# F7_01v
+https://iiif-images.library.upenn.edu/iiif/3/9a931caa-3610-457e-b1e0-6a6b1d65619a/info.json
+# F7_02r
+https://iiif-images.library.upenn.edu/iiif/3/995ec621-2cfd-4af6-86ca-94a8cb13341b/info.json
+# F7_02v
+https://iiif-images.library.upenn.edu/iiif/3/210730cf-f22e-4c8a-b15e-e3a7a8b015bb/info.json
+# F7_03r
+https://iiif-images.library.upenn.edu/iiif/3/dc0fe4d7-1fc0-46c2-b726-59835d6b8c29/info.json
+# F7_03v
+https://iiif-images.library.upenn.edu/iiif/3/fa3226e6-1bef-4bb6-ad6c-4b8d110259f0/info.json
+# F7_04r
+https://iiif-images.library.upenn.edu/iiif/3/4689fc28-5e04-413c-bf62-dc6b0951a637/info.json
+# F7_04v
+https://iiif-images.library.upenn.edu/iiif/3/8d32eb2b-84ed-4259-b0ee-4282a2436f1c/info.json
+# F7_05r
+https://iiif-images.library.upenn.edu/iiif/3/4cc99572-4771-43e2-978f-6233859a398e/info.json
+# F7_05v
+https://iiif-images.library.upenn.edu/iiif/3/2a28688e-7489-4b46-8fbf-84f480e24e1e/info.json
+# F7_06r
+https://iiif-images.library.upenn.edu/iiif/3/a338645f-575b-49ff-8b58-1b8d4662d2ba/info.json
+# F7_06v
+https://iiif-images.library.upenn.edu/iiif/3/56e9e9af-24c7-4406-a5e0-029a9ec6a41a/info.json
+# F7_07r
+https://iiif-images.library.upenn.edu/iiif/3/c0261253-3622-4397-b966-3f07a1c72a0d/info.json
+# F7_07v
+https://iiif-images.library.upenn.edu/iiif/3/ac7ba95e-4dc8-4f33-82a5-c973a7107c41/info.json
+# F7_08r
+https://iiif-images.library.upenn.edu/iiif/3/202bf157-b671-41cf-b462-effd96079e19/info.json
+# F7_08v
+https://iiif-images.library.upenn.edu/iiif/3/1e1441c6-d9bf-4bc7-adcc-f2b1d2815e8d/info.json
+# F7_09r
+https://iiif-images.library.upenn.edu/iiif/3/65af284c-5462-4dfa-be99-35fbab53232c/info.json
+# F7_09v
+https://iiif-images.library.upenn.edu/iiif/3/6c52af4e-d819-4dc7-a67a-b3f732c68ef3/info.json
+# F7_10r
+https://iiif-images.library.upenn.edu/iiif/3/97e1cb7b-9509-4bc2-bb14-e93d5f0f42bf/info.json
+# F7_10v
+https://iiif-images.library.upenn.edu/iiif/3/4b9a336c-cbe6-41b1-b90d-bc5c01d0c314/info.json
+# F8_01r
+https://iiif-images.library.upenn.edu/iiif/3/4ebbc969-4e14-469a-adb1-e5f8bbdd1812/info.json
+# F8_01v
+https://iiif-images.library.upenn.edu/iiif/3/0c5ef21f-c61d-4c09-b14b-ad0f28a9c3f5/info.json
+# F8_02r
+https://iiif-images.library.upenn.edu/iiif/3/05ccfe8b-27bc-45c3-af48-0b50e91d6876/info.json
+# F8_02v
+https://iiif-images.library.upenn.edu/iiif/3/ac8e44c6-251e-4e48-8d0e-d407a773e38a/info.json
